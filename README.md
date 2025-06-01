@@ -1,0 +1,2 @@
+# KY
+Korteriühistu põhikiri
