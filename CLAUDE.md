@@ -17,6 +17,8 @@ Searchable archive of Estonian apartment association (korteriühistu) legal docu
 │   ├── Kaebus advokatuurile/   # Complaint to bar association
 │   └── Aivar Orukaselt/        # Related case documents
 ├── põhikirjad/                 # KÜ bylaws (2019, 2023, 2024)
+├── .serena/                    # Serena AI assistant config
+│   └── memories/               # Project knowledge (read these first!)
 └── .github/
     ├── scripts/xml_to_md.py    # Law XML→Markdown converter
     └── workflows/              # Auto-conversion on .akt push
@@ -50,6 +52,12 @@ Searchable archive of Estonian apartment association (korteriühistu) legal docu
 - Structure: osa → peatükk → jagu → paragrahv → lõige → alampunkt
 
 ## For AI Assistants
+
+### Serena Memories
+Read `.serena/memories/` first for project context:
+- `project_overview.md` - Current content and structure
+- `law-documentation-strategy.md` - File formats and converter status
+- `conventions.md` - Naming conventions
 
 ### Key Estonian Legal Terms
 - **KÜ** - Korteriühistu (apartment association)
