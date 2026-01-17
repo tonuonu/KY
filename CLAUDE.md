@@ -9,12 +9,25 @@ Serve as a searchable archive of legal documents for reference and analysis. Law
 ## Structure
 
 ```
-├── kohus/           # Court judgments (kohtuotsused)
-├── põhikirjad/      # Bylaws (põhikirjad)
-├── seadused/        # Laws (future)
-├── lepingud/        # Contracts (future)
-└── protokollid/     # Meeting minutes (future)
+├── kohus/                      # Court judgments and proceedings
+│   ├── 2-23-16691-*            # Main case: Võistluse tn 6 KÜ vs Tycoon OÜ
+│   ├── Kaebus advokatuurile/   # Complaint to bar association
+│   │   └── kaebus/             # Attachments (Lisa 1-6)
+│   └── Aivar Orukaselt/        # Related case documents
+├── põhikirjad/                 # Bylaws (põhikirjad)
+├── seadused/                   # Laws (future)
+├── lepingud/                   # Contracts (future)
+└── protokollid/                # Meeting minutes (future)
 ```
+
+## File Types
+
+- `.md` - Markdown (preferred, searchable)
+- `.txt` - Plain text conversions
+- `.pdf` - Original court documents
+- `.docx` - Original court documents
+- `.asice` - Digitally signed Estonian documents
+- `.mp3` - Court hearing recordings
 
 ## Document Naming Convention
 
