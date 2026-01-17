@@ -1,0 +1,2363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oigusakt xsi:schemaLocation="tyviseadus_1_10.02.2010 http://xmlr.eesti.ee/xml/schemas/oigusakt/tyviseadus_1_10.02.2010.xsd" xmlns="tyviseadus_1_10.02.2010" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metaandmed>
+		<valjaandja>Riigikogu</valjaandja>
+		<dokumentLiik>seadus</dokumentLiik>
+		<tekstiliik>terviktekst</tekstiliik>
+		
+		<lyhend>AÕSRS</lyhend><dokumentEtapp>avaldamine</dokumentEtapp>
+		<dokumentStaatus>avaldatud</dokumentStaatus>
+		<vastuvoetud>
+			<aktikuupaev>1993-10-27</aktikuupaev>
+			<avaldamismarge>
+				<RTosa>RT I</RTosa>
+				<RTaasta>1993</RTaasta>
+				<RTnr>72</RTnr>
+				<RTartikkel>1021</RTartikkel>
+				<aktViide>28596</aktViide>
+			</avaldamismarge>
+			<joustumine>1993-12-01</joustumine>
+		</vastuvoetud>
+		
+		<avaldamismarge><RTosa>RT I</RTosa><avaldamineKuupaev>2024-12-04</avaldamineKuupaev><RTaasta>2024</RTaasta><RTartikkel>3</RTartikkel><aktViide>104122024003</aktViide></avaldamismarge><kehtivus>
+			<kehtivuseAlgus>2025-01-01</kehtivuseAlgus>
+		</kehtivus>
+		<skeemiNimi>tyviseadus_1_10.02.2010.xsd</skeemiNimi>
+		<globaalID>104122024003</globaalID>
+		<metaandmedVersioon>46</metaandmedVersioon>
+		<metaandmedVersioonKuupaev>2024-12-03</metaandmedVersioonKuupaev>
+		<metaandmedVersioonPohjustaja>Maret Mauer</metaandmedVersioonPohjustaja>
+		<terviktekstiGrupiID>159222</terviktekstiGrupiID>
+	</metaandmed>
+	<aktinimi>
+		<nimi>
+			<pealkiri>Asjaõigusseaduse rakendamise seadus</pealkiri>
+		</nimi>
+	</aktinimi>
+	<muutmismarge>
+		<aktikuupaev>1994-06-28</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1994</RTaasta>
+			<RTnr>53</RTnr>
+			<RTartikkel>889</RTartikkel>
+			<aktViide>28695</aktViide>
+		</avaldamismarge>
+		<joustumine>1994-09-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>1994-12-14</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1994</RTaasta>
+			<RTnr>94</RTnr>
+			<RTartikkel>1609</RTartikkel>
+			<aktViide>30499</aktViide>
+		</avaldamismarge>
+		<joustumine>1994-12-29</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>1995-02-15</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1995</RTaasta>
+			<RTnr>22</RTnr>
+			<RTartikkel>327</RTartikkel>
+			<aktViide>28743</aktViide>
+		</avaldamismarge>
+		<joustumine>1995-03-20</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>1995-06-14</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1995</RTaasta>
+			<RTnr>57</RTnr>
+			<RTartikkel>979</RTartikkel>
+			<aktViide>28424</aktViide>
+		</avaldamismarge>
+		<joustumine>1995-07-21</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>1996-04-30</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1996</RTaasta>
+			<RTnr>36</RTnr>
+			<RTartikkel>738</RTartikkel>
+			<aktViide>28543</aktViide>
+		</avaldamismarge>
+		<joustumine>1996-06-07</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>1996-12-11</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1997</RTaasta>
+			<RTnr>1</RTnr>
+			<RTartikkel>2</RTartikkel>
+			<aktViide>32276</aktViide>
+		</avaldamismarge>
+		<joustumine>1997-01-18</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>1997-01-29</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1997</RTaasta>
+			<RTnr>13</RTnr>
+			<RTartikkel>210</RTartikkel>
+			<aktViide>31515</aktViide>
+		</avaldamismarge>
+		<joustumine>1997-03-02</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>1998-12-17</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1998</RTaasta>
+			<RTnr>113</RTnr>
+			<RTartikkel>1877</RTartikkel>
+			<aktViide>76688</aktViide>
+		</avaldamismarge>
+		<joustumine>1999-01-09</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>1999-01-20</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1999</RTaasta>
+			<RTnr>10</RTnr>
+			<RTartikkel>155</RTartikkel>
+			<aktViide>76936</aktViide>
+		</avaldamismarge>
+		<joustumine>2000-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>1999-02-17</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1999</RTaasta>
+			<RTnr>27</RTnr>
+			<RTartikkel>380</RTartikkel>
+			<aktViide>77268</aktViide>
+		</avaldamismarge>
+		<joustumine>1999-04-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>1999-02-17</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1999</RTaasta>
+			<RTnr>27</RTnr>
+			<RTartikkel>386</RTartikkel>
+			<aktViide>77274</aktViide>
+		</avaldamismarge>
+		<joustumine>1999-03-27</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<tavatekst>terviktekst RT paberkandjal</tavatekst>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1999</RTaasta>
+			<RTnr>44</RTnr>
+			<RTartikkel>510</RTartikkel>
+			<aktViide>77476</aktViide>
+		</avaldamismarge>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2000-06-14</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2000</RTaasta>
+			<RTnr>51</RTnr>
+			<RTartikkel>325</RTartikkel>
+			<aktViide>72111</aktViide>
+		</avaldamismarge>
+		<joustumine>2000-07-10</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2000-11-15</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2000</RTaasta>
+			<RTnr>88</RTnr>
+			<RTartikkel>576</RTartikkel>
+			<aktViide>72442</aktViide>
+		</avaldamismarge>
+		<joustumine>2000-11-29</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2001-03-06</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2001</RTaasta>
+			<RTnr>31</RTnr>
+			<RTartikkel>171</RTartikkel>
+			<aktViide>72843</aktViide>
+		</avaldamismarge>
+		<joustumine>2001-03-29</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2001-04-10</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2001</RTaasta>
+			<RTnr>42</RTnr>
+			<RTartikkel>234</RTartikkel>
+			<aktViide>72912</aktViide>
+		</avaldamismarge>
+		<joustumine>2001-05-08</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2001-11-21</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2001</RTaasta>
+			<RTnr>94</RTnr>
+			<RTartikkel>582</RTartikkel>
+			<aktViide>73286</aktViide>
+		</avaldamismarge>
+		<joustumine>2001-12-20</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2002-05-15</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2002</RTaasta>
+			<RTnr>47</RTnr>
+			<RTartikkel>297</RTartikkel>
+			<aktViide>133139</aktViide>
+		</avaldamismarge>
+		<joustumine>2004-01-01</joustumine>
+		<tavatekst>, osaliselt 01.01.2003
+		</tavatekst>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2002-06-05</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2002</RTaasta>
+			<RTnr>53</RTnr>
+			<RTartikkel>336</RTartikkel>
+			<aktViide>174795</aktViide>
+		</avaldamismarge>
+		<joustumine>2002-07-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2002-11-13</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2002</RTaasta>
+			<RTnr>99</RTnr>
+			<RTartikkel>579</RTartikkel>
+			<aktViide>226995</aktViide>
+		</avaldamismarge>
+		<joustumine>2003-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2003-01-15</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2003</RTaasta>
+			<RTnr>13</RTnr>
+			<RTartikkel>64</RTartikkel>
+			<aktViide>252549</aktViide>
+		</avaldamismarge>
+		<joustumine>2003-07-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2003-06-12</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2003</RTaasta>
+			<RTnr>51</RTnr>
+			<RTartikkel>355</RTartikkel>
+			<aktViide>606617</aktViide>
+		</avaldamismarge>
+		<joustumine>2003-07-19</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2003-11-19</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2003</RTaasta>
+			<RTnr>78</RTnr>
+			<RTartikkel>523</RTartikkel>
+			<aktViide>685541</aktViide>
+		</avaldamismarge>
+		<joustumine>2003-12-27</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2003-12-09</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2003</RTaasta>
+			<RTnr>81</RTnr>
+			<RTartikkel>546</RTartikkel>
+			<aktViide>685932</aktViide>
+		</avaldamismarge>
+		<joustumine>2003-12-20</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2004-02-25</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2004</RTaasta>
+			<RTnr>14</RTnr>
+			<RTartikkel>91</RTartikkel>
+			<aktViide>719318</aktViide>
+		</avaldamismarge>
+		<joustumine>2004-03-25</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2004-04-30</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT III</RTosa>
+			<RTaasta>2004</RTaasta>
+			<RTnr>13</RTnr>
+			<RTartikkel>160</RTartikkel>
+			<aktViide>757036</aktViide>
+		</avaldamismarge>
+		<joustumine>2004-04-30</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2005-06-15</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2005</RTaasta>
+			<RTnr>39</RTnr>
+			<RTartikkel>308</RTartikkel>
+			<aktViide>919178</aktViide>
+		</avaldamismarge>
+		<joustumine>2006-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2006-04-12</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2006</RTaasta>
+			<RTnr>19</RTnr>
+			<RTartikkel>148</RTartikkel>
+			<aktViide>1023153</aktViide>
+		</avaldamismarge>
+		<joustumine>2006-05-15</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2007-02-21</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2007</RTaasta>
+			<RTnr>24</RTnr>
+			<RTartikkel>128</RTartikkel>
+			<aktViide>12802608</aktViide>
+		</avaldamismarge>
+		<joustumine>2007-03-26</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2008-12-10</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2008</RTaasta>
+			<RTnr>59</RTnr>
+			<RTartikkel>330</RTartikkel>
+			<aktViide>13099767</aktViide>
+		</avaldamismarge>
+		<joustumine>2009-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2009-06-15</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2009</RTaasta>
+			<RTnr>37</RTnr>
+			<RTartikkel>251</RTartikkel>
+			<aktViide>13196603</aktViide>
+		</avaldamismarge>
+		<joustumine>2009-07-10</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2010-06-17</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2010</RTaasta>
+			<RTnr>38</RTnr>
+			<RTartikkel>231</RTartikkel>
+			<aktViide>13332386</aktViide>
+		</avaldamismarge>
+		<joustumine>2010-07-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2010-09-16</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2010</RTaasta>
+			<RTnr>72</RTnr>
+			<RTartikkel>543</RTartikkel>
+			<aktViide>13361493</aktViide>
+		</avaldamismarge>
+		<joustumine>2011-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2011-06-09</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2011-06-29</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>129062011001</aktViide>
+		</avaldamismarge>
+		<joustumine>2011-06-30</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2012-04-17</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2012-04-23</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>123042012001</aktViide>
+		</avaldamismarge>
+		<joustumine>2012-04-17</joustumine>
+		<tavatekst> - Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi 17.04.2012 kohtuotsus tunnistab AÕSRS § 15.4 lõiked 2–4 ja AÕS § 158² lõike 1 esimese lause osa „asjaõigusseaduse rakendamise seaduse §-s 15.4 kehtestatud suuruses” põhiseadusega vastuolus olevaks ning alates käesoleva otsuse jõustumisest kehtetuks.</tavatekst>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2013-02-27</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2013-03-15</avaldamineKuupaev>
+			<RTartikkel>26</RTartikkel>
+			<aktViide>115032013026</aktViide>
+		</avaldamismarge>
+		<joustumine>2013-03-20</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2014-02-19</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2014-03-13</avaldamineKuupaev>
+			<RTartikkel>3</RTartikkel>
+			<aktViide>113032014003</aktViide>
+		</avaldamismarge>
+		<joustumine>2018-01-01</joustumine>
+		<tavatekst>, osaliselt 23.03.2014 ja 01.01.2016</tavatekst>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2015-02-18</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2015-03-23</avaldamineKuupaev>
+			<RTartikkel>3</RTartikkel>
+			<aktViide>123032015003</aktViide>
+		</avaldamismarge>
+		<joustumine>2015-07-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2016-06-07</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2016-06-28</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>128062016001</aktViide>
+		</avaldamismarge>
+		<joustumine>2016-07-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2017-01-18</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2017-01-25</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>125012017001</aktViide>
+		</avaldamismarge>
+		<joustumine>2017-03-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2018-01-17</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2018-01-30</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>130012018001</aktViide>
+		</avaldamismarge>
+		<joustumine>2019-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2018-04-18</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2018-05-04</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>104052018001</aktViide>
+		</avaldamismarge>
+		<joustumine>2018-05-14</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2018-06-06</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2018-06-29</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>129062018001</aktViide>
+		</avaldamismarge>
+		<joustumine>2018-07-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2022-02-23</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2022-03-10</avaldamineKuupaev>
+			<RTartikkel>2</RTartikkel>
+			<aktViide>110032022002</aktViide>
+		</avaldamismarge>
+		<joustumine>2024-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2024-11-19</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2024-12-04</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>104122024001</aktViide>
+		</avaldamismarge>
+		<joustumine>2025-01-01</joustumine>
+	</muutmismarge>
+	<sisu>
+		<paragrahv id="para1">
+			<paragrahvNr>1</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 1.]]></kuvatavNr>
+			<paragrahvPealkiri>Asjaõigusseaduse jõustumine</paragrahvPealkiri>
+			<loige id="para1lg1">
+				<sisuTekst>
+					<tavatekst>Asjaõigusseadus jõustub 1993. aasta 1. detsembril.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para2">
+			<paragrahvNr>2</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 2.]]></kuvatavNr>
+			<paragrahvPealkiri>Asjaõigusseaduse kohaldamine</paragrahvPealkiri>
+			<loige id="para2lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Enne 1993. aasta 1. detsembrit tekkinud ja sel päeval kestvatele õigussuhetele kohaldatakse asjaõigusseaduse sätteid, kui käesolevast seadusest ei tulene teisiti.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para2lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Omandireformi käigus vara tagastamine, kompenseerimine, erastamine, vara riigi omandisse jätmine, munitsipaliseerimine ja taasriigistamine toimub omandireformi aluste seaduses ning sellest tulenevates õigusaktides sätestatud alustel ja korras.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para3">
+			<paragrahvNr kehtiv="0">3</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 3. ]]></kuvatavNr>
+			<sisuTekst>
+				<tavatekst> – </tavatekst>
+			</sisuTekst>
+		</paragrahv>
+		<paragrahv id="para4">
+			<paragrahvNr kehtiv="0">4</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 4. ]]></kuvatavNr>
+			<muutmismarge>
+				<tavatekst>Kehtetud - </tavatekst>
+				<avaldamismarge>
+					<RTosa>RT I</RTosa>
+					<RTaasta>1994</RTaasta>
+					<RTnr>53</RTnr>
+					<RTartikkel>889</RTartikkel>
+					<aktViide>28695</aktViide>
+				</avaldamismarge>
+				<joustumine>1994-09-01</joustumine>
+			</muutmismarge>
+		</paragrahv>
+		<paragrahv id="para5">
+			<paragrahvNr>5</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 5.]]></kuvatavNr>
+			<paragrahvPealkiri>Valduse kaitse</paragrahvPealkiri>
+			<loige id="para5lg1">
+				<sisuTekst>
+					<tavatekst>Valduse kaitseks kohaldatakse asjaõigusseaduse §-de 40–50 sätteid üksnes juhul, kui valdust on rikutud või valdus on ära võetud pärast 1993. aasta 30. novembrit.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para6">
+			<paragrahvNr>6</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 6.]]></kuvatavNr>
+			<paragrahvPealkiri>Omandi kaitse</paragrahvPealkiri>
+			<loige id="para6lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Omandit kaitstakse alates 1993. aasta 1. detsembrist asjaõigusseaduse sätete kohaselt, sõltumata rikkumise ajast.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para6lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>2002</RTaasta>
+						<RTnr>53</RTnr>
+						<RTartikkel>336</RTartikkel>
+						<aktViide>174795</aktViide>
+					</avaldamismarge>
+					<joustumine>2002-07-01</joustumine>
+				</muutmismarge>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para7">
+			<paragrahvNr>7</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 7.]]></kuvatavNr>
+			<paragrahvPealkiri>Igamine</paragrahvPealkiri>
+			<loige id="para7lg1">
+				<sisuTekst>
+					<tavatekst>Valduse suhtes, mis on omandatud enne 1993. aasta 1. detsembrit, algab igamistähtaja kulgemine 1993. aasta 1. detsembrist.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para8">
+			<paragrahvNr>8</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 8.]]></kuvatavNr>
+			<muutmismarge>
+				<tavatekst>Kehtetu - </tavatekst>
+				<avaldamismarge>
+					<RTosa>RT I</RTosa>
+					<RTaasta>2002</RTaasta>
+					<RTnr>53</RTnr>
+					<RTartikkel>336</RTartikkel>
+					<aktViide>174795</aktViide>
+				</avaldamismarge>
+				<joustumine>2002-07-01</joustumine>
+			</muutmismarge>
+		</paragrahv>
+		<paragrahv id="para9">
+			<paragrahvNr>9</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 9.]]></kuvatavNr>
+			<paragrahvPealkiri>Kinnipidamisõigus</paragrahvPealkiri>
+			<loige id="para9lg1">
+				<sisuTekst>
+					<tavatekst>Asjaõigusseaduse §-des 320–324 sätestatud kinnipidamisõigust võib teostada ka nende asjade suhtes, mis on seaduslikult võlausaldaja valdusse sattunud enne 1993. aasta 1. detsembrit, samuti nende nõuete tagamiseks, mis on tekkinud enne 1993. aasta 1. detsembrit.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para9b1">
+			<paragrahvNr ylaIndeks="1">9</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 9<sup>1</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Kasutusvaldusele üüri- või rendilepingu sätete kohaldamine</paragrahvPealkiri>
+			<loige id="para9b1lg1">
+				<sisuTekst>
+					<tavatekst>Enne asjaõigusseaduse, kinnistusraamatuseaduse ja nendega seonduvate seaduste muutmise seaduse jõustumist sõlmitud vallasasja või õiguse kasutusvalduse leping loetakse vallasasja või õiguse üüri- või rendilepinguks. Lepingule kohaldatakse võlaõigusseaduses üüri- või rendilepingu kohta sätestatut, kui lepingupoolte kokkuleppest ei tulene teisiti.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2003</RTaasta>
+							<RTnr>13</RTnr>
+							<RTartikkel>64</RTartikkel>
+							<aktViide>252549</aktViide>
+						</avaldamismarge>
+						<joustumine>2003-07-01</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para10">
+			<paragrahvNr>10</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 10.]]></kuvatavNr>
+			<paragrahvPealkiri>Tagastatud maa kinnistamine</paragrahvPealkiri>
+			<loige id="para10lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Maareformi käigus tagastatud maa kantakse kinnistusraamatusse valla- või linnavalitsuse kinnistamisavalduse alusel, millele lisatakse valla- või linnavalitsuse korraldus maa tagastamise kohta ja maakatastri andmed. Enne asjaõigusseaduse rakendamisega seotud õigusaktide muutmise seaduse jõustumist riikliku maakatastri pidaja poolt kinnistamiseks esitatud maaüksused kantakse kinnistusraamatusse riigi maakatastri pidaja esildise alusel. Tagastatava maa suhtes ei kohaldata enne tagastamist asjaõigusseaduse § 51 2. lõikes esitatud nõuet avalik-õiguslikule isikule kuuluva kinnisasja kandmisest kinnistusraamatusse enne kinnisasja andmist teise isiku valdusse.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2010</RTaasta>
+							<RTnr>38</RTnr>
+							<RTartikkel>231</RTartikkel>
+							<aktViide>13332386</aktViide>
+						</avaldamismarge>
+						<joustumine>2010-07-01</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+			<loige id="para10lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Maakatastri andmed käesoleva seaduse tähenduses on kinnistatava maaüksuse katastritunnus, sihtotstarve, aadressi- ja piiriandmed, pindala, katastriüksuse moodustamise viis ning katastriüksuse plaan.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2010</RTaasta>
+							<RTnr>38</RTnr>
+							<RTartikkel>231</RTartikkel>
+							<aktViide>13332386</aktViide>
+						</avaldamismarge>
+						<joustumine>2010-07-01</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+			<loige id="para10lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>2010</RTaasta>
+						<RTnr>38</RTnr>
+						<RTartikkel>231</RTartikkel>
+						<aktViide>13332386</aktViide>
+					</avaldamismarge>
+					<joustumine>2010-07-01</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para10lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kinnistusosakond teavitab elektrooniliselt kinnistusregistriosa avamisest riiklikku ehitisregistrit.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para10lg5">
+				<loigeNr>5</loigeNr>
+				<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui maa tagastamise aluseks olnud linna- või vallavalitsuse korraldus tühistatakse pärast maa esmakinnistamist ja kinnistusraamatu kanne muutub seetõttu ebaõigeks, on isikul, kelle õigust on ebaõige kandega rikutud, õigus nõuda kande parandamiseks nõusolekut isikult, kelle õigust parandamine puudutab. Nõude rahuldamisel kantakse kinnistusraamatusse omanikuna riik.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para10b1">
+			<paragrahvNr ylaIndeks="1">10</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 10<sup>1</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Tagastatud või erastatud maa kinnistamine isiku surma korral</paragrahvPealkiri>
+			<loige id="para10b1lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui isik sureb pärast maa tagastamist või erastamist, kuid enne maa kinnistusraamatusse kandmist, kantakse kinnistusraamatusse omanikuna surnud isik.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2010</RTaasta>
+							<RTnr>38</RTnr>
+							<RTartikkel>231</RTartikkel>
+							<aktViide>13332386</aktViide>
+						</avaldamismarge>
+						<joustumine>2010-07-01</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+			<loige id="para10b1lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>2010</RTaasta>
+						<RTnr>38</RTnr>
+						<RTartikkel>231</RTartikkel>
+						<aktViide>13332386</aktViide>
+					</avaldamismarge>
+					<joustumine>2010-07-01</joustumine>
+				</muutmismarge>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para11">
+			<paragrahvNr>11</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 11.]]></kuvatavNr>
+			<paragrahvPealkiri>Erastatud maa kinnistamine</paragrahvPealkiri>
+			<loige id="para11lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Enne 1993. aasta 1. detsembrit erastatud maa kantakse kinnistusraamatusse riikliku maakatastri pidaja poolt esitatud maa ostu-müügi lepingu ja maakatastri andmete alusel.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para11lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Enne 1993. aasta 1. detsembrit välisriigi omandisse antud maa kantakse kinnistusraamatusse riikliku maakatastri pidaja poolt esitatud Vabariigi Valitsuse otsuse ja maakatastri andmete alusel.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para11lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Pärast asjaõigusseaduse rakendamisega seotud õigusaktide muutmise seaduse jõustumist erastatud maa kantakse kinnistusraamatusse (kinnistusregistriosa avatakse) asjaõiguslepingu, maaüksuse omandamist tõendava dokumendi, maakatastri andmete ja teiste kinnistamiseks vajalike dokumentide alusel. Erastatava maa suhtes ei kohaldata enne erastamist asjaõigusseaduse § 51 2. lõikes esitatud nõuet avalik-õiguslikule isikule kuuluva kinnisasja kandmisest kinnistusraamatusse enne kinnisasja andmist teise isiku valdusse.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para11lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kinnistusosakond teavitab elektrooniliselt kinnistusregistriosa avamisest riiklikku ehitisregistrit.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para11lg5">
+				<loigeNr>5</loigeNr>
+				<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui maa erastamise aluseks olnud otsus tühistatakse pärast maa esmakinnistamist ja kinnistusraamatu kanne muutub seetõttu ebaõigeks, on isikul, kelle õigust on ebaõige kandega rikutud, õigus nõuda kande parandamiseks nõusolekut isikult, kelle õigust parandamine puudutab. Nõude rahuldamisel kantakse kinnistusraamatusse omanikuna riik.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2004</RTaasta>
+							<RTnr>14</RTnr>
+							<RTartikkel>91</RTartikkel>
+							<aktViide>719318</aktViide>
+						</avaldamismarge>
+						<joustumine>2004-03-25</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para11b1">
+			<paragrahvNr ylaIndeks="1">11</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 11<sup>1</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Riigi omandisse jäetud maa kinnistamine</paragrahvPealkiri>
+			<muutmismarge>
+				<avaldamismarge>
+					<RTosa>RT I</RTosa>
+					<RTaasta>2010</RTaasta>
+					<RTnr>38</RTnr>
+					<RTartikkel>231</RTartikkel>
+					<aktViide>13332386</aktViide>
+				</avaldamismarge>
+				<joustumine>2010-07-01</joustumine>
+			</muutmismarge>
+			<loige id="para11b1lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Riigi omandisse jäetud maa kantakse kinnistusraamatusse Vabariigi Valitsuse või tema poolt volitatud valitsusasutuse kinnistamisavalduse alusel, millele lisatakse maa riigi omandisse jätmise otsus ja maakatastri andmed.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2010</RTaasta>
+							<RTnr>38</RTnr>
+							<RTartikkel>231</RTartikkel>
+							<aktViide>13332386</aktViide>
+						</avaldamismarge>
+						<joustumine>2010-07-01</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+			<loige id="para11b1lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kinnistusosakond teavitab elektrooniliselt kinnistusregistriosa avamisest riiklikku ehitisregistrit.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2004</RTaasta>
+							<RTnr>14</RTnr>
+							<RTartikkel>91</RTartikkel>
+							<aktViide>719318</aktViide>
+						</avaldamismarge>
+						<joustumine>2004-03-25</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para11b2">
+			<paragrahvNr ylaIndeks="2">11</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 11<sup>2</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Munitsipaalmaa kinnistamine</paragrahvPealkiri>
+			<loige id="para11b2lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Munitsipaalomandisse antud maa kantakse kinnistusraamatusse kohaliku omavalitsuse kinnistamisavalduse alusel, millele lisatakse maa munitsipaalomandisse andmise otsus ja maakatastri andmed. Munitsipaalmaa omandiõigust tõendavaks dokumendiks on ka väljavõte Riigi Teatajast, milles on avaldatud maa munitsipaalomandisse andmise otsus. Munitsipaalomandisse antava maa suhtes ei kohaldata enne munitsipaliseerimist asjaõigusseaduse § 51 2. lõikes esitatud nõuet avalik-õiguslikule isikule kuuluva kinnisasja kandmisest kinnistusraamatusse enne kinnisasja andmist teise isiku valdusse.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2010</RTaasta>
+							<RTnr>38</RTnr>
+							<RTartikkel>231</RTartikkel>
+							<aktViide>13332386</aktViide>
+						</avaldamismarge>
+						<joustumine>2010-07-01</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+			<loige id="para11b2lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kinnistusosakond teavitab elektrooniliselt kinnistusregistriosa avamisest riiklikku ehitisregistrit.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2004</RTaasta>
+							<RTnr>14</RTnr>
+							<RTartikkel>91</RTartikkel>
+							<aktViide>719318</aktViide>
+						</avaldamismarge>
+						<joustumine>2004-03-25</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+			<loige id="para11b2lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui maa munitsipaalomandisse andmise otsus tühistatakse pärast maa esmakinnistamist ja kinnistusraamatu kanne muutub seetõttu ebaõigeks, on isikul, kelle õigust on ebaõige kandega rikutud, õigus nõuda kande parandamiseks nõusolekut isikult, kelle õigust parandamine puudutab. Nõude rahuldamisel kantakse kinnistusraamatusse omanikuna riik.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para11b2lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Valla- või linnavalitsus on kohustatud tegema maareformi käigus munitsipaalomandisse antud maaüksuste kinnistamiseks vajalikud toimingud ühe aasta jooksul arvates maa munitsipaalomandisse andmise otsustamisest, kuid mitte hiljem kui 2018. aasta 31. detsembril.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2016-06-28</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>128062016001</aktViide>
+					</avaldamismarge>
+					<joustumine>2016-07-01</joustumine>
+				</muutmismarge>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para12">
+			<paragrahvNr>12</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 12.]]></kuvatavNr>
+			<paragrahvPealkiri>Kaasomandis oleva ehitise aluse ja selle ehitise teenindamiseks vajaliku maa tagastamise ja erastamise erisused</paragrahvPealkiri>
+			<loige id="para12lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kaasomandis oleva ehitise aluse ja selle ehitise teenindamiseks vajalik maa tagastatakse või erastatakse kaasomanikele vastavalt nende osa suurusele ehitises.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para12lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui ehitise kaasomanik ei soovi käesoleva paragrahvi 1. lõikes nimetatud maaosa tagastamist või erastamist, on maa tagastamist või erastamist soovivatel kaasomanikel õigus nõuda kohtu korras ehitiseosa müümist. Lähtudes Eesti Vabariigi põhiseaduse §-st 32, müüakse ehitiseosa üldistes huvides kohtuotsuse alusel täituri poolt enampakkumisel. Ehitiseosa omandiõigus läheb ehitiseosa ostnud isikule üle pärast ehitisealuse maa kandmist kinnistusraamatusse.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para12lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ehitise kaasomanikel, kelle osa müüakse käesoleva paragrahvi 2. lõikes sätestatud korras, on õigus nõuda isikliku kasutusõiguse seadmist müüdud elamuosale. Isikliku kasutusõiguse tingimused määratakse kokkuleppel. Kui kokkulepet ei saavutata, lahendab vaidluse kohus.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para12lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui ehitise kaasomanik ei tasu maa tagastamisega või erastamisega seotud kulutusi või ei tasu maa ostuhinda, siis võib nimetatud kulutused kanda või maa ostuhinna tasuda teine ehitise kaasomanik. Sellisel juhul kohaldatakse võlaõigusseaduse § 1041.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para12lg5">
+				<loigeNr>5</loigeNr>
+				<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui ehitise kaasomanik ei tee maa tagastamiseks või maa erastamiseks vajalikke toiminguid ja kui maa tagastamine või maa erastamine on seetõttu oluliselt raskendatud või kui kinnistamine eeldab ehitise omandiosade muutmist, võib ehitise kaasomanik lisaks käesoleva paragrahvi 4. lõikes sätestatule nõuda kaasomandi lõpetamist, sealhulgas ehitise jagamist reaalosadeks eluruumide erastamise seaduse § 21<sup>6</sup> tähenduses, kui see vastab kaasomanike vahel ehitise kasutamisel välja kujunenud olukorrale. Sellisel juhul kohaldatakse asjaõigusseaduse §-sid 76 ja 77. Käesolevas lõikes sätestatud kaasomandi lõpetamise nõude vaatab kohus läbi hagita menetluses.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2014-03-13</avaldamineKuupaev>
+						<RTartikkel>3</RTartikkel>
+						<aktViide>113032014003</aktViide>
+					</avaldamismarge>
+					<joustumine>2014-03-23</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para12lg6">
+				<loigeNr>6</loigeNr>
+				<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui ehitise kaasomanik on surnud ja kui pärimismenetlust ei ole lõpule viidud, kantakse kinnistusraamatusse pärijate asemel surnud isik.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2006</RTaasta>
+							<RTnr>19</RTnr>
+							<RTartikkel>148</RTartikkel>
+							<aktViide>1023153</aktViide>
+						</avaldamismarge>
+						<joustumine>2006-05-15</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para13">
+			<paragrahvNr>13</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 13.]]></kuvatavNr>
+			<paragrahvPealkiri>Õiguslikul alusel püstitatud ehitis</paragrahvPealkiri>
+			<loige id="para13lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kuni maa kandmiseni kinnistusraamatusse ei ole õiguslikul alusel püstitatud ehitis, sealhulgas pooleliolev ehitis maa oluline osa ja seda loetakse vallasasjaks, kui seaduses ei sätestata teisiti. Riigi omandisse jäetud maal ja munitsipaalomandisse antud maal asuv riigile võikohalikule omavalitsusüksusele kuuluv ehitis muutub maa oluliseks osaks maa riigi maakatastris registreerimisega.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ehitise kui vallasasja omandamine ei toimu leiu ja igamisega. Peremehetu ehitise hõivamise õigus ja kohustus on kohalikul omavalitsusel ja riigil </tavatekst>
+					<viide>
+						<kuvatavTekst><![CDATA[Vabariigi Valitsuse]]></kuvatavTekst>
+						<viideURID>
+							<viideURI><![CDATA[./dyn=104122024003&id=691523]]></viideURI>
+						</viideURID>
+					</viide>
+					<tavatekst> kehtestatud korras.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ehitise omanikul on õigus saada maa omanikuks maareformi seaduses sätestatud alustel ja korras. Kui eluruumi või elamus asuva mitteeluruumi juurde ei ole maakorralduslikel või ehitustehnilistel tingimustel võimalik iseseisva kinnistu moodustamine, on eluruumi või elamus asuva mitteeluruumi omanikul õigus saada maa omanikuks eluruumide erastamise seaduses sätestatud alustel ja korras. Ehitisealune maa ei kuulu teistele isikutele tagastamisele, erastamisele, munitsipaalomandisse andmisele ega riigi omandisse jätmisele, kui seadusest ei tulene teisiti.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Asjaõigusseaduse rakendamisega seotud õigusaktide muutmise seaduse jõustumisel loetakse tsiviilkäibes olevad ehitise reaalosad mõttelisteks osadeks, kui käesolev seadus ei sätesta teisiti. Mõttelise osa suuruseks on ehitise reaalosa üldpinna ja ehitise reaalosade üldpinna suhe. Ehitise reaalosa võib tsiviilkäibes olla vaid korteriomandina, korterihoonestusõigusena, erastatud eluruumina, elamus asuva erastatud mitteeluruumina, elamuühistu liikme omandisse antud korterina, endise korteriühingu liikme omandisse antud korterina või ehitise kaasomandi lõpetamisel tekkiva ehitise reaalosana. Ehitise jagamine kaasomandi lõpetamisel ei või olla vastuolus ehitise olemusega ja maakorralduse nõuetega. Ehitist võib reaalosadeks jagada vaid tervikuna.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13lg5">
+				<loigeNr>5</loigeNr>
+				<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ehitise omanik, kes ei soovi või kellel ei ole õigust saada maa omanikuks, võib nõuda ehitisealusele ja ehitise teenindamiseks vajalikule maale hoonestusõiguse seadmist.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13lg6">
+				<loigeNr>6</loigeNr>
+				<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kuni ehitisealuse maa kinnistusraamatusse kandmiseni või riigi omandisse jäetud või munitsipaalomandisse antud maa riigi maakatastrisse kandmiseni võib ehitist, selle mõttelist osa, reaalosana erastatud eluruumi, elamus asuvat mitteeluruumi, elamuühistu liikme omandisse antud korterit, endise korteriühingu liikme omandisse antud korterit või kaasomandi lõppemisel tekkinud ehitise reaalosa võõrandada ja pärida kui vallasasja. Ehitise või selle osa võõrandamise tehing peab olema notariaalselt tõestatud. Ehitise tasuta üleandmisel, kui üleandmisel on üheks pooleks riik või kohalik omavalitsusüksus, omandireformi aluste seaduse ja sellest tulenevate õigusaktide alusel tehingu tegemisel ning ehitise müümisel täituri poolt enampakkumisel ei ole notariaalne tõestus nõutav, välja arvatud eluruumide, elamu mõttelise osa ja elamutes asuvate mitteeluruumide erastamisel. Alates 1993. aasta 1. detsembrist kuni asjaõigusseaduse rakendamisega seotud õigusaktide muutmise seaduse jõustumiseni tehtud ehitise võõrandamise tehing ei ole tehingu notariaalse vormi järgimata jätmise tõttu tühine, kui käesolev paragrahv ei nõua ehitise võõrandamise tehingu notariaalset vormi. Ehitist või selle osa võib vallasasjana käsutada kuni 2006. aasta 1. märtsini, see ei mõjuta ehitise või selle osa omandiõiguse üleminekut üldõigusjärgluse korras. Nimetatud tähtaega ei rakendata tehnovõrgu või -rajatise (kütte-, veevarustus- või kanalisatsioonitorustik, telekommunikatsiooni- või elektrivõrk, nõrkvoolu-, küttegaasi- või elektripaigaldis või surveseadmestik ja nende teenindamiseks vajalik ehitis) suhtes. Kui ehitis on panditud enne 2006. aasta 2. märtsi, võib ehitist käsutada pandiga tagatud nõude täitmiseks täitemenetluse seadustikus sätestatud korras. Ehitist või selle osa võib pärast 2006. aasta 1. märtsi vallasasjana käsutada pankroti- ja täitemenetluse ning kinnisasja avalikes huvides omandamise, sealhulgas sundvõõrandamise menetluse korras või kohtumenetluses tehtud lahendi vabatahtlikuks täitmiseks, samuti võib teha ehitise või selle osa suhtes testamendi või sõlmida pärimislepingu. Kaasomandis oleva ehitisega võib pärast 2006. aasta 1. märtsi teha kaasomanike vahel kaasomandi lõpetamisega seotud tehinguid, samuti kaasomanikevahelisi tehinguid, mis on vajalikud kinnistamist takistavate asjaolude kõrvaldamiseks.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2018-06-29</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>129062018001</aktViide>
+					</avaldamismarge>
+					<joustumine>2018-07-01</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para13lg7">
+				<loigeNr>7</loigeNr>
+				<kuvatavNr><![CDATA[(7)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ehitise või selle osa omandamine tuleb 15 päeva jooksul, alates omandiõiguse üleminekust, registreerida omandaja esildisel riiklikus ehitisregistris, kusjuures omandaja esitab märke tegemiseks vajalikud andmed notarile. Riiklikule ehitisregistrile esitab märke tegemiseks vajalikud andmed notar, kelle poole omandaja pöördus.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2010</RTaasta>
+							<RTnr>38</RTnr>
+							<RTartikkel>231</RTartikkel>
+							<aktViide>13332386</aktViide>
+						</avaldamismarge>
+						<joustumine>2010-07-01</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+			<loige id="para13lg8">
+				<loigeNr>8</loigeNr>
+				<kuvatavNr><![CDATA[(8)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui ehitis on võõrandatud või päritud pärast ehitisealuse maa tagastamise korralduse vastuvõtmist või maa ostu-müügilepingu sõlmimist või maa riigi omandisse jätmise või munitsipaalomandisse andmise otsustamist, on ehitise omanikul õigus nõuda hoonestusõiguse seadmist ühe aasta jooksul, arvates ehitisealuse maa kandmisest kinnistusraamatusse. Kui ehitiseomanik ei nõua nimetatud tähtaja jooksul hoonestusõiguse seadmist, muutub ehitis maatüki oluliseks osaks.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13lg9">
+				<loigeNr>9</loigeNr>
+				<kuvatavNr><![CDATA[(9)]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>2010</RTaasta>
+						<RTnr>38</RTnr>
+						<RTartikkel>231</RTartikkel>
+						<aktViide>13332386</aktViide>
+					</avaldamismarge>
+					<joustumine>2010-07-01</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para13lg10">
+				<loigeNr>10</loigeNr>
+				<kuvatavNr><![CDATA[(10)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ehitise või selle osa kaasomanike vaheline kasutuskokkulepe ei kehti kaasomaniku õigusjärglase suhtes.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para13b1">
+			<paragrahvNr ylaIndeks="1">13</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 13<sup>1</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Ostueesõigus ehitise kui vallasasja tasulisel võõrandamisel</paragrahvPealkiri>
+			<loige id="para13b1lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui ehitis on kaasomandis, on kaasomanikul ehitise mõttelise osa tasulisel võõrandamisel võõrandatava osa ostueesõigus, välja arvatud juhul, kui see võõrandatakse kaasomaniku alanejale sugulasele või vanemale, teisele kaasomanikule või seaduse järgi eesõigustatud isikule.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13b1lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kaasomaniku ostueesõigust ei kohaldata eluruumide ja elamutes asuvate mitteeluruumide erastamisel. Erastatud eluruum ja elamus asuv mitteeluruum ning nende juurde kuuluv muu osa on käibes koos. Erastatud eluruumi ja elamus asuva mitteeluruumi tasulisel võõrandamisel ei kohaldata kaasomaniku ostueesõigust, kui kaasomanikke on rohkem kui kuus. Ostueesõigust ei ole eluruumide ja mitteeluruumide erastamise kohustatud subjektil. Kaasomaniku ostueesõiguse korral laieneb see ka ehitise muu osaga seotud eluruumile ja elamus asuvale mitteeluruumile.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2003</RTaasta>
+							<RTnr>78</RTnr>
+							<RTartikkel>523</RTartikkel>
+							<aktViide>685541</aktViide>
+						</avaldamismarge>
+						<joustumine>2003-12-27</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para13b2">
+			<paragrahvNr ylaIndeks="2">13</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 13<sup>2</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Asjaõigusseaduse kohaldamine pandiõigusele</paragrahvPealkiri>
+			<loige id="para13b2lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Enne 1993. aasta 1. detsembrit Eesti NSV tsiviilkoodeksi §-de 196–205 või Eesti Vabariigi pangaseaduse (ENSV Teataja 1989, 41, 647; RT 1990, 2, 36; 1991, 16, 222; 1992, 31, 411; RT I 1993, 28, 498; 72/73, 1021; 1995, 4, 36) § 42 alusel tekkinud pandiõiguse korral, kus pandieseme valdus ei ole pandilepingu kohaselt üle läinud pandipidajale, jääb panditud asi pantija valdusesse ja pandiõigusele kohaldatakse asjaõigusseaduse § 276 1. lõiget, § 277–280, 283–285, § 286 punkti 1, § 289 3., 4. ja 5. lõiget, § 291, 304, 306. Nõude üleminekul uuele võlausaldajale läheb temale üle ka pandiõigus. Kui võlgnik ei täida pandiga tagatud nõuet, rahuldatakse pandipidaja nõue panditud asja väärtusest kohtu otsuse alusel või kohesele sundtäitmisele alludes täitemenetluse seadustikus kehtestatud korras.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13b2lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kuni ehitisealuse maa kinnistusraamatusse kandmiseni või riigi omandisse jäetud või munitsipaalomandisse antud maa riigi maakatastrisse kandmiseni võib ehitist või selle mõttelist osa pantida valdust üle andmata. Käesoleva lõike esimeses lauses sätestatud panti saab seada 2006. aasta 1. märtsini. Pandile kohaldatakse käesoleva paragrahvi 1. lõikes sätestatud pandiõiguse sätteid. Samale ehitisele või samale ehitise osale ei või seada mitut panti. Pantija võib panditud asja võõrandada üksnes pandipidaja nõusolekul.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2006</RTaasta>
+							<RTnr>19</RTnr>
+							<RTartikkel>148</RTartikkel>
+							<aktViide>1023153</aktViide>
+						</avaldamismarge>
+						<joustumine>2006-05-15</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+			<loige id="para13b2lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Käesoleva paragrahvi 2. lõike kohaselt sõlmitud pandileping peab olema notariaalselt tõestatud. Lepingu tõestanud notar esitab andmed panditava ehitise või selle osa ja pandilepingu kohta riiklikusse ehitisregistrisse elektrooniliselt viie päeva jooksul tehingu tõestamise päevast arvates. Pandiõigus tekib pandilepingu notariaalse tõestamise hetkest. Enne asjaõigusseaduse rakendamisega seotud õigusaktide muutmise seaduse jõustumist sõlmitud ehitise pandilepingute ja panditava ehitise või selle osa andmed esitab notar riiklikusse ehitisregistrisse tehingu sõlminud poole esildisel. Kui pandilepingu ja panditava ehitise või selle osa andmed ei ole kantud riiklikusse ehitisregistrisse, lõpeb pant pandi eseme omandi üleminekul, kui omandaja pandist ei teadnud ega pidanudki teadma.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13b2lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ehitise või selle osa pandiõiguse lõppemise või hüpoteegiks ümberregistreerimise kohta tehakse huvitatud isiku nõudel märge riiklikus ehitisregistris, kusjuures huvitatud isik esitab märke tegemiseks vajalikud andmed lepingu tõestanud notarile. Riiklikule ehitisregistrile esitab märke tegemiseks vajalikud andmed lepingu tõestanud notar.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13b2lg5">
+				<loigeNr>5</loigeNr>
+				<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui enne kinnisasja koormamist hüpoteegiga on seatud registerpant vallasvarale, ei laiene hüpoteek registerpandi kestuse ajal kinnisasja päraldistele, mis on koormatud registerpandiga. Registerpant ei ulatu kinnisasja päraldistele, kui enne registerpandi seadmist oli kinnisasi koormatud hüpoteegiga. Pärast asjaõigusseaduse rakendamisega seotud õigusaktide muutmise seaduse jõustumist ei või käsipandi esemeks olla ehitis.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2010</RTaasta>
+							<RTnr>38</RTnr>
+							<RTartikkel>231</RTartikkel>
+							<aktViide>13332386</aktViide>
+						</avaldamismarge>
+						<joustumine>2010-07-01</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+			<loige id="para13b2lg6">
+				<loigeNr>6</loigeNr>
+				<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Eesti NSV seaduse riikliku notariaadi kohta (ENSV Teataja 1973, 53, 473) § 44 alusel elamule seatud võõrandamise keelud kustutab riiklikust ehitisregistrist huvitatud isiku avalduse alusel notar, kellele huvitatud isik avalduse esitab. Laenu tasumine või pandilepingu lõppemine tuleb tõendada.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para13b3">
+			<paragrahvNr ylaIndeks="3">13</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 13<sup>3</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Pandiõiguse ümberregistreerimine</paragrahvPealkiri>
+			<loige id="para13b3lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui ehitis või selle osa, mis on panditud käesoleva seaduse § 13<sup>2</sup> 1. ja 2. lõike kohaselt või enne asjaõigusseaduse rakendamisega seotud õigusaktide muutmise seaduse jõustumist kommertspandi või käsipandina, muutub maa oluliseks osaks, on pandipidajal õigus esitada notariaalselt kinnitatud avaldus pandiõiguse kinnistamiseks kinnistut koormava hüpoteegina, alates ehitisealuse maa kohta kinnistusregistri osa avamise teate avaldamisest ametlikus väljaandes Ametlikud Teadaanded. Kui pandipidaja ja pantija soovivad pandilepingu tingimusi muuta, sõlmitakse pandiõiguse ümberregistreerimiseks asjaõigusleping. Asjaõigusseaduse rakendamisega seotud õigusaktide muutmise seaduse jõustumisel kinnistusraamatusse kantud kinnisasjade suhtes võib pandipidaja nõuda pandiõiguse kandmist kinnistusraamatusse esimesele vabale järjekohale.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13b3lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui panditud ehitise omaniku kasuks seatakse hoonestusõigus, on pandipidajal õigus nõuda asjaõiguslepingu sõlmimist ja pandiõiguse kinnistamist hoonestusõigust koormava hüpoteegina, alates hoonestusõiguse kohta kinnistusregistri osa avamise teate avaldamisest ametlikus väljaandes Ametlikud Teadaanded.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13b3lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui ehitis oli koormatud mitme pandiõigusega, kantakse need hüpoteekidena kinnistusraamatusse vastavalt kinnistamisavalduste registreerimisele kinnistuspäevikus. Pandipidajal on ehitise pandilepingu alusel õigus nõuda kinnistusraamatu kande tegemist. Kui kinnisasi on pärast kinnistusraamatusse kandmist omandatud heauskse omandaja poolt, ei saa nõuda senise pandiõiguse hüpoteegina sissekandmist. Hüpoteegisummana kantakse kinnistusraamatusse ehitise pandiga tagatud võla summa, kui pooled ei lepi kokku teisiti.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13b3lg3b1">
+				<loigeNr ylaIndeks="1">3</loigeNr>
+				<kuvatavNr><![CDATA[(3<sup>1</sup>)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui ehitise või ehitiseosa juurde kuuluva maa esmakinnistamiseks antava hooneregistri tõendi väljastamisel nähtub hooneregistrist, et ehitis või selle osa on koormatud pandiga või kohtulahendi alusel hooneregistrisse kantud keelu või arestiga, teatab hooneregister nimetatud tõendi väljastamisest kohe kirjalikult hooneregistrist nähtuvate pantide pandipidajatele ja kohtulahendi alusel hooneregistrisse kantud keeldude ja arestide järgi õigustatud isikutele.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para13b3lg3b2">
+				<loigeNr ylaIndeks="2">3</loigeNr>
+				<kuvatavNr><![CDATA[(3<sup>2</sup>)]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>2002</RTaasta>
+						<RTnr>47</RTnr>
+						<RTartikkel>297</RTartikkel>
+						<aktViide>133139</aktViide>
+					</avaldamismarge>
+					<joustumine>2004-01-01</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para13b3lg3b3">
+				<loigeNr ylaIndeks="3">3</loigeNr>
+				<kuvatavNr><![CDATA[(3<sup>3</sup>)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Riiklikust ehitisregistrist nähtuval pandipidajal, samuti riiklikusse ehitisregistrisse kohtulahendi alusel kantud keelu või aresti järgi õigustatud isikul on ühepoolses korras õigus kuni registriosa avamiseni taotleda avatavasse kinnistusraamatu registriossa eelmärke või keelumärke kandmist, alates kinnistusregistriosa avamise teate avaldamisest ametlikus väljaandes Ametlikud Teadaanded. Märke kinnistusraamatusse kandmiseks ei ole vaja nõusolekut isikult, kes esmakinnistamisel kantakse kinnistusraamatusse kinnistu omanikuna. Kande aluseks on käesoleva lõike esimeses lauses sätestatud isiku avaldus, milles märgitakse taotletav hüpoteegisumma ja viide pandilepingule või viide keelu või aresti riiklikusse ehitisregistrisse kandmise aluseks olevale kohtulahendile. Hüpoteegi seadmist tagavas eelmärkes märgitakse hüpoteegisumma pandipidaja avaldatud suuruses, samuti tehakse viide pandilepingule. Keelumärkes tehakse viide keelu või aresti riiklikusse ehitisregistrisse kandmise aluseks olevale kohtulahendile.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2006</RTaasta>
+							<RTnr>19</RTnr>
+							<RTartikkel>148</RTartikkel>
+							<aktViide>1023153</aktViide>
+						</avaldamismarge>
+						<joustumine>2006-05-15</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+			<loige id="para13b3lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ehitisele seatud pandiga tagatud nõuet saab pärast ehitisealuse maa või hoonestusõiguse kinnistusraamatusse kandmist sundtäita alles pärast ehitisele pandi alusel hüpoteegi seadmist. Ehitisele seatud pandile kohaldatakse asjaõigusseaduse kinnispandi sätteid alles pärast pandi kinnistamist hüpoteegina.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para13b4">
+			<paragrahvNr ylaIndeks="4">13</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 13<sup>4</sup>.]]></kuvatavNr>
+			<muutmismarge>
+				<tavatekst>Kehtetu - </tavatekst>
+				<avaldamismarge>
+					<RTosa>RT I</RTosa>
+					<RTaasta>2009</RTaasta>
+					<RTnr>37</RTnr>
+					<RTartikkel>251</RTartikkel>
+					<aktViide>13196603</aktViide>
+				</avaldamismarge>
+				<joustumine>2009-07-10</joustumine>
+			</muutmismarge>
+		</paragrahv>
+		<paragrahv id="para13b5">
+			<paragrahvNr ylaIndeks="5">13</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 13<sup>5</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Finantstagatise kokkulepe</paragrahvPealkiri>
+			<loige id="para13b5lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr/>
+				<sisuTekst>
+					<tavatekst>Finantstagatise kokkuleppele, mis on sõlmitud enne 2011. aasta 30. juunit, ning sellise kokkuleppe alusel finantstagatise realiseerimisele kohaldatakse enne käesoleva seaduse 2011. aasta 9. juunit vastuvõetud redaktsiooni jõustumist finantstagatise kokkulepete suhtes kehtinud õigusakte. Esimeses lauses sätestatut kohaldatakse ka juhul, kui enne 2011. aasta 30. juunit sõlmitud tagatiskokkuleppe kohaselt tagatiseks olevad nõuded tekivad pärast 2011. aasta 30. juunit.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2011-06-29</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>129062011001</aktViide>
+					</avaldamismarge>
+					<joustumine>2011-06-30</joustumine>
+				</muutmismarge>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para14">
+			<paragrahvNr>14</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 14.]]></kuvatavNr>
+			<paragrahvPealkiri>Õigusliku aluseta püstitatud ehitis</paragrahvPealkiri>
+			<loige id="para14lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Maakasutusõiguseta või ehitusloata püstitatud ehitis või selle osa (juurdeehitis), mis on maaga püsivas ühenduses, on maatüki oluline osa. </tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2013-03-15</avaldamineKuupaev>
+						<RTartikkel>26</RTartikkel>
+						<aktViide>115032013026</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-03-20</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para14lg1b1">
+				<loigeNr ylaIndeks="1">1</loigeNr>
+				<kuvatavNr><![CDATA[(1<sup>1</sup>)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ehitusloana käesoleva paragrahvi 1. lõike tähenduses käsitletakse ka enne 1991. aasta 1. novembrit koostatud ja kehtinud korras kinnitatud maa ostueesõigusega erastamist taotleva isiku elamu, suvila või aiamaja tüüpprojekti või enne nimetatud tähtpäeva koostatud ja kehtinud korras kinnitatud maa ostueesõigusega erastamist taotleva isiku elamu, suvila või aiamaja ehitusprojekti, kui ehitusloa väljaandmist ei ole võimalik tuvastada.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para14lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ehitaja võib esitada maa omaniku suhtes võlaõigusseaduse §-s 1042 sätestatud nõude. Kui maatükile on ehitatud maa omaniku nõusolekuta, on omanikul õigus nõuda materjali eemaldamist ehitaja kulul.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2018-06-29</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>129062018001</aktViide>
+						</avaldamismarge>
+						<joustumine>2018-07-01</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+			<loige id="para14lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Käesoleva paragrahvi 1. lõikes nimetatud ehitise olemasolu ei saa olla aluseks selle maa suhtes maareformi seaduse § 6 2. lõike punkti 3 sätete kohaldamisele ning ei takista maa riigi omandisse jätmist ega maa munitsipaalomandisse andmist. Ehitise omanikul on õigus ühe aasta jooksul ehitisealuse maa riigi omandisse jätmise või munitsipaalomandisse andmise otsuse jõustumisest ehitis teisaldada või lammutada.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2013-03-15</avaldamineKuupaev>
+							<RTartikkel>26</RTartikkel>
+							<aktViide>115032013026</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-03-20</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para15">
+			<paragrahvNr>15</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 15.]]></kuvatavNr>
+			<paragrahvPealkiri>Hoonestusõiguse seadmine</paragrahvPealkiri>
+			<loige id="para15lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ehitise omanikul, kellele kuuluv ehitis on püstitatud õiguslikul alusel ja kes ei soovi või kellel ei ole õigust maad omandada, on õigus nõuda hoonestusõiguse seadmist ehitisealusele ja ehitise teenindamiseks vajalikule maale ühe aasta jooksul, arvates nimetatud maa kandmisest kinnistusraamatusse. Kui ehitise omanik ei nõua nimetatud tähtaja jooksul hoonestusõiguse seadmist, muutub ehitis maatüki oluliseks osaks, välja arvatud riigimaal või munitsipaalomandis oleval maal asuv ehitis. Kui maa omanik keeldub hoonestusõiguse seadmisest, kuid eelnevalt oli sõlmitud notariaalselt tõestatud kokkulepe hoonestusõiguse seadmiseks, on ehitise omanikul õigus esitada ühe aasta jooksul, arvates ehitisealuse maa kandmisest kinnistusraamatusse, hoonestusõiguse tunnustamist ja vastavat kinnistusraamatu kannet taotlev hagi. Kuni kohtuotsuse jõustumiseni on nimetatud ehitis vallasasi.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2013-03-15</avaldamineKuupaev>
+						<RTartikkel>26</RTartikkel>
+						<aktViide>115032013026</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-03-20</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para15lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>1996</RTaasta>
+						<RTnr>36</RTnr>
+						<RTartikkel>738</RTartikkel>
+						<aktViide>28543</aktViide>
+					</avaldamismarge>
+					<joustumine>1996-06-07</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para15lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui käesoleva paragrahvi 1. lõikes nimetatud ehitise omanik ei nõua hoonestusõiguse seadmist ühe aasta jooksul, arvates maa kinnistusraamatusse kandmisest, seatakse hoonestusõigus riigimaale Vabariigi Valitsuse poolt määratud riigiasutuse ja munitsipaalomandis olevale maale kohaliku omavalitsuse otsuse alusel.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2013-03-15</avaldamineKuupaev>
+						<RTartikkel>26</RTartikkel>
+						<aktViide>115032013026</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-03-20</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para15lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ehitise omanikul on õigus nõuda, et hoonestusõiguse tähtaeg ei oleks lühem kui ehitise eeldatava püsimise tähtaeg. Maa omanikul on õigus nõuda, et hoonestusõiguse tähtaeg ei oleks pikem kui ehitise eeldatava püsimise tähtaeg.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2005</RTaasta>
+							<RTnr>39</RTnr>
+							<RTartikkel>308</RTartikkel>
+							<aktViide>919178</aktViide>
+						</avaldamismarge>
+						<joustumine>2006-01-01</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para15b1">
+			<paragrahvNr ylaIndeks="1">15</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 15<sup>1</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Omaniku ostueesõigus</paragrahvPealkiri>
+			<loige id="para15b1lg1">
+				<sisuTekst>
+					<tavatekst>Omanikul, kes on koormanud oma kinnisasja hoonestusõigusega enne 1999. aasta 1. aprilli, on kuni 2000. aasta 31. märtsini õigus nõuda hoonestajalt hoonestusõiguse koormamist ostueesõigusega omaniku kasuks.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>1999</RTaasta>
+							<RTnr>27</RTnr>
+							<RTartikkel>380</RTartikkel>
+							<aktViide>77268</aktViide>
+						</avaldamismarge>
+						<joustumine>1999-04-01</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para15b2">
+			<paragrahvNr ylaIndeks="2">15</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 15<sup>2</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Tehnovõrgu ja -rajatise talumine</paragrahvPealkiri>
+			<loige id="para15b2lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kinnisasja omanik on kohustatud taluma olemasolevat tehnovõrku või -rajatist, mis on püstitatud enne maa esmakinnistamist.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2018-01-30</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>130012018001</aktViide>
+					</avaldamismarge>
+					<joustumine>2019-01-01</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para15b2lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kinnisasja omanik on kohustatud taluma ka tehnovõrku või -rajatist, mille suhtes ei ole käesoleva paragrahvi lõikes 1 sätestatud talumiskohustust, kui see tehnovõrk või -rajatis kuulub asjaõigusseaduse §-s 158<sup>1</sup> nimetatud võrguettevõtjale ja on püstitatud omaniku nõusolekul enne 1999. aasta 1. aprilli ning seda tehnovõrku või -rajatist kasutatakse eesmärgipäraselt ja avalikes huvides.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2015-03-23</avaldamineKuupaev>
+						<RTartikkel>3</RTartikkel>
+						<aktViide>123032015003</aktViide>
+					</avaldamismarge>
+					<joustumine>2015-07-01</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para15b2lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud talumiskohustuse puudumisel on kinnisasja omanikul õigus nõuda tehnovõrgu või -rajatise kõrvaldamist temale kuuluvalt kinnisasjalt asjaõigusseaduse §-s 89 sätestatud korras või kokku leppida tehnovõrgu või -rajatise ümberpaigutamises kinnisasjal tehnovõrgu või -rajatise omaniku kulul. Olemasolevate tehnovõrkude või -rajatiste kõrvaldamiseks on omaabi keelatud.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para15b2lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud juhul võib kinnisasja omanik nõuda tehnovõrgu või -rajatise omanikult tehnovõrgu või -rajatise ümberpaigutamist temale kuuluval kinnisasjal, kui see on tehniliselt võimalik ja kinnisasja omanik hüvitab tehnovõrgu või -rajatise ümberpaigutamisega seotud kulud.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>2007</RTaasta>
+						<RTnr>24</RTnr>
+						<RTartikkel>128</RTartikkel>
+						<aktViide>12802608</aktViide>
+					</avaldamismarge>
+					<joustumine>2007-03-26</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para15b2lg5">
+				<loigeNr>5</loigeNr>
+				<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud talumiskohustuse olemasolul võib tehnovõrgu või -rajatise omanik anda selle kirjalikus vormis sõlmitud lepinguga allkasutusse elektroonilise side teenuse osutamiseks vajalike rajatiste paigutamiseks ilma kinnisasja omaniku nõusolekuta, tingimusel et lisanduvate rajatiste kaitsevöönd ei ületa olemasoleva rajatise kaitsevööndit.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2017-01-25</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>125012017001</aktViide>
+					</avaldamismarge>
+					<joustumine>2017-03-01</joustumine>
+				</muutmismarge>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para15b3">
+			<paragrahvNr ylaIndeks="3">15</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 15<sup>3</sup>.]]></kuvatavNr>
+			<muutmismarge>
+				<tavatekst>Kehtetu - </tavatekst>
+				<avaldamismarge>
+					<RTosa>RT I</RTosa>
+					<RTaasta>2007</RTaasta>
+					<RTnr>24</RTnr>
+					<RTartikkel>128</RTartikkel>
+					<aktViide>12802608</aktViide>
+				</avaldamismarge>
+				<joustumine>2007-03-26</joustumine>
+			</muutmismarge>
+		</paragrahv>
+		<paragrahv id="para15b4">
+			<paragrahvNr ylaIndeks="4">15</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 15<sup>4</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Tasu tehnovõrgu ja -rajatise talumise eest</paragrahvPealkiri>
+			<loige id="para15b4lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui tehnovõrgu või -rajatise talumise kohustus tuleneb käesoleva seaduse § 15<sup>2</sup> 1. või 2. lõikest ning kinnisasja omaniku ja tehnovõrgu või -rajatise omaniku vahel ei ole kehtivat lepingut tehnovõrgu või -rajatise talumise kohustuse eest makstava tasu suuruse kohta, on kinnisasja omanikul õigus nõuda tasu tehnovõrgu või -rajatise talumise eest (edaspidi <i>talumistasu</i>) käesoleva seaduse §-des 15<sup>5</sup> ja 15<sup>6</sup> sätestatud suuruses ja korras.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2018-01-30</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>130012018001</aktViide>
+					</avaldamismarge>
+					<joustumine>2019-01-01</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para15b4lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-04-23</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>123042012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2012-04-17</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para15b4lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-04-23</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>123042012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2012-04-17</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para15b4lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-04-23</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>123042012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2012-04-17</joustumine>
+					<tavatekst> - Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi kohtuotsus tunnistab AÕSRS § 15.4 lõiked 2–4 ja AÕS § 158² lõike 1 esimese lause osa „asjaõigusseaduse rakendamise seaduse §-s 15.4 kehtestatud suuruses” põhiseadusega vastuolus olevaks ning alates käesoleva otsuse jõustumisest kehtetuks.</tavatekst>
+				</muutmismarge>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para15b5">
+			<paragrahvNr ylaIndeks="5">15</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 15<sup>5</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Talumistasu suurus</paragrahvPealkiri>
+			<loige id="para15b5lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Talumistasu suurus aastas on 3,5 protsenti maa maksustamishinnast korrutatuna kitsenduse ruumilise ja sisulise ulatuse koefitsientidega.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2022-03-10</avaldamineKuupaev>
+						<RTartikkel>2</RTartikkel>
+						<aktViide>110032022002</aktViide>
+					</avaldamismarge>
+					<joustumine>2024-01-01</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para15b5lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kitsenduse ruumilise ulatuse koefitsient on kitsenduse pindala suhe katastriüksuse pindalasse. Kitsenduse pindala eeldatakse olevat võrdne kitsendust põhjustava tehnovõrgu rajatise kaitsevööndi pindalaga. Kui tehnovõrgu rajatise kaitsevööndisse jääb rohkem kui 90 protsenti koormatud katastriüksuse pindalast, siis eeldatakse, et kitsenduse pindala võrdub katastriüksuse pindalaga.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para15b5lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kitsenduse sisulise ulatuse eelduslikud koefitsiendid on sätestatud käesoleva seaduse lisas. Kui katastriüksusel on mitu sihtotstarvet, siis kohaldatakse kõige suurema osakaaluga sihtotstarbe koefitsienti. Kui sihtotstarvete osakaal on võrdne, siis kohaldatakse sihtotstarbe koefitsienti, mis on kõige suurem.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para15b5lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Lisaks käesoleva paragrahvi 1. lõikes sätestatud suurusega tasule on kinnisasja omanikul õigus nõuda talumistasuna selliste kantud kulude hüvitamist, mille kandmine on koormatud kinnisasja omaniku jaoks vältimatu ja mille suurus on rohkem kui üks kolmandik talumistasust.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para15b5lg5">
+				<loigeNr>5</loigeNr>
+				<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui tehnovõrgu rajatis paikneb hoones, on talumistasu suurus vastava hooneosa kasutamise harilik tasu.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para15b5lg6">
+				<loigeNr>6</loigeNr>
+				<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Talumistasu ei ole õigus nõuda:</tavatekst>
+				</sisuTekst>
+				<alampunkt id="para15b5lg6p1">
+					<alampunktNr>1</alampunktNr>
+					<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>riigil kinnisasja omanikuna;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para15b5lg6p2">
+					<alampunktNr>2</alampunktNr>
+					<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>tehnovõrgu rajatise selle osa talumise eest, mis on vajalik ainult samal kinnisasjal teenuse tarbimiseks.</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+			</loige>
+			<loige id="para15b5lg7">
+				<loigeNr>7</loigeNr>
+				<kuvatavNr><![CDATA[(7)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Talumistasu ei maksta, kui selle suurus isiku omandis olevate kinnisasjade eest kokku on tehnovõrgu või -rajatise omaniku kohta alla viie euro.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2022-03-10</avaldamineKuupaev>
+						<RTartikkel>2</RTartikkel>
+						<aktViide>110032022002</aktViide>
+					</avaldamismarge>
+					<joustumine>2024-01-01</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para15b5lg8">
+				<loigeNr>8</loigeNr>
+				<kuvatavNr><![CDATA[(8)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Maa maksustamishinna suuruse arvutamisel lähtutakse Maa- ja Ruumiameti andmetest.</tavatekst>
+				</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2024-12-04</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>104122024001</aktViide>
+						</avaldamismarge>
+						<joustumine>2025-01-01</joustumine>
+					</muutmismarge>
+			</loige>
+			<loige id="para15b5lg9">
+				<loigeNr>9</loigeNr>
+				<kuvatavNr><![CDATA[(9)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Talumistasu võib 2024. aastal muutuda kuni 33 protsenti ja 2025. aastal kuni 66 protsenti 2022. aasta korralise hindamise ja 2001. aasta korralise hindamise tulemuste alusel määratud maa maksustamishindade alusel arvutatud talumistasude vahest.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2022-03-10</avaldamineKuupaev>
+						<RTartikkel>2</RTartikkel>
+						<aktViide>110032022002</aktViide>
+					</avaldamismarge>
+					<joustumine>2024-01-01</joustumine>
+				</muutmismarge>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para15b6">
+			<paragrahvNr ylaIndeks="6">15</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 15<sup>6</sup>.]]></kuvatavNr>
+			<paragrahvPealkiri>Talumistasu taotlemise kord</paragrahvPealkiri>
+			<loige id="para15b6lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Tehnovõrgu talumistasu saamiseks esitab kinnisasja omanik taotluse tehnovõrgu omanikule. Kui kinnisasja omanik ei ole taotluses märkinud, et maatulundusmaa sihtotstarbega maad ei kasutata tehnorajatise kaitsevööndi alal sihtotstarbeliselt, siis loetakse, et maad kasutatakse sihtotstarbeliselt.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para15b6lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Jooksva aasta eest on talumistasu saamise õigus isikul, kes oli vastava kinnisasja omanik sama aasta 1. jaanuari seisuga, kui ta esitab käesoleva paragrahvi 1. lõikes sätestatud taotluse hiljemalt jooksva aasta 1. mail.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para15b6lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Käesoleva paragrahvi 1. lõikes sätestatud taotluse alusel makstakse talumistasu ka järgmistel aastatel kuni uue taotluse esitamiseni. Tasu saamise aluseks olevate asjaolude muutumisel on kinnisasja omanik kohustatud sellest tehnovõrgu omanikule teatama. Kinnisasja omaniku vahetumise korral tekib uuel omanikul tasu saamise õigus pärast 1. lõikes sätestatud taotluse esitamist 2. lõikes sätestatud tähtaegadest lähtudes.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para15b6lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Talumistasu jooksva aasta eest makstakse välja hiljemalt sama aasta 30. septembril.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para15b6lg5">
+				<loigeNr>5</loigeNr>
+				<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Korteriomanditeks jagatud kinnisasja puhul võib käesoleva paragrahvi 1. lõikes sätestatud taotluse esitada korteriühistu. Sellisel juhul makstakse talumistasu korteriühistule, kes on kohustatud saadud summa maksma korteriomanikele või tasaarvestama selle majandamiskulude nõudega.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para15b6lg6">
+				<loigeNr>6</loigeNr>
+				<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Talumistasu saamise nõude aegumistähtaeg on kolm aastat.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para15b6lg7">
+				<loigeNr>7</loigeNr>
+				<kuvatavNr><![CDATA[(7)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Käesoleva paragrahvi 1. lõikes sätestatud taotlusega samaväärseks loetakse taotlus, mis on esitatud enne 2019. aasta 1. jaanuari asjaõigusseaduse §-s 158<sup>2</sup> sätestatud korras.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2018-01-30</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>130012018001</aktViide>
+					</avaldamismarge>
+					<joustumine>2019-01-01</joustumine>
+					<tavatekst>; osaliselt muudetud [RT I, 04.05.2018, 1]</tavatekst>
+				</muutmismarge>
+			</loige>
+			<loige id="para15b6lg8">
+				<loigeNr>8</loigeNr>
+				<kuvatavNr><![CDATA[(8)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui 2019. aasta 1. jaanuaril kinnisasja koormava tehnovõrgu rajatise andmed kantakse maakatastrisse pärast 2019. aasta 1. jaanuari, on kinnisasja omanikul õigus nõuda talumistasu käesoleva seaduse §-s 15<sup>5</sup> sätestatud suuruses tagasiulatuvalt alates 2019. aasta 1. jaanuarist. Taotlus talumistasu tagasiulatuvaks nõudmiseks tuleb esitada hiljemalt tehnovõrgu rajatise andmete maakatastrisse kandmise aastale järgneva aasta 1. mail.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2018-01-30</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>130012018001</aktViide>
+					</avaldamismarge>
+					<joustumine>2019-01-01</joustumine>
+					<tavatekst>; osaliselt muudetud [RT I, 04.05.2018, 1]</tavatekst>
+				</muutmismarge>
+			</loige>
+			<loige id="para15b6lg9">
+				<loigeNr>9</loigeNr>
+				<kuvatavNr><![CDATA[(9)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Tehnovõrgu omanik kehtestab talumistasu taotluse vormi ja taotluse menetlemise täpsema korra ning avaldab selle oma veebilehel. Selle kohustuse täitmata jätmine ei vabasta tehnovõrgu omanikku talumistasu maksmise kohustusest.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2018-01-30</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>130012018001</aktViide>
+					</avaldamismarge>
+					<joustumine>2019-01-01</joustumine>
+				</muutmismarge>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para16">
+			<paragrahvNr>16</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 16.]]></kuvatavNr>
+			<paragrahvPealkiri>Kolhoosi- ja talupere omand</paragrahvPealkiri>
+			<loige id="para16lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Alates 1993. aasta 1. detsembrist kuulub kolhoosi- ja talupere vara kolhoosipere peale ja tema abikaasale või taluperemehele ja tema abikaasale ühiselt.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para16lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui kolhoosi- või talupere vara või selle osa oli omandatud pere teiste liikmete varalise või tööpanuse arvel, on neil õigus nõuda oma osa eraldamist kokkuleppel kolhoosipere pea või taluperemehega. Kolhoosi- või taluperele kuuluva ehitise jagamise kokkulepe peab olema notariaalselt tõestatud.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para16lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui käesoleva paragrahvi 2. lõikes märgitud kokkulepet ei saavutata, on kolhoosi- või talupere liikmel õigus nõuda kohtu korras ühe aasta jooksul, arvates 1993. aasta 1. detsembrist, oma osa eraldamist.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para17">
+			<paragrahvNr>17</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 17.]]></kuvatavNr>
+			<paragrahvPealkiri>Kolhoosi- ja talupere vara pärimine</paragrahvPealkiri>
+			<loige id="para17lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Alates 1993. aasta 1. detsembrist toimub endise kolhoosi- või talupere vara kui kolhoosipere pea ja tema abikaasa või taluperemehe ja tema abikaasa ühisvara pärimine Eesti NSV tsiviilkoodeksi sätete kohaselt.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para17lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Alates 1993. aasta 1. detsembrist toimub endise kolhoosi- või talupere varast endise pere liikmele eraldatud osa pärimine, kui sellele pole välja antud pärimisõiguse tunnistust, Eesti NSV tsiviilkoodeksi sätete kohaselt.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para17lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui kolhoosipere pea või taluperemees on surnud ning endise kolhoosi- või talupere liikme osa on pere varast eraldamata, on endise kolhoosi- või talupere liikmel õigus nõuda oma osa eraldamist pärandvarast kuni 1994. aasta 1. detsembrini.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para17lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui endise kolhoosi- või talupere liige on surnud ning tema pärandile pole välja antud pärimisõiguse tunnistust, või kui ta on surnud enne 1994. aasta 1. detsembrit ning tema osa endise kolhoosi- või talupere varast ei ole eraldatud, on tema pärijatel, kes on notarile esitanud avalduse pärandi vastuvõtmiseks, õigus nõuda surnud pereliikme osa eraldamist käesoleva seaduse § 16 2. lõike sätete kohaselt või nõuda tema osa eraldamist § 16 3. lõike sätete kohaselt kohtu korras kuni 1994. aasta 1. juunini või kuue kuu jooksul, arvates pärandi avanemise päevast.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para18">
+			<paragrahvNr>18</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 18.]]></kuvatavNr>
+			<paragrahvPealkiri>Talumaa põlise kasutamise õigus</paragrahvPealkiri>
+			<loige id="para18lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Taluperemehel, kellele on antud talumaa põliseks kasutamiseks Eesti NSV taluseaduse (ENSV Teataja 1989, 39, 611; RT I 1993, 72/73, 1021; 1994, 30, 465; 66, 1159) alusel, või tema pärijal on õigus saada talumaa omanikuks maareformi seaduses sätestatud alustel ja korras. Talumaa põlise kasutamise õigus on päritav.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para18lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Õigusvastaselt võõrandatud ning Eesti NSV taluseaduse alusel põliseks kasutamiseks antud maa ei kuulu maareformi seaduse § 6 2. lõike punkti 2 alusel endistele (õigusjärgsetele) omanikele või nende pärijatele tagastamisele ainult siis, kui maa eraldamisel on kinni peetud taluseaduse § 8 sätetest. Õigusvastaselt võõrandatud maa tagastamisel või kompenseerimisel loetakse Eesti NSV taluseaduse alusel põliseks kasutamiseks antud maaga võrdseks kuni taluseaduse jõustumiseni EKP Keskkomitee ja ENSV Ministrite Nõukogu 1988. aasta 22. märtsi määruse nr 144 «Individuaalse töise tegevuse kohta põllumajanduses» (ENSV Teataja 1988, 17, 214) ning ENSV Ministrite Nõukogu 1989. aasta 16. veebruari määruse nr 71 «Talumajanduse arendamise esmaste abinõude kohta» (ENSV Teataja 1989, 11, 121; RT 1992, 3, 48) alusel talude rajamiseks antud maa. Kui maa eraldamise õigsus eelmises lauses nimetatud õigusaktide sätete rikkumise või ebaõige tõlgendamise tõttu vaidlustatakse, kuulub vaidlus lahendamisele kohtus.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para18lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Selle taluperemehe kasuks, kes ei soovi talumaad omandada, seatakse maareformi seaduses sätestatud alustel ja korras ehitise teenindamiseks vajalikule maale hoonestusõigus ja ülejäänud talumaale pikaajaline pärijale üleminev kasutusvaldus kuni 99 aastaks.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2013-03-15</avaldamineKuupaev>
+						<RTartikkel>26</RTartikkel>
+						<aktViide>115032013026</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-03-20</joustumine>
+				</muutmismarge>
+			</loige>
+			<loige id="para18lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Maakasutusõigus on päritav ja üleantav talupere liikmele. Maakasutusõiguse üleandmine peab olema notariaalselt tõestatud ning registreeritud kohalikus omavalitsusüksuses. Maakasutusõigus lõpeb taluhoonete võõrandamisel talupere liikmeks mitteolevale isikule, maakasutusõigusest loobumisel, talupere vara müümisel nõuete katteks ning taluperemehe teovõimetuks tunnistamisel. Kohaliku omavalitsuse volikogu otsustab maakasutusõiguse lõpetamise, kui talupere kahel järjestikusel aastal maad sihtotstarbeliselt ei kasuta või rikub korduvalt maa kasutamise eeskirju.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>1997</RTaasta>
+							<RTnr>13</RTnr>
+							<RTartikkel>210</RTartikkel>
+							<aktViide>31515</aktViide>
+						</avaldamismarge>
+						<joustumine>1997-03-02</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+			<loige id="para18lg5">
+				<loigeNr>5</loigeNr>
+				<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Eesti NSV taluseaduse alusel põliseks kasutamiseks või sellega võrdsustatud korras talude rajamiseks antud maa erastamine või tagastamine taluperemehele või talumaa põlise kasutamise õiguse pärinud isikule või isikule, kellele on talumaa kasutamise õigus käesoleva paragrahvi 4. lõike kohaselt üle antud, tuleb lõpule viia 2016. aasta 30. septembriks. Maakasutusõiguse ümbervormistamine käesoleva paragrahvi 3. lõikes nimetatud alustel tuleb lõpule viia 2016. aasta 31. detsembriks.</tavatekst>
+				</sisuTekst>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2013-03-15</avaldamineKuupaev>
+						<RTartikkel>26</RTartikkel>
+						<aktViide>115032013026</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-03-20</joustumine>
+				</muutmismarge>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para19">
+			<paragrahvNr>19</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 19.]]></kuvatavNr>
+			<paragrahvPealkiri>Seniste kitsenduste kehtivus</paragrahvPealkiri>
+			<loige id="para19lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kuni maa, maapõue, vete, metsa ja teiste loodusobjektide kasutamise ja kaitse alaste õigusaktide kooskõlla viimiseni asjaõigusseadusega kohaldatakse neis sätestatud kitsendusi niivõrd, kuivõrd need pole vastuolus asjaõigusseadusega.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para19lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Jahipidamisele kohaldatakse asjaõigusseaduse sätteid alates 1994. aasta 1. märtsist.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para20">
+			<paragrahvNr>20</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 20.]]></kuvatavNr>
+			<paragrahvPealkiri>Kohaliku omavalitsuse üldine ostueesõigus</paragrahvPealkiri>
+			<loige id="para20lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kohalikul omavalitsusel on kuni 2002. aasta 1. jaanuarini oma haldusterritooriumil kõigi kinnisasjade suhtes nende igat liiki võõrandamisel igakordne ostueesõigus vastavalt asjaõigusseaduse §-dele 256–275, kui käesolevast seadusest ei tulene teisiti. Kui kinnisasi asub mitme kohaliku omavalitsuse territooriumil, on neil kohalikel omavalitsustel ühine ostueesõigus.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para20lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Käesoleva paragrahvi 1. lõikes nimetatud ostueesõigus kehtib ka kaasomanikule kuuluva kinnisasja mõttelise osa võõrandamisel, samuti ühisomandis oleva kinnisasja võõrandamisel.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para20lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Käesoleva paragrahvi 1. lõikes nimetatud ostueesõigus ei kehti kinnisasja või selle mõttelise osa võõrandamisel riigi või kohaliku omavalitsuse poolt või võõrandamisel abikaasale, alanejatele sugulastele, vanematele, õdedele ja vendadele ning nende alanejatele sugulastele, samuti müügil enampakkumisel, võõrandamisel riigile või kohalikule omavalitsusele, ostueesõiguse teostamisel seadusega õigustatud muu isiku poolt või pärimisel.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para20lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Käesoleva paragrahvi 1. lõikes nimetatud ostueesõigus ei kehti juhul, kui krediidi- või finantseerimisasutus võõrandab tema omandis oleva kinnisasja liisingulepingust tulenevalt liisinguvõtjale.</tavatekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2001</RTaasta>
+							<RTnr>42</RTnr>
+							<RTartikkel>234</RTartikkel>
+							<aktViide>72912</aktViide>
+						</avaldamismarge>
+						<joustumine>2001-05-08</joustumine>
+					</muutmismarge>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para21">
+			<paragrahvNr>21</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 21.]]></kuvatavNr>
+			<muutmismarge>
+				<tavatekst>Kehtetu - </tavatekst>
+				<avaldamismarge>
+					<RTosa>RT I</RTosa>
+					<RTaasta>2003</RTaasta>
+					<RTnr>51</RTnr>
+					<RTartikkel>355</RTartikkel>
+					<aktViide>606617</aktViide>
+				</avaldamismarge>
+				<joustumine>2003-07-19</joustumine>
+			</muutmismarge>
+		</paragrahv>
+		<paragrahv id="para22">
+			<paragrahvNr>22</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 22.]]></kuvatavNr>
+			<paragrahvPealkiri>Kohaliku omavalitsuse poolt ostueesõigusega omandatud kinnisasja võõrandamise kitsendus</paragrahvPealkiri>
+			<loige id="para22lg1">
+				<sisuTekst>
+					<tavatekst>Kohalik omavalitsus võib §-s 20 sätestatud ostueesõigusega omandatud kinnisasja võõrandada ainult avalikul enampakkumisel.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para23">
+			<paragrahvNr>23</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 23.]]></kuvatavNr>
+			<muutmismarge>
+				<tavatekst>Kehtetu - </tavatekst>
+				<avaldamismarge>
+					<RTosa>RT I</RTosa>
+					<RTaasta>2010</RTaasta>
+					<RTnr>72</RTnr>
+					<RTartikkel>543</RTartikkel>
+					<aktViide>13361493</aktViide>
+				</avaldamismarge>
+				<joustumine>2011-01-01</joustumine>
+			</muutmismarge>
+		</paragrahv>
+		<paragrahv id="para24">
+			<paragrahvNr>24</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 24.]]></kuvatavNr>
+			<muutmismarge>
+				<tavatekst>Kehtetu - </tavatekst>
+				<avaldamismarge>
+					<RTosa>RT I</RTosa>
+					<RTaasta>2002</RTaasta>
+					<RTnr>53</RTnr>
+					<RTartikkel>336</RTartikkel>
+					<aktViide>174795</aktViide>
+				</avaldamismarge>
+				<joustumine>2002-07-01</joustumine>
+			</muutmismarge>
+		</paragrahv>
+		<paragrahv id="para25">
+			<paragrahvNr kehtiv="0">25</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 25. ]]></kuvatavNr>
+			<sisuTekst>
+				<tavatekst> – </tavatekst>
+			</sisuTekst>
+		</paragrahv>
+		<paragrahv id="para26">
+			<paragrahvNr kehtiv="0">26</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 26. ]]></kuvatavNr>
+			<sisuTekst>
+				<tavatekst>[Käesolevast tekstist välja jäetud.]</tavatekst>
+			</sisuTekst>
+		</paragrahv>
+		<paragrahv id="para27">
+			<paragrahvNr>27</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 27.]]></kuvatavNr>
+			<paragrahvPealkiri>Seaduse jõustumine</paragrahvPealkiri>
+			<loige id="para27lg1">
+				<sisuTekst>
+					<tavatekst>Käesolev seadus jõustub 1993. aasta 1. detsembril.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+	</sisu>
+	<lisaViide>
+		<lisaViit>
+			<sisuTekst>
+				<fail failKuvamine="viitena" failNimi="AOSRS_Lisa.pdf" failVorming="pdf" id="ac63c48c-2bff-4181-adb9-f9f70be696fb">JVBERi0xLjYNJeLjz9MNCjExOCAwIG9iag08PC9MaW5lYXJpemVkIDEvTCAxMzg0OC9PIDEyMC9F
+IDcyNDcvTiAxL1QgMTM1MzIvSCBbIDQ4MCAxNjRdPj4NZW5kb2JqDSAgICAgICAgICAgICAgICAg
+DQoxMzEgMCBvYmoNPDwvRGVjb2RlUGFybXM8PC9Db2x1bW5zIDQvUHJlZGljdG9yIDEyPj4vRmls
+dGVyL0ZsYXRlRGVjb2RlL0lEWzwwQ0NDRDJBMjE1RjZGNDQ4OTZGRTA4NjREQTMxQUQxRj48MzFE
+RThCNDk3QjdGNEE0Mzk5NzZCNTQ3NEI4RjZCNTk+XS9JbmRleFsxMTggMjBdL0luZm8gMTE3IDAg
+Ui9MZW5ndGggNzEvUHJldiAxMzUzMy9Sb290IDExOSAwIFIvU2l6ZSAxMzgvVHlwZS9YUmVmL1db
+MSAyIDFdPj5zdHJlYW0NCmjeYmJkEGBgYmAqARKMzSBCGkgwp4IIQxBxBSTrCmL5gFjGICISxO0C
+sX4CiaceDEyMDKxAFgMDIzrxnzH9D0CAAQB8cQkLDQplbmRzdHJlYW0NZW5kb2JqDXN0YXJ0eHJl
+Zg0KMA0KJSVFT0YNCiAgICAgICAgIA0KMTM3IDAgb2JqDTw8L0MgNzgvRmlsdGVyL0ZsYXRlRGVj
+b2RlL0kgMTAwL0xlbmd0aCA3OC9TIDM4Pj5zdHJlYW0NCmjeYmBg4GZgYEpmAAJJDwZUwAjELAwc
+Dchi3FDMwCjNwMWgsiJyp9dkkUS76LMPFGB6zE8BaSYGBjZvuC5WBgZ/M4gsoxJAgAEAwyUJNA0K
+ZW5kc3RyZWFtDWVuZG9iag0xMTkgMCBvYmoNPDwvTWFya0luZm88PC9NYXJrZWQgdHJ1ZT4+L01l
+dGFkYXRhIDMgMCBSL1BhZ2VMYXlvdXQvT25lQ29sdW1uL1BhZ2VzIDExNiAwIFIvU3RydWN0VHJl
+ZVJvb3QgNyAwIFIvVHlwZS9DYXRhbG9nPj4NZW5kb2JqDTEyMCAwIG9iag08PC9Db250ZW50c1sx
+MjIgMCBSIDEyMyAwIFIgMTI0IDAgUiAxMjUgMCBSIDEyNiAwIFIgMTI3IDAgUiAxMjggMCBSIDEy
+OSAwIFJdL0Nyb3BCb3hbMC4wIDAuMCA1OTUuMzIgODQxLjkyXS9NZWRpYUJveFswLjAgMC4wIDU5
+NS4zMiA4NDEuOTJdL1BhcmVudCAxMTYgMCBSL1Jlc291cmNlczw8L0NvbG9yU3BhY2U8PC9DUzAg
+MTMyIDAgUj4+L0ZvbnQ8PC9UVDAgMTM0IDAgUi9UVDEgMTM2IDAgUj4+Pj4vUm90YXRlIDAvU3Ry
+dWN0UGFyZW50cyAzL1R5cGUvUGFnZT4+DWVuZG9iag0xMjEgMCBvYmoNPDwvRmlsdGVyL0ZsYXRl
+RGVjb2RlL0ZpcnN0IDM5L0xlbmd0aCA3NzMvTiA1L1R5cGUvT2JqU3RtPj5zdHJlYW0NCmje1FXf
+a9swEP5X9Lg9FMmyZMtQCk22sMJWRhPaQemDl5jEkNjFdtn63+/uLCmKZ7dbX8YeDp3vl76TTp+j
+WDLBojhmUQaLYlJpWEFUFIGSsChRMbvnV/P5LG+LDdgEZNw8nJ/zy3ZdVB2LhBJ8nj9+KsrtrmNJ
+IvmHonedxSLli32+bVms+KKuutms/nl/phNDPiaFSqjAA3kX+aHcP79blYeiZdfFD3ZTH/LqPfmu
+80PByQMOsn9dflmRa9k1Rbfe8eu6OeR7Mt31YJQQ/KrL9+X6struCyb4sisOt8wIvnp+LCgUwTbl
+Y1c3/JvtQSlzcQEdYssYMrLvx2pdb8pqy+/K6rJqS/+9KJu2m+/yBjY7LU/nDGfHP+c2QmrNl0/f
+O4Syap4KwuSBQelNt2vv09SwfylSCxYDdCUM00KQGPhGX2R6Hwr5EuXjcZXpMec1wViKhxpOlFIs
+kxFLpYTJSklIh/HUOiEdhTCYzPuM1VFcHOaijn7ny6C+09FOuAED9ZtkhIt0iEM9XH3PIXarpyN9
+O4zhmRA+q2NNBecpUYdVK8Cjba49UxcXiUHh3gDd4Qd2jxnUkT5mu04Iva1MiejI8CoxEa8Wj1T3
+W6Eug+1PrixAkCbYeuLHwNkIMtoU1MZYG68hVunYAyN7ZI9FH0UFVzQUbJTGAhoNxde0MpVPx59M
+18cD9VczIrj3mN2NQzgWk6Ky157GA7GR51udTPKtNKN8qw358L4EFXgb357N6v3mVdJNJ0gXficv
+s65OX2Rdt/vbqFf/z9SrtfbzQA/WBDzlH2Yq3sy9vk4qjgL2LBaeOz1P2gfnQCJp0KMFHX2eU/Hb
+xdnHFNahRsKiIflqE3lg2lIbka9dQ7vPsbqxuvP7HMtuzjck3ziDlysFrVqKUfL1NzBJvj2hIvti
+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
+w2TcyG3jVIBucryXUax+U9/+uu3GRN2OCWra9F1LEK9LF/weH7bygf8VYACfoJmDDQplbmRzdHJl
+YW0NZW5kb2JqDTEyOSAwIG9iag08PC9GaWx0ZXIvRmxhdGVEZWNvZGUvTGVuZ3RoIDQzND4+c3Ry
+ZWFtDQpIiaRUy2rDMBC86yv22EJRtHoLQg55HFoINGDoFzSHQgvt/x8qyfJadq1gUgJOnEEzuzO7
+6l7YqWMX9s1c4EGC9MiFhoD5RXFn4eedvcEX23ds03UICN2VoQQRP/ELreIeZFDcaug+2QM8dh+J
+83Q+ANu8wna7OR+ej6AN7Hb7Y/wzqaGTXJGcd9wuqYk/as5x3ct5n+XEkymC/6ENckbb7MLWXUgr
+uCbPHBd+lZy0hhvb7uJeWi9mtM0uXN2FMo4HS3oiv6zQUzH6JFu1UTVxP2uYsTa78HUXWofRNK/S
+c42cNnqeRdXEvaT2ZhKXtGxagxI67o5Io5cfkfRa9rCH+jUcMXTIfX0OJ2Ce/R6Mo+8wVGiaKdE6
+mkBDojZFNYIpyPh7sdgSMlUrajCZ15RMIEl6Oe3TKHnLH02R5L8pkRHM9tNBXAcGWqHRd5wYX6li
+LUswUeP0dLmVMlxFg5NsWuwEL7OX8IbSKT2cxNcwjNBFU2iHB1fEBC4Bt+omeLnuMgGDK3JmeZmB
+Rt2ELtZ9G01LW90iYbhFljbZm3z7xjspKo+LnLY4bjP8CjAAEkV2PA0KZW5kc3RyZWFtDWVuZG9i
+ag0xMzAgMCBvYmoNPDwvRmlsdGVyL0ZsYXRlRGVjb2RlL0xlbmd0aCAyMTYvTiAxPj5zdHJlYW0N
+CkiJYmBgnOHo4uTKJMDAkJtXUuQe5BgZERmlwH6egY2BmQEMEpOLCxwDAnxA7Lz8vFQGDPDtGgMj
+iL6sCzILUx4vYE0uKCoB0geA2CgltTgZSH8B4szykgKgOGMCkC2SlA1mg9SJZIcEOQPZHUA2X0lq
+BUiMwTm/oLIoMz2jRMHQ0tJSwTElPylVIbiyuCQ1t1jBMy85v6ggvyixJDUFqBZqBwjwuxclViq4
+J+bmJioY6RmR6HIiACgsIazPIeAwYhQ7jxBDgOTSojIok5HJmIEBIMAAScY4Lw0KZW5kc3RyZWFt
+DWVuZG9iag0xIDAgb2JqDTw8L0ZpbHRlci9GbGF0ZURlY29kZS9GaXJzdCA3ODcvTGVuZ3RoIDEy
+OTkvTiAxMDAvVHlwZS9PYmpTdG0+PnN0cmVhbQ0KaN6Ult2OGzcMhV9FbzCSSP0BwQJp0gBF0O1i
+vb0KcuFsBhujG9twbCB5+x6KGndTWyp6Y3mG1CfySKQmGWuyyWyKcdEbZ43LzjhnKCXjvEk+G0cm
+BdjZpAJ7MNnDJZocMCGZnAmTTIHdFVM4GW9NydaIl8VkL1yOxsPPyns4Onj7gJGz8RFj9sbLisDL
+kp6L8VjTA05YlLAQgUcBoYFHCJnAY3kPHgdrCDwWf/AC4iPwAjgEXgCfJEfwGbyIdVmyQLYsaSAe
+Bi8hfAYvIU4OIgYZhO4yfmByORWDqa5AG6BdgROWdiVlg9C8hXSQxVtAAlK3kDEgVQdlA1JzWCRA
+CpeiCVDKy3tI4MUfKXtwIiQi8CN4BD72xct2RPDYsongMX4ieAGQCF4oeAYvIsgokkKfCF4CN4GX
+rTUJvIzFE3gSfwKvwDlBSotNSQEjkkBoZBFHEsltMPhLDqIjdXIIEtKQy9h/2QroI9IiMCPSewQh
+W+MRTwYPDgauRBAtg0dYJIPH1psMHmOTcaiQZsQJwghIAS9AlwJewCYCRQH5FvACnAp4UU4ceBH6
+FPAikirgRfw45EpJTpWVcxzk2AEpW+osmNkmOZD4IycHCVKOclSBzYjt1avpPWrCmvvpbn2Yt8eH
+wzyjPn5+cTt/P76ffxie7nfP8+/rvdSOuDz82M/T6ng4PVa/+93ueHMjzA+QHA5STnVgHYIOUYdU
+h6g2RIXh43Rn6utpNa3mR6Xdnr5++0BSqOJRX73ebnfH9XGz206r/Xo7vfmyPhynd5un02Ge3m7W
+T4f11/PjYbd/s94vj79uP2PuPN3KzztE/M/Tb9vnzXZefVkjq+b9x+ko73QVZLr5a96dju3x9Onb
+42GzPz/u58PLFw+Q7Zfd9+k1Qvtz+3k+nEk3N/9DIJd1qLsi/aYOTgeleKV4pXileKV4pXileKWQ
+UkgppBRSCimFlEJKIaWQUkgprBRWCiuFlcJKYaWwUlgprBRWSlBKUEpQSlBKUEpQSlBKUEpQSlBK
+tC+PUT3XFoepne0ndFfbztWdHlHjxmY/NtPYzGNzGJsjzK7V2FWHVB1c3yGLg419h1Id0kAeWz1G
+ArrqUQYevnrwwIOqRxh4iJRltEioiIFaruppB3K5Kqj1Aw9VlAYeImkZ5OpF0TJI1YugZbBpXvQs
+g03zImcZnep6MAdqelGzDMT0ImYZaOlFyzKQ0ouUZaCkFyXzQEmqpT1QkmpxD5SkWt4DJakW+KgB
+iJJpoCTVIh8oSaJkHihJomQeKEmiZB4oSaJkGijJomQaKMmiZBooyaJkGijJomQa9Uqu3WyQJ9cS
+d4NEWVvmKFPtmaNURc04CqP8R9tumy1fr2p5eLt8Dy33/XLhLzd+u/J1Wfn80e8hmXvf5sbmordf
+bJ9NevtFvf2S3n5J79CkayVdSoP5eA4d5PWn5/kcmG2BuH4E7SZZLozlWliaf29SS1G7+3UnbexL
++16a9NKKl4bbmat87aitb7bu2Hrg9Xna/lqTa62sNazWljrzdD3tO627tB7SOsX1edokWitoBd/K
+uhVvZ56up9XZarBVWqunq/Pal5QU3b+PYfu6um6ivon7ptA1cVxM/sKU+qbcN5WuKdj+rLMa7sLk
++ybqm7hvCl0TndWwF6bUN+W+qXRNbPuzFjW0cfxk8n0T9U3cN4WuyS9qxHxhSn1T7ptK10S2P+sc
+fLowhb7pDIwvTH8LMAAnYfPFDQplbmRzdHJlYW0NZW5kb2JqDTIgMCBvYmoNPDwvRXh0ZW5kcyAx
+IDAgUi9GaWx0ZXIvRmxhdGVEZWNvZGUvRmlyc3QgNjcvTGVuZ3RoIDEwNi9OIDkvVHlwZS9PYmpT
+dG0+PnN0cmVhbQ0KaN50zLENgDAMRNFVboPkEuw4EqKio0HA/rNgBVGBq3/Ss8zckMFsKM3TIRPI
+DKOHA8gCVvFWUH3TT6x7BYWKeU6bD39zpB2qY5zpWpfloRJTDYn2knyohyT6Uv1Qi8li6n90CzAA
+tLtAMQ0KZW5kc3RyZWFtDWVuZG9iag0zIDAgb2JqDTw8L0xlbmd0aCA0MTY0L1N1YnR5cGUvWE1M
+L1R5cGUvTWV0YWRhdGE+PnN0cmVhbQ0KPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBD
+ZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIg
+eDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4yLWMwMDEgNjMuMTM5NDM5LCAyMDEwLzA5LzI3LTEz
+OjM3OjI2ICAgICAgICAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3Jn
+LzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjph
+Ym91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC8iPgogICAgICAgICA8eG1wOk1vZGlmeURhdGU+MjAxOC0wMS0yM1QwODowNzo0NiswMjowMDwv
+eG1wOk1vZGlmeURhdGU+CiAgICAgICAgIDx4bXA6Q3JlYXRlRGF0ZT4yMDE4LTAxLTIzVDA4OjA3
+OjEzKzAyOjAwPC94bXA6Q3JlYXRlRGF0ZT4KICAgICAgICAgPHhtcDpNZXRhZGF0YURhdGU+MjAx
+OC0wMS0yM1QwODowNzo0NiswMjowMDwveG1wOk1ldGFkYXRhRGF0ZT4KICAgICAgICAgPHhtcDpD
+cmVhdG9yVG9vbD5BY3JvYmF0IFBERk1ha2VyIDEwLjAgZm9yIFdvcmQ8L3htcDpDcmVhdG9yVG9v
+bD4KICAgICAgPC9yZGY6RGVzY3JpcHRpb24+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFi
+b3V0PSIiCiAgICAgICAgICAgIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8x
+LjAvbW0vIj4KICAgICAgICAgPHhtcE1NOkRvY3VtZW50SUQ+dXVpZDo1MTY3Y2Q2OC01YTU2LTRm
+NWQtOTcwNS1iZmQyZjQ4OWJkNzU8L3htcE1NOkRvY3VtZW50SUQ+CiAgICAgICAgIDx4bXBNTTpJ
+bnN0YW5jZUlEPnV1aWQ6YmNiODAzYzEtZDdiOS00ZTVkLWE1OGMtMzE1MzI3MTkyZjYxPC94bXBN
+TTpJbnN0YW5jZUlEPgogICAgICAgICA8eG1wTU06c3ViamVjdD4KICAgICAgICAgICAgPHJkZjpT
+ZXE+CiAgICAgICAgICAgICAgIDxyZGY6bGk+MTE8L3JkZjpsaT4KICAgICAgICAgICAgPC9yZGY6
+U2VxPgogICAgICAgICA8L3htcE1NOnN1YmplY3Q+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgog
+ICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczpkYz0i
+aHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iPgogICAgICAgICA8ZGM6Zm9ybWF0PmFw
+cGxpY2F0aW9uL3BkZjwvZGM6Zm9ybWF0PgogICAgICAgICA8ZGM6dGl0bGU+CiAgICAgICAgICAg
+IDxyZGY6QWx0PgogICAgICAgICAgICAgICA8cmRmOmxpIHhtbDpsYW5nPSJ4LWRlZmF1bHQiLz4K
+ICAgICAgICAgICAgPC9yZGY6QWx0PgogICAgICAgICA8L2RjOnRpdGxlPgogICAgICAgICA8ZGM6
+ZGVzY3JpcHRpb24+CiAgICAgICAgICAgIDxyZGY6QWx0PgogICAgICAgICAgICAgICA8cmRmOmxp
+IHhtbDpsYW5nPSJ4LWRlZmF1bHQiLz4KICAgICAgICAgICAgPC9yZGY6QWx0PgogICAgICAgICA8
+L2RjOmRlc2NyaXB0aW9uPgogICAgICAgICA8ZGM6Y3JlYXRvcj4KICAgICAgICAgICAgPHJkZjpT
+ZXE+CiAgICAgICAgICAgICAgIDxyZGY6bGk+QW5kcmEgVGlpbXVzPC9yZGY6bGk+CiAgICAgICAg
+ICAgIDwvcmRmOlNlcT4KICAgICAgICAgPC9kYzpjcmVhdG9yPgogICAgICA8L3JkZjpEZXNjcmlw
+dGlvbj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1s
+bnM6cGRmPSJodHRwOi8vbnMuYWRvYmUuY29tL3BkZi8xLjMvIj4KICAgICAgICAgPHBkZjpQcm9k
+dWNlcj5BZG9iZSBQREYgTGlicmFyeSAxMC4wPC9wZGY6UHJvZHVjZXI+CiAgICAgICAgIDxwZGY6
+S2V5d29yZHMvPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgICAgPHJkZjpEZXNjcmlwdGlv
+biByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6cGRmeD0iaHR0cDovL25zLmFkb2JlLmNv
+bS9wZGZ4LzEuMy8iPgogICAgICAgICA8cGRmeDpTb3VyY2VNb2RpZmllZD5EOjIwMTgwMTIzMDYw
+NjQ2PC9wZGZ4OlNvdXJjZU1vZGlmaWVkPgogICAgICAgICA8cGRmeDpDb21wYW55PlJpaWdpa29n
+dTwvcGRmeDpDb21wYW55PgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8
+L3g6eG1wbWV0YT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAo8P3hwYWNrZXQgZW5kPSJ3Ij8+DQplbmRzdHJlYW0NZW5kb2JqDTQgMCBvYmoNPDwv
+RmlsdGVyL0ZsYXRlRGVjb2RlL0ZpcnN0IDYvTGVuZ3RoIDUyL04gMS9UeXBlL09ialN0bT4+c3Ry
+ZWFtDQpo3jI0NFMwULCx0XfOL80rUTDU985MKY42NDIAigbF6odUFqTqBySmpxbb2QEEGAD5oQw9
+DQplbmRzdHJlYW0NZW5kb2JqDTUgMCBvYmoNPDwvRmlsdGVyL0ZsYXRlRGVjb2RlL0ZpcnN0IDYv
+TGVuZ3RoIDE5Ny9OIDEvVHlwZS9PYmpTdG0+PnN0cmVhbQ0KaN5szc2KAjEQBOBXyc2EBdMZZRQR
+QRy8rIKswp4zk1bbn2lpE2TefqPIsoe9FUXxlXMjBWo6tfMUjyx63gbxakd0TXdjF3y9+bbTX0QH
+OvMh5UrQR+K28hF1NSnAjcEVAxjDyA0+oOgB9N6rJ9cI1z6qTbVc+zOKctAHtWdR3yzB2E/sHjnc
+tbFrDv+Yw/LX3AiH1GBGA9f4JNWKavHSvVRjt5ykwezQnjD8hUooh2UepPqETcxnO4oX1GY2+xFg
+APVcTCoNCmVuZHN0cmVhbQ1lbmRvYmoNNiAwIG9iag08PC9EZWNvZGVQYXJtczw8L0NvbHVtbnMg
+NC9QcmVkaWN0b3IgMTI+Pi9GaWx0ZXIvRmxhdGVEZWNvZGUvSURbPDBDQ0NEMkEyMTVGNkY0NDg5
+NkZFMDg2NERBMzFBRDFGPjwzMURFOEI0OTdCN0Y0QTQzOTk3NkI1NDc0QjhGNkI1OT5dL0luZm8g
+MTE3IDAgUi9MZW5ndGggNTgvUm9vdCAxMTkgMCBSL1NpemUgMTE4L1R5cGUvWFJlZi9XWzEgMiAx
+XT4+c3RyZWFtDQpo3mJiAAImRhl/BiYG1lIgwXgNSAhOBBIME0BcJaDsGRUQl4FxlBhBBONcEhQz
+/QDpYAAIMACQcwb0DQplbmRzdHJlYW0NZW5kb2JqDXN0YXJ0eHJlZg0KMTE2DQolJUVPRg0K</fail>
+				<tavatekst>Lisa</tavatekst>
+			</sisuTekst>
+		</lisaViit>
+		<lisaPealkiri>
+			<lisaNimi>Tehnovõrgu rajatisest tuleneva kitsenduse sisuline ulatus</lisaNimi>
+			<muutmismarge>
+				<avaldamismarge>
+					<RTosa>RT I</RTosa>
+					<avaldamineKuupaev>2018-01-30</avaldamineKuupaev>
+					<RTartikkel>1</RTartikkel>
+					<aktViide>130012018001</aktViide>
+				</avaldamismarge>
+				<joustumine>2019-01-01</joustumine>
+			</muutmismarge>
+		</lisaPealkiri>
+	</lisaViide>
+</oigusakt>

@@ -1,0 +1,3172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oigusakt id="ec21764e-bbf2-4b53-8bf5-7121fa89cfa1" xsi:schemaLocation="tyviseadus_1_10.02.2010 http://xmlr.eesti.ee/xml/schemas/oigusakt/tyviseadus_1_10.02.2010.xsd" xmlns="tyviseadus_1_10.02.2010" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metaandmed>
+		<valjaandja>Riigikogu</valjaandja>
+		<dokumentLiik>seadus</dokumentLiik>
+		<tekstiliik>terviktekst</tekstiliik>
+		
+		<lyhend>KrtS</lyhend><dokumentEtapp>avaldamine</dokumentEtapp>
+		<dokumentStaatus>avaldatud</dokumentStaatus>
+		<vastuvoetud>
+			<aktikuupaev>2014-02-19</aktikuupaev>
+			<avaldamismarge>
+				<RTosa>RT I</RTosa>
+				<avaldamineKuupaev>2014-03-13</avaldamineKuupaev>
+				<RTaasta>2014</RTaasta>
+				<RTartikkel>3</RTartikkel>
+				<aktViide>113032014003</aktViide>
+			</avaldamismarge>
+			<joustumine>2018-01-01</joustumine>
+		</vastuvoetud>
+		<avaldamismarge><RTosa>RT I</RTosa><avaldamineKuupaev>2022-12-23</avaldamineKuupaev><RTaasta>2022</RTaasta><RTartikkel>4</RTartikkel><aktViide>123122022004</aktViide></avaldamismarge><kehtivus>
+			<kehtivuseAlgus>2024-01-15</kehtivuseAlgus>
+		</kehtivus>
+		<versioon>
+			<dokumentVersioon>1</dokumentVersioon>
+			<dokumentVersioonKuupaev>2014-03-05</dokumentVersioonKuupaev>
+		</versioon>
+		<skeemiNimi>tyviseadus_1_10.02.2010.xsd</skeemiNimi>
+		<globaalID>123122022004</globaalID>
+		<metaandmedVersioon>30</metaandmedVersioon>
+		<metaandmedVersioonKuupaev>2022-12-22</metaandmedVersioonKuupaev>
+		<metaandmedVersioonPohjustaja>Maret Mauer</metaandmedVersioonPohjustaja>
+		<terviktekstiGrupiID>1021904</terviktekstiGrupiID>
+		<eesmark>Tüviseaduse raamskeem XML struktuuri koostamiseks</eesmark>
+	</metaandmed>
+	<aktinimi>
+		<nimi>
+			<pealkiri>Korteriomandi- ja korteriühistuseadus</pealkiri>
+		</nimi>
+	</aktinimi>
+	<muutmismarge>
+		<aktikuupaev>2014-05-07</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2014-05-21</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>121052014001</aktViide>
+		</avaldamismarge>
+		<joustumine>2015-01-01</joustumine>
+		<tavatekst>, osaliselt 22.05.2014, 31.05.2014 ja 01.01.2018</tavatekst>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2014-06-19</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2014-06-29</avaldamineKuupaev>
+			<RTartikkel>109</RTartikkel>
+			<aktViide>129062014109</aktViide>
+		</avaldamismarge>
+		<joustumine>2014-07-01</joustumine>
+		<tavatekst>, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud ministrite ametinimetused.</tavatekst>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2017-04-05</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2017-04-20</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>120042017001</aktViide>
+		</avaldamismarge>
+		<joustumine>2018-01-15</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2017-04-20</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2017-05-09</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>109052017001</aktViide>
+		</avaldamismarge>
+		<joustumine>2017-07-01</joustumine>
+		<tavatekst>, osaliselt 01.01.2018</tavatekst>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2020-05-18</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2020-05-23</avaldamineKuupaev>
+			<RTartikkel>2</RTartikkel>
+			<aktViide>123052020002</aktViide>
+		</avaldamismarge>
+		<joustumine>2020-05-24</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2020-09-30</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2020-10-09</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>109102020001</aktViide>
+		</avaldamismarge>
+		<joustumine>2020-12-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2022-04-13</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2022-05-05</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>105052022001</aktViide>
+		</avaldamismarge>
+		<joustumine>2023-02-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2022-12-07</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>123122022001</aktViide>
+		</avaldamismarge>
+		<joustumine>2023-02-01</joustumine>
+		<tavatekst>, osaliselt 15.01.2024</tavatekst>
+	</muutmismarge>
+	<sisu>
+		<peatykk id="ptk1">
+			<peatykkNr>1</peatykkNr>
+			<kuvatavNr><![CDATA[1. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>Üldsätted</peatykkPealkiri>
+			<paragrahv id="para1">
+				<paragrahvNr>1</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 1.]]></kuvatavNr>
+				<paragrahvPealkiri>Korteriomand ja korteriühistu</paragrahvPealkiri>
+				<loige id="para1lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomand on eriomand hoone reaalosa üle, mis on ühendatud mõttelise osaga kinnisasja kaasomandist, mille juurde eriomand kuulub.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para1lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomandid peavad olema ühe kinnisasja piires.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para1lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Käesolevas seaduses reguleerimata küsimustes kohaldatakse korteriomandile muudes seadustes kinnisomandi kohta sätestatut.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para1lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriühistu on eraõiguslik juriidiline isik, mille liikmeteks on kõik ühe korteriomanditeks jagatud kinnisomandi korteriomandite omanikud (edaspidi <i>korteriomanik</i>).</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+		</peatykk>
+		<peatykk id="ptk2">
+			<peatykkNr>2</peatykkNr>
+			<kuvatavNr><![CDATA[2. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>Korteriomandite ja korteriühistu tekkimine</peatykkPealkiri>
+			<paragrahv id="para2">
+				<paragrahvNr>2</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 2.]]></kuvatavNr>
+				<paragrahvPealkiri>Korteriomandite ja korteriühistu loomise viisid</paragrahvPealkiri>
+				<loige id="para2lg1">
+					<sisuTekst>
+						<tavatekst>Korteriomandid ja korteriühistu luuakse kaasomanike vahel sõlmitud eriomandi loomise kokkuleppega või kinnisasja omaniku jagamisavaldusega.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para3">
+				<paragrahvNr>3</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 3.]]></kuvatavNr>
+				<paragrahvPealkiri>Eriomandi loomine kokkuleppega</paragrahvPealkiri>
+				<loige id="para3lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kinnisasja kaasomanikud võivad kokku leppida selles, et igal kaasomanikul tekib eriomand eluruumile või mitteeluruumile kinnisasjal olevas või sellele ehitatavas hoones.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para3lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Eriomandi loomiseks on nõutav kaasomanike kokkulepe ja sellekohase kande tegemine kinnistusraamatusse.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para3lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Eriomandi loomise kokkuleppele kohaldatakse asjaõigusseaduse § 120 lõigetes 1 ja 2 sätestatut.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>123122022001</aktViide>
+						</avaldamismarge>
+						<joustumine>2023-02-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para3lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Tehingule, millega kohustutakse eriomandit looma, kohaldatakse asjaõigusseaduse §-s 119 sätestatut.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para4">
+				<paragrahvNr>4</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 4.]]></kuvatavNr>
+				<paragrahvPealkiri>Eriomandi ese</paragrahvPealkiri>
+				<loige id="para4lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Eriomandi ese on ruumiliselt piiritletud eluruum või mitteeluruum ning selle juurde kuuluvad hoone osad, mida on võimalik eraldi kasutada ning mida saab muuta, kõrvaldada või lisada kaasomandit või teise korteriomaniku õigusi kahjustamata või hoone välist kuju muutmata. Igale eriomandi esemele peab olema eraldi juurdepääs.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>123122022001</aktViide>
+						</avaldamismarge>
+						<joustumine>2023-02-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para4lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Eriomandi eseme hulka võib eluruumi või mitteeluruumi koosseisus kuuluda ka püsiva markeeringuga tähistatud garaažiosa.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para4lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Eriomandi esemeks ei ole hoone ja selle osad ega hoone püsimiseks või ohutuse tagamiseks või korteriomanike ühiseks kasutamiseks vajalikud seadmed ka siis, kui need asuvad eriomandi esemeks oleva hoone reaalosa piires.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para4lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Maatükk ning hoone osad ja seadmed, mis ei ole ühegi eriomandi ese ega ole kolmanda isiku omandis, on korteriomandi kaasomandi osa esemeks.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para5">
+				<paragrahvNr>5</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 5.]]></kuvatavNr>
+				<paragrahvPealkiri>Muude tingimuste määramine korteriomandite loomisel</paragrahvPealkiri>
+				<loige id="para5lg1">
+					<sisuTekst>
+						<tavatekst>Koos eriomandi loomise kokkuleppega võivad kinnisasja kaasomanikud sõlmida eriomandi sisu kohta ka muid kokkuleppeid, määrata korteriühistu põhikirja tingimused ja kehtestada korteriühistu majanduskava.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para6">
+				<paragrahvNr>6</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 6.]]></kuvatavNr>
+				<paragrahvPealkiri>Korteriomandite kinnistamine ja korteriühistu registrikaardi avamine</paragrahvPealkiri>
+				<loige id="para6lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomandite kinnistamiseks kinnistusraamatu pidajale esitatavas kinnistamisavalduses esitatakse ka kõik need andmed, mis on vajalikud korteriühistu kandmiseks korteriühistute registrisse. Pärast kinnistamisavalduse saamist edastab kinnistusraamatu pidaja avalduse korteriühistute registri pidajale. Kinnistusraamatu pidaja ja korteriühistute registri pidaja vaatavad avalduse läbi samal ajal.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para6lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomandite kinnistamisel avatakse igale korteriomandile kinnistusregistri iseseisev osa ja samal ajal suletakse kinnisasja senine registriosa asjaõigusseaduses ja kinnistusraamatuseaduses sätestatud korras.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para6lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Suletud registriosa andmed kantakse avatavate registriosade vastavatesse jagudesse. Registriosa pealkirjas märgitakse lisaks kinnistusraamatuseaduse §-s 12 nimetatud andmetele korteriühistu registrikood. Registriosa esimesse jakku kantakse lisaks kinnistusraamatuseaduse § 13 lõikes 1 nimetatud andmetele eriomandi eseme number või muu tähis, eriomandi eseme otstarve (eluruum või mitteeluruum), kaasomandi mõttelise osa suurus ja teiste korteriomandite kinnistute numbrid.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2020-10-09</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>109102020001</aktViide>
+						</avaldamismarge>
+						<joustumine>2020-12-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para6lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomandite kinnistamise kanne tehakse pärast seda, kui korteriühistute registri pidaja on teatanud, et puuduvad takistused korteriühistu registrikaardi avamiseks. Korteriühistu registrikaardi avamise kanne tehakse viivitamata pärast korteriomandite kinnistamise kande tegemist.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para6lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui korteriühistute registri pidaja on määranud puuduste kõrvaldamiseks tähtaja, peatub kinnistamisavalduse menetlemine, kuni korteriühistute registri pidaja:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para6lg5p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>esitab käesoleva paragrahvi lõike 4 esimese lause kohaselt teate või</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para6lg5p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>teatab puuduste kõrvaldamata jätmisest.</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+				</loige>
+				<loige id="para6lg6">
+					<loigeNr>6</loigeNr>
+					<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Käesoleva paragrahvi lõike 5 punktis 2 sätestatud juhul jätab kinnistamiseks pädev isik määrusega kinnistamisavalduse rahuldamata.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para6lg7">
+					<loigeNr>7</loigeNr>
+					<kuvatavNr><![CDATA[(7)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kinnistusraamatu pidaja ja korteriühistute registri pidaja täpsema tegevuse korteriomandite kinnistamisel ja korteriühistu registrikaardi avamisel kehtestab </tavatekst>
+						<viide>
+							<kuvatavTekst><![CDATA[valdkonna eest vastutav minister]]></kuvatavTekst>
+							<viideURID>
+								<viideURI><![CDATA[./dyn=123122022004&id=123122017009;123122017010]]></viideURI>
+							</viideURID>
+						</viide>
+						<tavatekst> määrusega.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para7">
+				<paragrahvNr>7</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 7.]]></kuvatavNr>
+				<paragrahvPealkiri>Kinnistamisavaldusele lisatavad dokumendid</paragrahvPealkiri>
+				<loige id="para7lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kinnistamisavaldusele tuleb lisaks kinnistusraamatuseaduse § 35 lõikes 1 sätestatule lisada järgmised dokumendid:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para7lg1p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>ehitusloa andmiseks pädeva ametiasutuse ametlikult kinnitatud ärakiri korteriomanditeks jagatava hoone ehitisregistrisse kantud plaanist või ehitatava hoone projektist, millel on piiritletud ja numbriga või muul viisil tähistatud iga eriomandi esemeks olevad ruumid (edaspidi <i>hoonejaotusplaan</i>);</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para7lg1p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>projekteerimiseks või ehitusprojektide ekspertiisi tegemiseks pädeva isiku kinnitus, et eriomandite loomine hoonejaotusplaanil kujutatud viisil vastab käesoleva seaduse §-s 4 sätestatud nõuetele.</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+				</loige>
+				<loige id="para7lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kinnistamisavalduses eriomandi eseme tähistamiseks kasutatavad numbrid või muud tähised peavad kokku langema hoonejaotusplaanil kasutatavate tähistega.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para7lg2b1">
+					<loigeNr ylaIndeks="1">2</loigeNr>
+					<kuvatavNr><![CDATA[(2<sup>1</sup>)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui korteriomandite esemeks oleval hooneosal on hooneosa koha-aadress ruumiandmete seaduse tähenduses, tuleb kinnistamisavalduses märkida, millise loodava korteriomandiga on hooneosa koha-aadress seotud. Kui korteriomandi eriomandi esemeks on eluruum, peab kinnistamisavalduses olema märgitud igale eluruumile vastav hooneosa koha-aadress.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2020-10-09</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>109102020001</aktViide>
+						</avaldamismarge>
+						<joustumine>2020-12-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para7lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Hoonejaotusplaani aluseks olevale plaanile ja selle ehitisregistrisse kandmise korrale esitatavad nõuded kehtestab </tavatekst>
+						<viide>
+							<kuvatavTekst><![CDATA[valdkonna eest vastutav minister]]></kuvatavTekst>
+							<viideURID>
+								<viideURI><![CDATA[./dyn=123122022004&id=119012018004]]></viideURI>
+							</viideURID>
+						</viide>
+						<tavatekst> määrusega.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para8">
+				<paragrahvNr>8</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 8.]]></kuvatavNr>
+				<paragrahvPealkiri>Jagamine omaniku poolt</paragrahvPealkiri>
+				<loige id="para8lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kinnisasja omanik võib kinnistusraamatu pidajale esitatava avaldusega jagada omandi kaasomandi osadeks selliselt, et igale kaasomandi osale vastab eriomand eluruumile või mitteeluruumile kinnisasjal olevas või sellele ehitatavas hoones. Jagamine jõustub kande tegemisega kinnistusraamatusse.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>123122022001</aktViide>
+						</avaldamismarge>
+						<joustumine>2023-02-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para8lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Käesoleva paragrahvi lõikes 1 sätestatud juhul kohaldatakse käesoleva seaduse § 3 lõigetes 3 ja 4 ning §-des 4–7 sätestatut.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>123122022001</aktViide>
+						</avaldamismarge>
+						<joustumine>2023-02-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para9">
+				<paragrahvNr>9</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 9.]]></kuvatavNr>
+				<paragrahvPealkiri>Eriomandi kokkuleppe muutmine</paragrahvPealkiri>
+				<loige id="para9lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Asjassepuutuvate korteriomanike omavahelisel kokkuleppel võib muuta olemasolevate eriomandite ulatust. Uue korteriomandi loomiseks on vajalik kõigi korteriomanike kokkulepe. Eriomandi ulatuse muutmisele kohaldatakse asjaõigusseaduses kinnisasjade ühendamise ja jagamise kohta sätestatut käesolevas seaduses sätestatud erisustega.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>123122022001</aktViide>
+						</avaldamismarge>
+						<joustumine>2023-02-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para9lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Iga korteriomanik võib teiselt korteriomanikult nõuda käesoleva paragrahvi lõikes 1 nimetatud muudatuse tegemiseks vajalike tahteavalduste andmist, kui:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para9lg2p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>olemasoleva olukorra säilitamine oleks kõiki asjaolusid arvestades vastuolus hea usu põhimõttega;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para9lg2p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>muudatusega ei kahjustata ülemääraselt ühegi korteriomaniku õigustatud huve.</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+				</loige>
+				<loige id="para9lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Käesoleva paragrahvi lõike 2 punktis 1 nimetatud olukorra esinemist eeldatakse, kui vastavasisulise korteriomanike üldkoosoleku otsuse poolt on antud üle poole kõigist häältest nende korteriomanike poolt, kellele kuulub üle poole kaasomandi osadest.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para9lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui käesoleva paragrahvi lõikes 1 nimetatud muudatuse tegemine eeldab ehitusloa olemasolu, võib korteriomanik muudatuse tegemiseks vajalike tahteavalduste andmise seada sõltuvusse ehitusloa olemasolust.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para9lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Eriomandi kokkuleppe muudatuse kandmiseks kinnistusraamatusse on vajalik asjassepuutuva piiratud asjaõiguse omaja kui kinnistusraamatuseaduse tähenduses puudutatud isiku nõusolek. Korteriomanik võib asjassepuutuva piiratud asjaõiguse omajalt nõuda käesoleva paragrahvi lõikes 1 nimetatud muudatuse tegemiseks vajalike tahteavalduste andmist, kui piiratud asjaõiguse omaja õigustatud huve ei kahjustata muudatusega ülemääraselt.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>123122022001</aktViide>
+						</avaldamismarge>
+						<joustumine>2023-02-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para9lg6">
+					<loigeNr>6</loigeNr>
+					<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Käesoleva paragrahvi lõikes 3 sätestatud juhul võib lõigetes 2 ja 5 nimetatud nõuded, samuti muudatuste kinnistusraamatusse kandmiseks vajaliku kinnistamisavalduse esitada ka korteriühistu.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para10">
+				<paragrahvNr>10</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 10.]]></kuvatavNr>
+				<paragrahvPealkiri>Uue korteriomandi võõrandamise nõudmine</paragrahvPealkiri>
+				<loige id="para10lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomanikud võivad koos uue korteriomandi loomisega leppida kokku ka selle võõrandamise tingimused.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para10lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Iga korteriomanik võib nõuda teiselt korteriomanikult loodava korteriomandi võõrandamiseks vajalike tahteavalduste andmist, kui:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para10lg2p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>korteriomanike üldkoosolek on võtnud vastu käesoleva seaduse § 9 lõikes 3 nimetatud tingimustele vastava otsuse;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para10lg2p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>võõrandamisest saadav tulu vastab võõrandatava korteriomandi harilikule väärtusele võõrandamise hetke seisuga;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para10lg2p3">
+						<alampunktNr>3</alampunktNr>
+						<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>võõrandamisest saadav tulu jaotatakse korteriomanike vahel vastavalt korteriomandi kaasomandi osa suurusele või kulutatakse mõistlikult korteriomandi kaasomandi osa korrashoiuks või parendamiseks.</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+				</loige>
+				<loige id="para10lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Käesoleva paragrahvi lõikes 2 nimetatud nõude võib esitada ka korteriühistu.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para11">
+				<paragrahvNr>11</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 11.]]></kuvatavNr>
+				<paragrahvPealkiri>Korteriomandi käsutamise erisused</paragrahvPealkiri>
+				<loige id="para11lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomandi eriomandi ja kaasomandi osa ei saa teineteisest eraldi võõrandada ega koormata.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para11lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomandit ei saa koormata hoonestusõigusega.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para11lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomandi müümisel ei kohaldata asjaõigusseaduse § 73 lõikes 2 sätestatud kinnisasja kaasomaniku ostueesõigust.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+		</peatykk>
+		<peatykk id="ptk3">
+			<peatykkNr>3</peatykkNr>
+			<kuvatavNr><![CDATA[3. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>Korteriomandi teostamine</peatykkPealkiri>
+			<jagu id="jg1">
+				<jaguNr>1</jaguNr>
+				<kuvatavNr><![CDATA[1. jagu]]></kuvatavNr>
+				<jaguPealkiri>Üldsätted</jaguPealkiri>
+				<paragrahv id="para12">
+					<paragrahvNr>12</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 12.]]></kuvatavNr>
+					<paragrahvPealkiri>Põhimõtted omavahelistes suhetes</paragrahvPealkiri>
+					<loige id="para12lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanikud teostavad oma korteriomandist tulenevaid õigusi ja täidavad kohustusi käesolevas seaduses sätestatud ulatuses korteriühistu kaudu.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para12lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanikud peavad omavahelistes suhetes, samuti suhetes korteriühistuga järgima hea usu põhimõtet ja arvestama üksteise õigustatud huve.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para13">
+					<paragrahvNr>13</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 13.]]></kuvatavNr>
+					<paragrahvPealkiri>Suhete korraldamine kokkuleppel</paragrahvPealkiri>
+					<loige id="para13lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanikud võivad kokkuleppel korraldada korteriomandist ja korteriühistust tulenevaid õigussuhteid käesolevas seaduses sätestatust erinevalt, välja arvatud juhul, kui seadus selle otse välistab.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para13lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanike kokkuleppe sõlmimiseks, muutmiseks ja lõpetamiseks vajalike tahteavalduste nõudmisele ning muudatuste kinnistusraamatusse kandmisele kohaldatakse käesoleva seaduse §-s 9 sätestatut.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para13lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanike kokkulepe kehtib korteriomaniku eriõigusjärglase suhtes vaid juhul, kui see on kantud kinnistusraamatusse eriomandi sisuna.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para14">
+					<paragrahvNr>14</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 14.]]></kuvatavNr>
+					<paragrahvPealkiri>Erikasutusõigus</paragrahvPealkiri>
+					<loige id="para14lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanike kokkuleppega võib anda osa kaasomandi esemest igakordse korteriomaniku erikasutusse (edaspidi <i>erikasutusõigus</i>), kui see ei ole vastuolus selle kaasomandi eseme osa otstarbega.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para14lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanik võib talle kuuluva erikasutusõiguse teostamise anda üle kolmandale isikule ilma ülejäänud korteriomanike nõusolekuta.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para14lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanik võib talle kuuluva erikasutusõiguse anda üle teisele korteriomanikule ilma ülejäänud korteriomanike nõusolekuta.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para15">
+					<paragrahvNr>15</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 15.]]></kuvatavNr>
+					<paragrahvPealkiri>Ühine korteriomand</paragrahvPealkiri>
+					<loige id="para15lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriomand kuulub mitmele isikule ühiselt, võivad need isikud teostada korteriomandiga seotud õigusi üksnes ühiselt. See ei kehti korteriühistu suhtes, kui ühine omand ei ole kantud kinnistusraamatusse.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para15lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomandist tulenevate kohustuste täitmise eest vastutavad korteriomandi ühised omanikud solidaarselt.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para15lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriomanikud ei ole määranud endale korteriomandist tulenevate õiguste teostamiseks ühist esindajat, loetakse korteriühistu poolt ühiste korteriomanike suhtes tehtud tehing kehtivaks ka siis, kui see on tehtud üksnes ühe korteriomaniku suhtes.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+			</jagu>
+			<jagu id="jg2">
+				<jaguNr>2</jaguNr>
+				<kuvatavNr><![CDATA[2. jagu]]></kuvatavNr>
+				<jaguPealkiri>Korteriühistu</jaguPealkiri>
+				<jaotis id="jaotis1">
+					<jaotisNr>1</jaotisNr>
+					<kuvatavNr><![CDATA[1. jaotis]]></kuvatavNr>
+					<jaotisPealkiri>Üldsätted</jaotisPealkiri>
+					<paragrahv id="para16">
+						<paragrahvNr>16</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 16.]]></kuvatavNr>
+						<paragrahvPealkiri>Korteriühistu õiguslik seisund</paragrahvPealkiri>
+						<loige id="para16lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistu õigusvõime tekib korteriomandite registriosade avamisega ja lõpeb korteriomandite registriosade sulgemisega kinnistusraamatus.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para16lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistut ei saa ümber kujundada teist liiki juriidiliseks isikuks.</tavatekst>
+							</sisuTekst>
+						</loige>
+					</paragrahv>
+					<paragrahv id="para17">
+						<paragrahvNr>17</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 17.]]></kuvatavNr>
+						<paragrahvPealkiri>Korteriühistu põhikiri</paragrahvPealkiri>
+						<loige id="para17lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistul võib olla põhikiri.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para17lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Põhikirjaga võib ette näha tingimusi, mis ei ole vastuolus seadusega ega eriomandi kokkuleppega. Kui põhikirja säte on vastuolus seadusega, kohaldatakse seaduses sätestatut. Kui põhikirja säte on vastuolus eriomandi kokkuleppega, kohaldatakse kokkuleppes sätestatut.</tavatekst>
+							</sisuTekst>
+						</loige>
+					</paragrahv>
+					<paragrahv id="para18">
+						<paragrahvNr>18</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 18.]]></kuvatavNr>
+						<paragrahvPealkiri>Korteriühistu asukoht ja tegevuskoht</paragrahvPealkiri>
+						<loige id="para18lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistu asukoht on registrikaardile kantud asukoht. Kui korteriühistu asukohta registrikaardile kantud ei ole, loetakse korteriühistu asukohaks korteriomandite asukoht.</tavatekst>
+							</sisuTekst>
+							<muutmismarge>
+								<avaldamismarge>
+									<RTosa>RT I</RTosa>
+									<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+									<RTartikkel>1</RTartikkel>
+									<aktViide>123122022001</aktViide>
+								</avaldamismarge>
+								<joustumine>2023-02-01</joustumine>
+							</muutmismarge>
+						</loige>
+						<loige id="para18lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistu tegevuskoht on korteriomandite asukoht.</tavatekst>
+							</sisuTekst>
+						</loige>
+					</paragrahv>
+					<paragrahv id="para19">
+						<paragrahvNr>19</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 19.]]></kuvatavNr>
+						<paragrahvPealkiri>Korteriühistu nimi</paragrahvPealkiri>
+						<loige id="para19lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistu nimi koosneb korteriomandite esemeks oleva kinnisasja aadressist ja täiendist „korteriühistu”.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para19lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriomandite asukoha aadressi muutumisel kinnistusraamatus muutub vastavalt ka korteriühistu nimi. Tsiviilkohtumenetluse seadustiku § 599 teises lauses sätestatut ei kohaldata.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para19lg3">
+							<loigeNr>3</loigeNr>
+							<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistu nime moodustamise täpsema korra kehtestab </tavatekst>
+								<viide>
+									<kuvatavTekst><![CDATA[valdkonna eest vastutav minister]]></kuvatavTekst>
+									<viideURID>
+										<viideURI><![CDATA[./dyn=123122022004&id=123122017010]]></viideURI>
+									</viideURID>
+								</viide>
+								<tavatekst> määrusega.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para19lg4">
+							<loigeNr>4</loigeNr>
+							<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistu võib lisaks käesoleva paragrahvi lõikes 1 sätestatud nimele kasutada muud nime (edaspidi <i>täiendav nimi</i>) tingimusel, et see piisavalt eristab teda kõikidest teistest Eestis registrisse kantud juriidilistest isikutest ega ole eksitav korteriomandite asukoha suhtes.</tavatekst>
+							</sisuTekst>
+							<muutmismarge>
+								<avaldamismarge>
+									<RTosa>RT I</RTosa>
+									<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+									<RTartikkel>1</RTartikkel>
+									<aktViide>123122022001</aktViide>
+								</avaldamismarge>
+								<joustumine>2023-02-01</joustumine>
+							</muutmismarge>
+						</loige>
+						<loige id="para19lg5">
+							<loigeNr>5</loigeNr>
+							<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Käesoleva paragrahvi lõikes 1 nimetatud täiendi asemel võib korteriühistu oma täiendavas nimes kasutada lühendit „KÜ”.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para19lg6">
+							<loigeNr>6</loigeNr>
+							<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Ükski muu isik ei tohi oma nimes kasutada sõna „korteriühistu” ega lühendit „KÜ”.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para19lg7">
+							<loigeNr>7</loigeNr>
+							<kuvatavNr><![CDATA[(7)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistu dokumentides peab olema märgitud korteriühistu nimi ja registrikood. Korteriühistu asukoht peab dokumentides olema märgitud juhul, kui see erineb korteriomandite asukohast.</tavatekst>
+							</sisuTekst>
+						</loige>
+					</paragrahv>
+				</jaotis>
+				<jaotis id="jaotis2">
+					<jaotisNr>2</jaotisNr>
+					<kuvatavNr><![CDATA[2. jaotis]]></kuvatavNr>
+					<jaotisPealkiri>Korteriühistu organid ja juhtimine</jaotisPealkiri>
+					<paragrahv id="para20">
+						<paragrahvNr>20</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 20.]]></kuvatavNr>
+						<paragrahvPealkiri>Korteriomanike üldkoosolek</paragrahvPealkiri>
+						<loige id="para20lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Käesoleva seaduse või korteriomanike kokkuleppe kohaselt häälteenamusega tehtavad otsused võetakse vastu korteriomanike üldkoosolekul. Korteriomanike üldkoosolekule kohaldatakse lisaks käesolevas seaduses sätestatule mittetulundusühingute seaduse § 19 lõike 1 punktides 1–5 ja lõikes 2, §-des 20 ja 20<sup>1</sup>, § 21 lõikes 3<sup>1</sup> ja lõigetes 6–9, § 22 lõigetes 1 ja 1<sup>1</sup>, § 23 lõigetes 1 ja 2 ning §-s 25 mittetulundusühingu liikmete üldkoosoleku kohta sätestatut.</tavatekst>
+							</sisuTekst>
+							<muutmismarge>
+								<avaldamismarge>
+									<RTosa>RT I</RTosa>
+									<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+									<RTartikkel>1</RTartikkel>
+									<aktViide>123122022001</aktViide>
+								</avaldamismarge>
+								<joustumine>2023-02-01</joustumine>
+							</muutmismarge>
+						</loige>
+						<loige id="para20lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriomanike üldkoosolek on otsustusvõimeline, kui sellel osalevatele korteriomanikele kuulub üle poole häältest ja üle poole kaasomandi osadest, kui põhikirjaga ei ole ette nähtud teisiti.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para20lg3">
+							<loigeNr>3</loigeNr>
+							<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Kui korteriomanike üldkoosoleku päevakorras on põhikirja muutmine, majanduskava kehtestamine või majandusaasta aruande kinnitamine, tuleb üldkoosoleku teates märkida koht, kus on võimalik tutvuda põhikirja või majanduskava eelnõuga või majandusaasta aruandega, ning nende dokumentidega tutvumise kord.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para20lg4">
+							<loigeNr>4</loigeNr>
+							<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Kui korteriomanik on teatanud korteriühistule oma elektronposti aadressi, tuleb korteriomanike üldkoosoleku teade ja käesoleva paragrahvi lõikes 3 nimetatud dokumendid saata sellel aadressil.</tavatekst>
+							</sisuTekst>
+						</loige>
+					</paragrahv>
+					<paragrahv id="para21">
+						<paragrahvNr>21</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 21.]]></kuvatavNr>
+						<paragrahvPealkiri>Otsuse vastuvõtmine koosolekut kokku kutsumata</paragrahvPealkiri>
+						<loige id="para21lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriomanikel on õigus vastu võtta otsuseid korteriomanike üldkoosolekut kokku kutsumata.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para21lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Juhatus saadab käesoleva paragrahvi lõikes 1 nimetatud otsuse eelnõu kirjalikku taasesitamist võimaldavas vormis kõigile korteriomanikele, määrates tähtaja, mille jooksul korteriomanik peab esitama selle kohta oma seisukoha kirjalikku taasesitamist võimaldavas vormis. Korteriomanikele seisukoha andmiseks antav tähtaeg peab olema vähemalt seitse päeva, kui põhikirjaga ei ole ette nähtud pikemat tähtaega. Kui seaduses või korteriühistu põhikirjas on ette nähtud häälte arv, mis on vajalik, et üldkoosolek oleks otsustusvõimeline, kohaldatakse seda ka otsuse tegemisele koosolekut kokku kutsumata.</tavatekst>
+							</sisuTekst>
+							<muutmismarge>
+								<avaldamismarge>
+									<RTosa>RT I</RTosa>
+									<avaldamineKuupaev>2020-05-23</avaldamineKuupaev>
+									<RTartikkel>2</RTartikkel>
+									<aktViide>123052020002</aktViide>
+								</avaldamismarge>
+								<joustumine>2020-05-24</joustumine>
+							</muutmismarge>
+						</loige>
+						<loige id="para21lg3">
+							<loigeNr>3</loigeNr>
+							<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Otsus on vastu võetud, kui selle poolt on üle poole antud häältest, kui põhikirjaga ei ole ette nähtud suurema häälteenamuse nõuet.</tavatekst>
+							</sisuTekst>
+							<muutmismarge>
+								<avaldamismarge>
+									<RTosa>RT I</RTosa>
+									<avaldamineKuupaev>2020-05-23</avaldamineKuupaev>
+									<RTartikkel>2</RTartikkel>
+									<aktViide>123052020002</aktViide>
+								</avaldamismarge>
+								<joustumine>2020-05-24</joustumine>
+							</muutmismarge>
+						</loige>
+						<loige id="para21lg4">
+							<loigeNr>4</loigeNr>
+							<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Hääletustulemuste kohta koostab juhatus hääletusprotokolli ja saadab selle viivitamata korteriomanikele. Hääletusprotokolli kantakse:</tavatekst>
+							</sisuTekst>
+							<alampunkt id="para21lg4p1">
+								<alampunktNr>1</alampunktNr>
+								<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+								<sisuTekst>
+									<tavatekst>korteriühistu nimi ja asukoht;</tavatekst>
+								</sisuTekst>
+							</alampunkt>
+							<alampunkt id="para21lg4p2">
+								<alampunktNr>2</alampunktNr>
+								<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+								<sisuTekst>
+									<tavatekst>protokollija nimi;</tavatekst>
+								</sisuTekst>
+							</alampunkt>
+							<alampunkt id="para21lg4p3">
+								<alampunktNr>3</alampunktNr>
+								<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+								<sisuTekst>
+									<tavatekst>vastuvõetud otsused koos hääletamistulemustega, sealhulgas otsuse poolt hääletanud korteriomanike nimed;</tavatekst>
+								</sisuTekst>
+							</alampunkt>
+							<alampunkt id="para21lg4p4">
+								<alampunktNr>4</alampunktNr>
+								<kuvatavNr><![CDATA[4)]]></kuvatavNr>
+								<sisuTekst>
+									<tavatekst>otsuse suhtes eriarvamusele jäänud korteriomaniku nõudel tema eriarvamuse sisu;</tavatekst>
+								</sisuTekst>
+							</alampunkt>
+							<alampunkt id="para21lg4p5">
+								<alampunktNr>5</alampunktNr>
+								<kuvatavNr><![CDATA[5)]]></kuvatavNr>
+								<sisuTekst>
+									<tavatekst>muud hääletamise suhtes olulise tähtsusega asjaolud.</tavatekst>
+								</sisuTekst>
+							</alampunkt>
+						</loige>
+						<loige id="para21lg5">
+							<loigeNr>5</loigeNr>
+							<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Käesoleva paragrahvi lõikes 2 nimetatud korteriomanike seisukohtade ärakirjad on hääletusprotokolli lahutamatu lisa.</tavatekst>
+							</sisuTekst>
+							<muutmismarge>
+								<avaldamismarge>
+									<RTosa>RT I</RTosa>
+									<avaldamineKuupaev>2020-05-23</avaldamineKuupaev>
+									<RTartikkel>2</RTartikkel>
+									<aktViide>123052020002</aktViide>
+								</avaldamismarge>
+								<joustumine>2020-05-24</joustumine>
+							</muutmismarge>
+						</loige>
+						<loige id="para21lg6">
+							<loigeNr>6</loigeNr>
+							<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Kui kõik korteriomandid kuuluvad ühele isikule, võib otsuseid vastu võtta, järgimata käesoleva seaduse §-s 20 ja käesoleva paragrahvi lõigetes 1–5 sätestatut. Sel juhul tuleb otsus vormistada kirjalikult ja allkirjastada korteriomaniku poolt.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para21lg7">
+							<loigeNr>7</loigeNr>
+							<kuvatavNr><![CDATA[(7)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Käesoleva paragrahvi lõikes 6 sätestatut kohaldatakse ka juhul, kui korteriomanikke on rohkem ja nad kõik nõustuvad otsusega.</tavatekst>
+							</sisuTekst>
+						</loige>
+					</paragrahv>
+					<paragrahv id="para22">
+						<paragrahvNr>22</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 22.]]></kuvatavNr>
+						<paragrahvPealkiri>Hääleõigus üldkoosolekul</paragrahvPealkiri>
+						<loige id="para22lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriomanike üldkoosolekul annab iga korteriomand ühe hääle. Korteriühistu põhikirjaga võib ette näha, et igal korteriomanikul on üks hääl sõltumata talle kuuluvate korteriomandite arvust või et häälte arvu määrab korteriomandi kaasomandi osa suurus.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para22lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriomanike üldkoosolekul osalemiseks õigustatud korteriomanike ring määratakse üldkoosoleku päeval enne üldkoosoleku algust.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para22lg3">
+							<loigeNr>3</loigeNr>
+							<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriomanikul ei ole hääleõigust juhul, kui otsustatakse tema vabastamist kohustusest või vastutusest, tema ja korteriühistu vahel tehingu tegemist või temaga õigusvaidluse pidamist ning selles tehingus või õigusvaidluses korteriühistu esindaja määramist või küsimusi, mis puudutavad korteriomaniku või tema esindaja juhatuse liikmena tegutsemise kontrollimist või hindamist, või kui korteriomaniku kohta kehtib käesoleva seaduse § 32 kohaselt tehtud otsus. Esindatuse määramisel selle liikme hääli ei arvestata.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para22lg4">
+							<loigeNr>4</loigeNr>
+							<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Käesoleva paragrahvi lõikes 3 sätestatut ei kohaldata, kui kõik korteriomandid kuuluvad ühele isikule. Sel juhul peavad korteriühistu ja korteriomaniku vahelised tehingud olema kirjalikud või tuleb viivitamata vormistada korteriomaniku allkirjastatud dokument tehingu oluliste tingimuste kohta.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para22lg5">
+							<loigeNr>5</loigeNr>
+							<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Üldkoosolekul võib osaleda korteriomanik ise või tema esindaja, kelle esindusõiguse olemasolu on kirjaliku dokumendiga tõendatud. Põhikirjaga ei või piirata korteriühistu liikme õigust määrata esindaja. Esindaja osavõtt üldkoosolekust ei võta korteriomanikult õigust osaleda üldkoosolekul. Korteriühistu põhikirjaga võib ette näha sama isiku poolt esindatavate korteriomanike ülemmäära.</tavatekst>
+							</sisuTekst>
+							<muutmismarge>
+								<avaldamismarge>
+									<RTosa>RT I</RTosa>
+									<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+									<RTartikkel>1</RTartikkel>
+									<aktViide>123122022001</aktViide>
+								</avaldamismarge>
+								<joustumine>2023-02-01</joustumine>
+							</muutmismarge>
+						</loige>
+					</paragrahv>
+					<paragrahv id="para23">
+						<paragrahvNr>23</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 23.]]></kuvatavNr>
+						<paragrahvPealkiri>Uue üldkoosoleku kokkukutsumine</paragrahvPealkiri>
+						<loige id="para23lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Kui korteriomanike üldkoosolek on käesoleva seaduse § 20 lõike 2 järgi otsustusvõimetu, kutsub juhatus sama päevakorraga kokku uue üldkoosoleku, mis on otsustusvõimeline osalejate arvust olenemata. Sellele asjaolule tuleb üldkoosoleku kutses viidata.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para23lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Uue üldkoosoleku kokkukutsumise teade saadetakse otsustusvõimetuks osutunud üldkoosoleku toimumisest arvates kümne päeva jooksul, ent mitte varem kui kahe päeva pärast.</tavatekst>
+							</sisuTekst>
+						</loige>
+					</paragrahv>
+					<paragrahv id="para24">
+						<paragrahvNr>24</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 24.]]></kuvatavNr>
+						<paragrahvPealkiri>Juhatus</paragrahvPealkiri>
+						<loige id="para24lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Juhatus on korteriühistu juhtorgan, kes esindab ja juhib korteriühistut. Korteriühistu juhatusele kohaldatakse lisaks käesolevas seaduses sätestatule mittetulundusühingute seaduse § 26 lõikes 2 ning §-des 27–29 ja 32 mittetulundusühingu juhatuse kohta sätestatut.</tavatekst>
+							</sisuTekst>
+							<muutmismarge>
+								<avaldamismarge>
+									<RTosa>RT I</RTosa>
+									<avaldamineKuupaev>2017-04-20</avaldamineKuupaev>
+									<RTartikkel>1</RTartikkel>
+									<aktViide>120042017001</aktViide>
+								</avaldamismarge>
+								<joustumine>2018-01-15</joustumine>
+							</muutmismarge>
+						</loige>
+						<loige id="para24lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Juhatusel võib olla üks liige (juhataja) kuni kolm liiget. Põhikirjaga võib ette näha käesolevas lõikes sätestatust erineva juhatuse liikmete arvu või selle ülem- ja alammäära.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para24lg3">
+							<loigeNr>3</loigeNr>
+							<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistul ei pea olema juhatust, kui korteriomandite arv ei ole suurem kui kümme või kui kõik korteriomandid kuuluvad ühele isikule.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para24lg4">
+							<loigeNr>4</loigeNr>
+							<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Juhatuse puudumisel juhivad ja esindavad korteriomanikud korteriühistut ühiselt.</tavatekst>
+							</sisuTekst>
+						</loige>
+					</paragrahv>
+					<paragrahv id="para25">
+						<paragrahvNr>25</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 25.]]></kuvatavNr>
+						<paragrahvPealkiri>Juhatuse asendusliikme määramine</paragrahvPealkiri>
+						<loige id="para25lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriomanik, korteriühistu võlausaldaja või muu huvitatud isik võib mõjuval põhjusel nõuda kohtult korteriühistu juhatuse asendusliikme määramist.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para25lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Huvitatud isik võib nõuda korteriühistu juhatuse asendusliikme määramist ka käesoleva seaduse § 24 lõikes 3 sätestatud juhul.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para25lg3">
+							<loigeNr>3</loigeNr>
+							<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Kohus määrab võimaluse korral korteriühistu juhatuse asendusliikmeks isiku, kes vastab käesoleva seaduse § 28 lõikes 2 sätestatud nõuetele.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para25lg4">
+							<loigeNr>4</loigeNr>
+							<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Kohtu määratud juhatuse asendusliikme volitused kestavad kuni uue juhatuse liikme määramiseni korteriomanike üldkoosoleku poolt.</tavatekst>
+							</sisuTekst>
+						</loige>
+					</paragrahv>
+				</jaotis>
+				<jaotis id="jaotis3">
+					<jaotisNr>3</jaotisNr>
+					<kuvatavNr><![CDATA[3. jaotis]]></kuvatavNr>
+					<jaotisPealkiri>Valitseja</jaotisPealkiri>
+					<paragrahv id="para26">
+						<paragrahvNr>26</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 26.]]></kuvatavNr>
+						<paragrahvPealkiri>Valitseja</paragrahvPealkiri>
+						<loige id="para26lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistu juhatuse asemel võib korteriühistut juhtida ja esindada juriidiline isik (edaspidi <i>valitseja</i>).</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para26lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistul võib korraga olla ainult üks valitseja.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para26lg3">
+							<loigeNr>3</loigeNr>
+							<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Valitseja valimisele, tegevusele ja vastutusele kohaldatakse korteriühistu juhatuse kohta sätestatut.</tavatekst>
+							</sisuTekst>
+						</loige>
+					</paragrahv>
+					<paragrahv id="para27">
+						<paragrahvNr>27</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 27.]]></kuvatavNr>
+						<paragrahvPealkiri>Valitseja juhatuse liikme vastutus</paragrahvPealkiri>
+						<loige id="para27lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Kui valitseja on tekitanud oma kohustuste rikkumisega kahju korteriühistule ja korteriühistu ei saa oma nõudeid rahuldada valitseja vara arvel, vastutab korteriühistule tekitatud kahju eest ka isik, kes oli valitseja juhatuse liige kahju tekkimise ajal. Valitseja juhatuse liige vabaneb vastutusest, kui ta tõendab, et nii valitseja kui ka tema ise valitseja juhatuse liikmena on oma kohustusi täitnud juhatuse liikmelt tavaliselt oodatava hoolsusega.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para27lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Mitu valitseja juhatuse liiget vastutavad käesoleva paragrahvi lõikes 1 sätestatud kahju hüvitamise kohustuse eest solidaarselt.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para27lg3">
+							<loigeNr>3</loigeNr>
+							<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Käesoleva paragrahvi lõikes 1 sätestatud nõude aegumistähtaeg on viis aastat.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para27lg4">
+							<loigeNr>4</loigeNr>
+							<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Pankrotihalduril on õigus käesoleva paragrahvi lõikes 1 sätestatud nõue esitada ka juhul, kui korteriühistu on nõudest valitseja juhatuse liikme vastu loobunud või sõlminud temaga kompromissilepingu või nõuet või selle esitamist kokkuleppel valitseja juhatuse liikmega muul viisil piiranud või aegumistähtaega lühendanud.</tavatekst>
+							</sisuTekst>
+						</loige>
+					</paragrahv>
+					<paragrahv id="para28">
+						<paragrahvNr>28</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 28.]]></kuvatavNr>
+						<paragrahvPealkiri>Majahaldur</paragrahvPealkiri>
+						<loige id="para28lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Valitseja peab määrama iga oma esindatava ja juhitava korteriühistu jaoks füüsilise isiku (edaspidi <i>majahaldur</i>), kes tegeleb valitseja ülesannete täitmisega selles korteriühistus.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para28lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Majahalduril peab olema kinnisvarahalduri, korteriühistujuhi või korterelamuhalduri kutse kutseseaduse tähenduses.</tavatekst>
+							</sisuTekst>
+							<muutmismarge>
+								<avaldamismarge>
+									<RTosa>RT I</RTosa>
+									<avaldamineKuupaev>2017-05-09</avaldamineKuupaev>
+									<RTartikkel>1</RTartikkel>
+									<aktViide>109052017001</aktViide>
+								</avaldamismarge>
+								<joustumine>2018-01-01</joustumine>
+							</muutmismarge>
+						</loige>
+						<loige id="para28lg3">
+							<loigeNr>3</loigeNr>
+							<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Isik võib olla samal ajal mitme korteriühistu majahaldur.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para28lg4">
+							<loigeNr>4</loigeNr>
+							<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Valitseja peab tegema majahalduri nime ja kontaktandmed korteriomanikele teatavaks.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para28lg5">
+							<loigeNr>5</loigeNr>
+							<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Kui valitseja rikub käesoleva paragrahvi lõikes 1 sätestatud kohustust ega kõrvalda rikkumist hiljemalt ühe kuu möödumisel selle tekkimisest, võib korteriomanike üldkoosoleku otsusega valitseja tagasi kutsuda ja temaga sõlmitud käsunduslepingu erakorraliselt üles öelda.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para28lg6">
+							<loigeNr>6</loigeNr>
+							<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Käesoleva paragrahvi lõikes 5 sätestatud õigust ei saa korteriomanike kokkuleppega ega korteriühistu põhikirjaga piirata ega välistada.</tavatekst>
+							</sisuTekst>
+						</loige>
+					</paragrahv>
+				</jaotis>
+				<jaotis id="jaotis4">
+					<jaotisNr>4</jaotisNr>
+					<kuvatavNr><![CDATA[4. jaotis]]></kuvatavNr>
+					<jaotisPealkiri>Otsuste kehtetus</jaotisPealkiri>
+					<paragrahv id="para29">
+						<paragrahvNr>29</paragrahvNr>
+						<kuvatavNr><![CDATA[§ 29.]]></kuvatavNr>
+						<paragrahvPealkiri>Korteriühistu organi otsuse kehtetus</paragrahvPealkiri>
+						<loige id="para29lg1">
+							<loigeNr>1</loigeNr>
+							<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Kui korteriomanike üldkoosoleku kokkukutsumisel on oluliselt rikutud seaduse, korteriomanike kokkuleppe või põhikirja nõudeid, ei ole koosolek õigustatud otsuseid vastu võtma, välja arvatud juhul, kui koosolekul osalevad või on esindatud kõik korteriomanikud. Sellisel koosolekul tehtud otsused on tühised, kui korteriomanikud, kelle suhtes kokkukutsumise korda rikuti, otsust heaks ei kiida.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para29lg2">
+							<loigeNr>2</loigeNr>
+							<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistu organi otsuse kehtetuks tunnistamise ja tühisuse tuvastamise nõue lahendatakse kohtus hagita menetluses. Muus osas kohaldatakse tsiviilseadustiku üldosa seaduses juriidilise isiku organi otsuse kehtetuse kohta sätestatut käesolevas paragrahvis sätestatud erisustega.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para29lg3">
+							<loigeNr>3</loigeNr>
+							<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Korteriühistu organi otsuse kehtetuks tunnistamise nõude esitamise tähtaeg on 60 päeva otsuse vastuvõtmisest arvates.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para29lg4">
+							<loigeNr>4</loigeNr>
+							<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Huvitatud isiku taotlusel võib kohus ennistada käesoleva paragrahvi lõikes 3 nimetatud tähtaja. Ennistamisele kohaldatakse tsiviilkohtumenetluse seadustikus seaduses sätestatud menetlustähtaja ennistamise kohta sätestatut.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para29lg5">
+							<loigeNr>5</loigeNr>
+							<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Kohus ei aruta korteriühistu organi otsuse kehtetuks tunnistamise nõude esitamisel asja enne, kui on möödunud käesoleva paragrahvi lõikes 3 nimetatud tähtaeg. Eri avaldused sama otsuse kehtetuks tunnistamiseks liidetakse ühte menetlusse.</tavatekst>
+							</sisuTekst>
+						</loige>
+						<loige id="para29lg6">
+							<loigeNr>6</loigeNr>
+							<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>Vajaduse korral peatab kohus menetluse ajaks:</tavatekst>
+							</sisuTekst>
+							<alampunkt id="para29lg6p1">
+								<alampunktNr>1</alampunktNr>
+								<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+								<sisuTekst>
+									<tavatekst>vaidlustatud otsuse kehtivuse ja keelab samasisulise otsuse vastuvõtmise;</tavatekst>
+								</sisuTekst>
+							</alampunkt>
+							<alampunkt id="para29lg6p2">
+								<alampunktNr>2</alampunktNr>
+								<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+								<sisuTekst>
+									<tavatekst>olemasoleva juhatuse liikme ametiseisundi kehtivuse ja määrab korteriühistule juhatuse asendusliikme.</tavatekst>
+								</sisuTekst>
+							</alampunkt>
+						</loige>
+					</paragrahv>
+				</jaotis>
+			</jagu>
+			<jagu id="jg3">
+				<jaguNr>3</jaguNr>
+				<kuvatavNr><![CDATA[3. jagu]]></kuvatavNr>
+				<jaguPealkiri>Korteriomandi eseme kasutamine</jaguPealkiri>
+				<paragrahv id="para30">
+					<paragrahvNr>30</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 30.]]></kuvatavNr>
+					<paragrahvPealkiri>Korteriomaniku õigused</paragrahvPealkiri>
+					<loige id="para30lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanikul on õigus:</tavatekst>
+						</sisuTekst>
+						<alampunkt id="para30lg1p1">
+							<alampunktNr>1</alampunktNr>
+							<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>kasutada eriomandi eset oma äranägemise järgi niivõrd, kui see ei ole vastuolus seadusega või kolmanda isiku õigustatud huviga;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para30lg1p2">
+							<alampunktNr>2</alampunktNr>
+							<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>kasutada kaasomandi eset selle otstarbe kohaselt.</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+					</loige>
+					<loige id="para30lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanik võib nõuda, et eriomandi ja kaasomandi eset kasutataks seaduse ning korteriomanike kokkulepete ja korteriühistu põhikirja kohaselt. Kui eriomandi ja kaasomandi eseme kasutamine on reguleerimata, lähtutakse korteriomanike huvidest.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para30lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesolevas paragrahvis sätestatud õigused on ka korteriomandit kasutaval isikul.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para30lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõikes 2 sätestatud nõude võib esitada ka korteriühistu.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para31">
+					<paragrahvNr>31</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 31.]]></kuvatavNr>
+					<paragrahvPealkiri>Korteriomaniku kohustused</paragrahvPealkiri>
+					<loige id="para31lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanik on kohustatud:</tavatekst>
+						</sisuTekst>
+						<alampunkt id="para31lg1p1">
+							<alampunktNr>1</alampunktNr>
+							<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>hoidma eriomandi eset korras ning seda ja kaasomandi eset kasutades hoiduma tegevusest, mille toime teistele korteriomanikele ületab omandi tavakasutusest tekkivad mõjud;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para31lg1p2">
+							<alampunktNr>2</alampunktNr>
+							<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>taluma mõjusid, mis jäävad käesoleva lõike punktis 1 nimetatud piiridesse;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para31lg1p3">
+							<alampunktNr>3</alampunktNr>
+							<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>võimaldama eriomandi eset kasutada teistel isikutel, kui see on vajalik kaasomandi eseme korrashoiuks. Selle tõttu tekkinud kahju tuleb omanikule hüvitada.</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+					</loige>
+					<loige id="para31lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Eriomandi eseme korrashoidmisel on korteriomanik muu hulgas kohustatud hoidma selle piires sellist temperatuuri ja õhuniiskust, mis tagab kaasomandi eseme säilimise ning teiste eriomandite esemete kasutamise nende otstarbe kohaselt ja ilma ülemääraste kulutusteta.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para31lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõike 1 punktides 1 ja 2 sätestatud kohustuste täitmisel kohaldatakse asjaõigusseaduse §-s 143 sätestatut.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para31lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanik on kohustatud tagama, et tema perekonnaliikmed, ajutised elanikud ja korteriomandit kasutavad isikud järgivad käesoleva paragrahvi lõigetes 1 ja 2 sätestatut.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para31lg5">
+						<loigeNr>5</loigeNr>
+						<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanik on kohustatud korraldama oma korteriomandi valitsemise ka ajal, kui ta ise viibib sellest eemal.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+			</jagu>
+			<jagu id="jg4">
+				<jaguNr>4</jaguNr>
+				<kuvatavNr><![CDATA[4. jagu]]></kuvatavNr>
+				<jaguPealkiri>Korteriomandi võõrandamise nõue</jaguPealkiri>
+				<paragrahv id="para32">
+					<paragrahvNr>32</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 32.]]></kuvatavNr>
+					<paragrahvPealkiri>Korteriomandi võõrandamise nõude esitamine</paragrahvPealkiri>
+					<loige id="para32lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriomanik on korduvalt rikkunud oma kohustusi teise korteriomaniku või korteriühistu suhtes ja kui korteriomanikud ei pea enam võimalikuks tema kuulumist korteriomanike hulka, võivad nad nõuda, et ta oma korteriomandi võõrandab.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para32lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Võõrandamisnõude võib eelkõige esitada, kui korteriomanik:</tavatekst>
+						</sisuTekst>
+						<alampunkt id="para32lg2p1">
+							<alampunktNr>1</alampunktNr>
+							<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>on korduvalt jätnud täitmata käesoleva seaduse §-s 31 sätestatud kohustused;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para32lg2p2">
+							<alampunktNr>2</alampunktNr>
+							<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>on vähemalt kuue kuu majandamiskulude tasumisega viivitanud üle kolme kuu või</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para32lg2p3">
+							<alampunktNr>3</alampunktNr>
+							<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>häirib oma tegevusega oluliselt teiste korteriomandite teostamist.</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+					</loige>
+					<loige id="para32lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõikes 1 sätestatud nõude esitamise üle otsustavad korteriomanikud häälteenamuse alusel.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para32lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõikes 1 sätestatud nõude esitamist ei saa korteriomanike kokkuleppega välistada ega piirata.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para32lg5">
+						<loigeNr>5</loigeNr>
+						<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui kinnisomand on jagatud kaheks korteriomandiks, võib käesoleva paragrahvi lõikes 1 sätestatud nõude esitada üks korteriomanik teise vastu.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para33">
+					<paragrahvNr>33</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 33.]]></kuvatavNr>
+					<paragrahvPealkiri>Otsuse täitmise nõudmine</paragrahvPealkiri>
+					<loige id="para33lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui kohustust rikkunud korteriomanik ei ole korteriomandit võõrandanud hiljemalt kolme kuu möödumisel nõude esitamisest, otsustab võõrandamise kohus vähemalt ühe korteriomaniku või korteriühistu hagi alusel. Otsust tehes lähtub kohus võõrandamisnõude aluseks olevatest asjaoludest.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para33lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõike 1 esimeses lauses nimetatud tähtaega ei pea järgima, kui korteriomanik on teatanud, et ta keeldub võõrandamisest.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para33lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõikes 1 nimetatud hagi tuleb esitada enne ühe aasta möödumist nõude esitamisest.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para33lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanik või korteriühistu võib nõuda kohtuotsuse täitmist täitemenetluse seadustikus sätestatud korras.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+			</jagu>
+			<jagu id="jg5">
+				<jaguNr>5</jaguNr>
+				<kuvatavNr><![CDATA[5. jagu]]></kuvatavNr>
+				<jaguPealkiri>Valitsemine</jaguPealkiri>
+				<paragrahv id="para34">
+					<paragrahvNr>34</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 34.]]></kuvatavNr>
+					<paragrahvPealkiri>Valitsemise üldpõhimõtted</paragrahvPealkiri>
+					<loige id="para34lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomandite eset valitsetakse seadusest, korteriühistu põhikirjast, korteriomanike kokkulepetest ja korteriomanike huvidest lähtudes.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para34lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomandite kaasomandi osa eset valitsevad korteriomanikud korteriühistu kaudu.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para34lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Isik, kellel on samal alusel kõigi korteriomanike vastu korteriomandist tulenev nõue, mille kohta seadus näeb ette solidaarkohustuse, peab selle esitama korteriühistu vastu.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para35">
+					<paragrahvNr>35</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 35.]]></kuvatavNr>
+					<paragrahvPealkiri>Tavapärane valitsemine</paragrahvPealkiri>
+					<loige id="para35lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomandi kaasomandi osa eseme tavapärase valitsemise küsimuste üle otsustavad korteriomanikud häälteenamuse alusel, kui korteriühistu põhikirjaga ei nähta ette rangemaid nõudeid.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para35lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Tavapärase valitsemisena käsitatakse eelkõige järgmisi tegevusi:</tavatekst>
+						</sisuTekst>
+						<alampunkt id="para35lg2p1">
+							<alampunktNr>1</alampunktNr>
+							<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>kaasomandi eseme tavapärane korrashoid ja remont;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para35lg2p2">
+							<alampunktNr>2</alampunktNr>
+							<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>korteriühistu kaudu tarbitavate teenuste jaoks lepingute sõlmimine;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para35lg2p3">
+							<alampunktNr>3</alampunktNr>
+							<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>kaasomandi eseme taastamisväärtusest lähtuva kahjukindlustuslepingu sõlmimine;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para35lg2p4">
+							<alampunktNr>4</alampunktNr>
+							<kuvatavNr><![CDATA[4)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>korteriühistu vastutuse kindlustamine;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para35lg2p5">
+							<alampunktNr>5</alampunktNr>
+							<kuvatavNr><![CDATA[5)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>kohase suurusega reservkapitali ja remondifondi loomine;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para35lg2p6">
+							<alampunktNr>6</alampunktNr>
+							<kuvatavNr><![CDATA[6)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>laenu või muu laenusarnase mõjuga rahalise kohustuse võtmine, kui selle suurus ei ületa korteriühistu eelmise majandusaasta majandamiskulude summat;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para35lg2p7">
+							<alampunktNr>7</alampunktNr>
+							<kuvatavNr><![CDATA[7)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>energiaauditi ja energiamärgise tellimine.</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para36">
+					<paragrahvNr>36</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 36.]]></kuvatavNr>
+					<paragrahvPealkiri>Laenu võtmine</paragrahvPealkiri>
+					<loige id="para36lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Laenu või muu laenusarnase mõjuga rahalise kohustuse võtmise, kui see kohustus kas iseseisvalt või koos olemasolevate kohustustega ületab korteriühistu eelmise majandusaasta majandamiskulude summa, võib otsustada käesoleva seaduse § 9 lõikes 3 sätestatud häälteenamusega.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para36lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Enne käesoleva paragrahvi lõikes 1 sätestatud kohustuse võtmist peab korteriühistu juhatus laskma kanda korteriühistute registrisse sellekohase märkuse.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para37">
+					<paragrahvNr>37</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 37.]]></kuvatavNr>
+					<paragrahvPealkiri>Kaasomandi eseme säilitamiseks vajalikud toimingud</paragrahvPealkiri>
+					<loige id="para37lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanikul on õigus teha kaasomandi eseme säilitamiseks vajalikke toiminguid teiste korteriomanike ja korteriühistu nõusolekuta ning ta võib nõuda korteriühistult vajalike kulutuste hüvitamist.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para37lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõikes 1 sätestatud toimingute tegemise võib otsustada ka korteriühistu juhatus, kui viivitamine tekitaks kaasomandi esemele olulist kahju.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para37lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui kaasomandi eseme säilitamiseks vajalike kulude kandmine ei ole kehtiva majanduskava alusel võimalik, kohaldatakse käesoleva seaduse § 41 lõikes 4 sätestatut.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para38">
+					<paragrahvNr>38</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 38.]]></kuvatavNr>
+					<paragrahvPealkiri>Olulised ümberkorraldused ja hoone taastamine</paragrahvPealkiri>
+					<loige id="para38lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Ehitusliku või muu kaasomandi eseme korrashoiuks vajalikust muudatusest suurema ümberkorralduse tegemist ei saa otsustada tavapärase valitsemise raames, vaid selleks on vaja korteriomanike kokkulepet.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para38lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõikes 1 nimetatud muudatuseks ei ole vaja selle korteriomaniku nõusolekut, kelle õigusi ümberkorraldused ei puuduta üle määra, mida korteriomanik peab käesoleva seaduse § 31 lõike 1 punkti 2 kohaselt taluma.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para38lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui üle poole hoonest hävib ja kahju ei ole kindlustusega või muul moel kaetud, ei saa hoonet taastada tavapärase valitsemise raames.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para39">
+					<paragrahvNr>39</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 39.]]></kuvatavNr>
+					<paragrahvPealkiri>Kaasomandi eseme ajakohastamine</paragrahvPealkiri>
+					<loige id="para39lg1">
+						<sisuTekst>
+							<tavatekst>Kaasomandi eseme ajakohastamiseks, sealhulgas energiatõhususe suurendamiseks, selliste vajalike muudatuste tegemise, millega ei muudeta eriomandi eseme otstarvet ega kahjustata muul viisil ülemääraselt ühegi korteriomaniku õigustatud huve, võib otsustada käesoleva seaduse § 9 lõikes 3 sätestatud häälteenamusega.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para40">
+					<paragrahvNr>40</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 40.]]></kuvatavNr>
+					<paragrahvPealkiri>Kohustuste jaotus korteriomanike vahel majandamiskulude kandmisel</paragrahvPealkiri>
+					<loige id="para40lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanikud teevad majanduskava alusel perioodilisi ettemakseid korteriühistule vastavalt oma kaasomandi osa suurusele.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>123122022001</aktViide>
+							</avaldamismarge>
+							<joustumine>2023-02-01</joustumine>
+						</muutmismarge>
+					</loige>
+					<loige id="para40lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanike kokkuleppe tingimusi arvestades võib korteriühistu põhikirjaga ette näha käesoleva paragrahvi lõikes 1 sätestatust erineva kohustuste jaotuse aluse ja tasumise korra majandamiskulude kandmisel, kui see on kõiki asjaolusid arvestades mõistlik ega kahjusta ülemääraselt ühegi korteriomaniku õigustatud huve. Eelkõige võib põhikirjaga ette näha, et tegelikust tarbimisest sõltuvad majandamiskulud tasub korteriomanik pärast kulude suuruse selgumist kas vastavalt oma kaasomandi osa suurusele või vastavalt tema poolt tarbitud teenuse mahule.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para40lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanik võib keelduda kandmast kulusid, millega ta ei ole nõustunud, kui nende kandmise nõudmine temalt oleks vastuolus hea usu põhimõttega.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para41">
+					<paragrahvNr>41</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 41.]]></kuvatavNr>
+					<paragrahvPealkiri>Majanduskava</paragrahvPealkiri>
+					<loige id="para41lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriühistu juhatus koostab korteriühistu majandusaastaks majanduskava, mis koosneb järgmistest osadest:</tavatekst>
+						</sisuTekst>
+						<alampunkt id="para41lg1p1">
+							<alampunktNr>1</alampunktNr>
+							<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>ülevaade kaasomandi eseme seisukorrast ja kavandatavatest toimingutest;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para41lg1p2">
+							<alampunktNr>2</alampunktNr>
+							<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>korteriühistu kavandatavad tulud ja kulud;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para41lg1p3">
+							<alampunktNr>3</alampunktNr>
+							<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>korteriomanike kohustuste jaotus majandamiskulude kandmisel;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para41lg1p4">
+							<alampunktNr>4</alampunktNr>
+							<kuvatavNr><![CDATA[4)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>reservkapitali ja remondifondi tehtavate maksete suurus;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para41lg1p5">
+							<alampunktNr>5</alampunktNr>
+							<kuvatavNr><![CDATA[5)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>kütuse, soojuse, vee- ja kanalisatsiooniteenuse ning elektri prognoositav kogus ja maksumus.</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+					</loige>
+					<loige id="para41lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriomanike kokkuleppe või korteriühistu põhikirjaga on ette nähtud tegelikust tarbimisest sõltuvate majandamiskulude tasumine pärast kulude suuruse selgumist, määratakse majanduskavas kindlaks ainult ülejäänud kulude suurus.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para41lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Majanduskava kehtestab korteriomanike üldkoosolek.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para41lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui majandusaasta jooksul ilmneb, et kehtestatud majanduskava ei taga korteriomandite valitsemist majanduskavas ettenähtud mahus ega korteriühistu püsivat maksevõimelisust, on korteriühistu juhatus kohustatud koostama uue majanduskava ja kutsuma kokku korteriomanike erakorralise üldkoosoleku uue majanduskava kehtestamiseks.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para41lg5">
+						<loigeNr>5</loigeNr>
+						<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui majandusaasta alguseks ei ole kehtestatud uut majanduskava, kehtib senine majanduskava kuni uue majanduskava kehtestamiseni.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para42">
+					<paragrahvNr>42</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 42.]]></kuvatavNr>
+					<paragrahvPealkiri>Viivis ja sissenõudmiskulude hüvitamine</paragrahvPealkiri>
+					<loige id="para42lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriomanik viivitab majandamiskulude tasumisega, võib korteriühistu nõuda temalt viivist võlaõigusseaduse § 113 lõike 1 teises lauses sätestatud suuruses. Käesolevas paragrahvis sätestatust teistsuguse viivise määra võib ette näha vaid eriomandi kokkuleppes.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>123122022001</aktViide>
+							</avaldamismarge>
+							<joustumine>2023-02-01</joustumine>
+						</muutmismarge>
+					</loige>
+					<loige id="para42lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriühistu võib nõuda viivist, võib ta nõuda korteriomanikult võla sissenõudmiskulude hüvitamist sõltuvalt nõude suurusest kogusummas:</tavatekst>
+						</sisuTekst>
+						<alampunkt id="para42lg2p1">
+							<alampunktNr>1</alampunktNr>
+							<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>kuni 30 eurot, kui korteriühistu nõue on kuni 500 eurot;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para42lg2p2">
+							<alampunktNr>2</alampunktNr>
+							<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>kuni 40 eurot, kui korteriühistu nõue on üle 500 euro ja kuni 1000 eurot;</tavatekst>
+							</sisuTekst>
+						</alampunkt>
+						<alampunkt id="para42lg2p3">
+							<alampunktNr>3</alampunktNr>
+							<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+							<sisuTekst>
+								<tavatekst>kuni 50 eurot, kui korteriühistu nõue on üle 1000 euro.</tavatekst>
+							</sisuTekst>
+							<muutmismarge>
+								<avaldamismarge>
+									<RTosa>RT I</RTosa>
+									<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+									<RTartikkel>1</RTartikkel>
+									<aktViide>123122022001</aktViide>
+								</avaldamismarge>
+								<joustumine>2023-02-01</joustumine>
+							</muutmismarge>
+						</alampunkt>
+					</loige>
+					<loige id="para42lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui kohustuse täitmisega viivitamisest tekkinud kahju suurus ületab käesoleva paragrahvi lõikes 2 sätestatud hüvitise määra, sealhulgas kohtutäituri seaduse §-s 48 sätestatud juhul, võib korteriühistu nõuda viivist ja sissenõudmiskulude hüvitise määra ületava kahju hüvitamist üksnes erandlikel asjaoludel, eelkõige juhul, kui sissenõudmistoimingud on olnud erakordselt keerukad.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>123122022001</aktViide>
+							</avaldamismarge>
+							<joustumine>2023-02-01</joustumine>
+						</muutmismarge>
+					</loige>
+				</paragrahv>
+			</jagu>
+			<jagu id="jg6">
+				<jaguNr>6</jaguNr>
+				<kuvatavNr><![CDATA[6. jagu]]></kuvatavNr>
+				<jaguPealkiri>Korteriühistu nõude tagamine</jaguPealkiri>
+				<paragrahv id="para43">
+					<paragrahvNr>43</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 43.]]></kuvatavNr>
+					<paragrahvPealkiri>Korteriomandi omandaja vastutus</paragrahvPealkiri>
+					<loige id="para43lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomandi võõrandamisel lähevad korteriomaniku õigused ja kohustused omandajale üle alates omandi ülemineku hetkest.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para43lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomandi võõrandamisel, välja arvatud täite- ja pankrotimenetluses, vastutab selle omandaja korteriühistu ees käendajana võõrandaja korteriomandist tulenevate sissenõutavaks muutunud kohustuste eest. Omandaja vastutus on piiratud korteriomandi väärtusega.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para44">
+					<paragrahvNr>44</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 44.]]></kuvatavNr>
+					<paragrahvPealkiri>Korteriühistu pandiõigus</paragrahvPealkiri>
+					<loige id="para44lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriühistul on korteriomandist tulenevate nõuete tagamiseks pandiõigus korteriomandile (edaspidi <i>korteriühistu pandiõigus</i>).</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para44lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriühistu pandiõigusele kohaldatakse seadustes esimesel järjekohal oleva hüpoteegi kohta sätestatut.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para44lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriühistu pandiõiguse suurus on korteriomandi eelmise majandusaasta majandamiskulude summa. Korteriühistu pandiõiguse suurus on lisaks piiratud 50 protsendiga täitemenetluses jaotamisele minevast tulemist või pankrotimenetluses pandieseme müügist saadud rahasummast.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>123122022001</aktViide>
+							</avaldamismarge>
+							<joustumine>2023-02-01</joustumine>
+						</muutmismarge>
+					</loige>
+					<loige id="para44lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriühistu pandiõiguse suurus määratakse korteriomanike üldkoosoleku poolt kinnitatud majandusaasta aruande järgi omandi ülemineku päeva seisuga. Kui korteriühistul on kohustus esitada majandusaasta aruanne korteriühistute registrile, määratakse korteriühistu pandiõiguse suurus registrile esitatud majandusaasta aruande järgi.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para44lg5">
+						<loigeNr>5</loigeNr>
+						<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriühistu esimese majandusaasta kohta ei ole veel aruannet, määratakse korteriühistu pandiõiguse suurus majanduskava järgi. Kui käesoleva seaduse § 41 lõike 2 kohaselt on ette nähtud tegelikust tarbimisest sõltuvate majandamiskulude tasumine pärast kulude suuruse selgumist, määratakse pandiõiguse suurus selles osas majanduskavas sisalduva prognoosi järgi.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para44lg6">
+						<loigeNr>6</loigeNr>
+						<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Eriomandi kokkuleppes võivad korteriomanikud määrata korteriühistu pandiõigusele kindla rahalise suuruse.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+			</jagu>
+			<jagu id="jg7">
+				<jaguNr>7</jaguNr>
+				<kuvatavNr><![CDATA[7. jagu]]></kuvatavNr>
+				<jaguPealkiri>Õigus saada teavet</jaguPealkiri>
+				<paragrahv id="para45">
+					<paragrahvNr>45</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 45.]]></kuvatavNr>
+					<paragrahvPealkiri>Korteriomaniku õigus saada teavet</paragrahvPealkiri>
+					<loige id="para45lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanikul on õigus saada juhatuselt teavet korteriühistu tegevuse kohta ja tutvuda korteriühistu dokumentidega.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para45lg1b1">
+						<loigeNr ylaIndeks="1">1</loigeNr>
+						<kuvatavNr><![CDATA[(1<sup>1</sup>)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui teave on olemas elektrooniliselt, on korteriomanikul õigus nõuda, et talle saadetakse dokumentidest elektroonilised ärakirjad käesoleva seaduse § 46 lõike 1 kohaselt teatatud elektronposti aadressil või tehakse muul viisil kättesaadavaks.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>123122022001</aktViide>
+							</avaldamismarge>
+							<joustumine>2023-02-01</joustumine>
+						</muutmismarge>
+					</loige>
+					<loige id="para45lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Juhatus võib keelduda teabe andmisest ja dokumentide esitamisest, kui on alust eeldada, et see võib tekitada olulist kahju teise korteriomaniku või kolmanda isiku õigustatud huvidele.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para45lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanik võib juhul, kui juhatus keeldub teabe andmisest või dokumentidega tutvumise võimaldamisest, nõuda, et tema nõudmise õiguspärasuse üle otsustaks korteriomanike üldkoosolek, või esitada kahe nädala jooksul juhatuse keeldumise saamisest arvates või kuue nädala jooksul taotluse esitamisest arvates, kui juhatus ei ole sellele nelja nädala jooksul vastanud, hagita menetluses kohtule avalduse juhatuse kohustamiseks teavet andma või dokumentidega tutvumist võimaldama.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>123122022001</aktViide>
+							</avaldamismarge>
+							<joustumine>2023-02-01</joustumine>
+						</muutmismarge>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para46">
+					<paragrahvNr>46</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 46.]]></kuvatavNr>
+					<paragrahvPealkiri>Korteriomaniku kohustus anda teavet</paragrahvPealkiri>
+					<loige id="para46lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanik on kohustatud teatama korteriühistule oma olemasolevate sidevahendite andmed, eelkõige telefoninumbri või elektronposti aadressi.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para46lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriomaniku elu- või asukoht erineb korteriomandi asukohast, on korteriomanik kohustatud korteriühistule teatama ka oma elu- või asukoha postiaadressi.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para46lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriomanik ei ole korteriühistule teatanud oma elu- või asukoha postiaadressi, on korteriühistul õigus lugeda tema elu- või asukohaks korteriomandi asukoht.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para47">
+					<paragrahvNr>47</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 47.]]></kuvatavNr>
+					<paragrahvPealkiri>Muu isiku õigus saada teavet</paragrahvPealkiri>
+					<loige id="para47lg1">
+						<sisuTekst>
+							<tavatekst>Kui korteriomand on koormatud piiratud asjaõigusega, on piiratud asjaõiguse omajal õigus saada korteriühistult teavet korteriomaniku majandamiskulude võlgnevuse suuruse ja selle tekkimise aluste kohta.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+			</jagu>
+			<jagu id="jg8">
+				<jaguNr>8</jaguNr>
+				<kuvatavNr><![CDATA[8. jagu]]></kuvatavNr>
+				<jaguPealkiri>Korteriühistu vara ja raamatupidamine</jaguPealkiri>
+				<paragrahv id="para48">
+					<paragrahvNr>48</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 48.]]></kuvatavNr>
+					<paragrahvPealkiri>Reservkapital</paragrahvPealkiri>
+					<loige id="para48lg1">
+						<sisuTekst>
+							<tavatekst>Korteriühistul peab olema reservkapital, mille suurus on vähemalt üks kaheteistkümnendik korteriühistu aasta eeldatavatest kuludest. Reservkapitali suuruse üle otsustab korteriomanike üldkoosolek.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para49">
+					<paragrahvNr>49</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 49.]]></kuvatavNr>
+					<paragrahvPealkiri>Järelevalve</paragrahvPealkiri>
+					<loige id="para49lg1">
+						<sisuTekst>
+							<tavatekst>Järelevalvele kohaldatakse mittetulundusühingute seaduse §-s 34 sätestatut.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para50">
+					<paragrahvNr>50</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 50.]]></kuvatavNr>
+					<paragrahvPealkiri>Raamatupidamine</paragrahvPealkiri>
+					<loige id="para50lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Juhatus korraldab korteriühistu raamatupidamist.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para50lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kuni kümne korteriomandiga korteriühistu võib pidada kassapõhist raamatupidamist, kui korteriühistu põhikirjas ei ole ette nähtud teisiti. Sellisel juhul kohaldatakse raamatupidamise seaduse § 43 lõikes 2 sätestatut.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>123122022001</aktViide>
+							</avaldamismarge>
+							<joustumine>2023-02-01</joustumine>
+						</muutmismarge>
+					</loige>
+					<loige id="para50lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui kuni kümne korteriomandiga korteriühistu peab tekkepõhist raamatupidamist, kohaldatakse raamatupidamise seaduse § 43 lõikes 3 sätestatut.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>123122022001</aktViide>
+							</avaldamismarge>
+							<joustumine>2023-02-01</joustumine>
+						</muutmismarge>
+					</loige>
+					<loige id="para50lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõigetes 2 ja 3 sätestatut ei kohaldata, kui korteriühistut juhib ja esindab valitseja käesoleva seaduse § 26 kohaselt.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>123122022001</aktViide>
+							</avaldamismarge>
+							<joustumine>2023-02-01</joustumine>
+						</muutmismarge>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para51">
+					<paragrahvNr>51</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 51.]]></kuvatavNr>
+					<paragrahvPealkiri>Majandusaasta aruanne</paragrahvPealkiri>
+					<loige id="para51lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriühistu peab koostama majandusaasta aruande, kohaldatakse selle koostamisele, esitamisele ja kinnitamisele mittetulundusühingute seaduse § 36 lõigetes 1–4 mittetulundusühingu majandusaasta aruande kohta sätestatut käesolevas seaduses sätestatud erisustega.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para51lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriühistu põhikirjaga võib ette näha korteriühistu raamatupidamise aastaaruande audiitorkontrolli kohustuse.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para51lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriühistu majandusaasta aruandes märgitakse lisaks muudele seaduses sätestatud andmetele ka iga korteriomandi majandamiskulude suurus.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para51lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriühistu esitab kinnitatud majandusaasta aruande korteriühistute registrile kuue kuu jooksul majandusaasta lõppemisest arvates. Kui audiitorkontroll on kohustuslik, esitatakse aruanne koos vandeaudiitori aruandega.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2014-05-21</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>121052014001</aktViide>
+							</avaldamismarge>
+							<joustumine>2018-01-01</joustumine>
+						</muutmismarge>
+					</loige>
+				</paragrahv>
+			</jagu>
+			<jagu id="jg9">
+				<jaguNr>9</jaguNr>
+				<kuvatavNr><![CDATA[9. jagu]]></kuvatavNr>
+				<jaguPealkiri>Korteriühistu maksejõuetuse erisused</jaguPealkiri>
+				<paragrahv id="para52">
+					<paragrahvNr>52</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 52.]]></kuvatavNr>
+					<paragrahvPealkiri>Pankrotiseaduse kohaldamine</paragrahvPealkiri>
+					<loige id="para52lg1">
+						<sisuTekst>
+							<tavatekst>Korteriühistu maksejõuetuse korral kohaldatakse pankrotiseaduses sätestatut käesolevas seaduses sätestatud erisustega.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para53">
+					<paragrahvNr>53</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 53.]]></kuvatavNr>
+					<paragrahvPealkiri>Ajutise majanduskava kehtestamine</paragrahvPealkiri>
+					<loige id="para53lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Halduri ettepanekul otsustab kohus ajutise majanduskava kehtestamise. Ajutine majanduskava peab tagama vähemalt pankrotimenetluse kulude katmise ja korteriomandite tavapärase valitsemise kuni käesoleva seaduse § 54 lõikes 1 sätestatud majanduskava kehtestamise otsustamiseni.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para53lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Pankroti väljakuulutamisel otsustab kohus ajutise majanduskava esitamise tähtaja, mis ei või olla pikem kui 30 päeva.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para53lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Ajutise majanduskava kehtestamisel võib kohus ette näha tegelikust tarbimisest sõltuvate majandamiskulude tasumise pärast kulude suuruse selgumist ka juhul, kui korteriühistu põhikirjas ei ole seda ette nähtud.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para53lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Ajutise majanduskava kehtestamise määruse peale võivad korteriühistu, korteriomanikud, pankrotiavalduse esitaja ja pankrotihaldur esitada määruskaebuse.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para54">
+					<paragrahvNr>54</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 54.]]></kuvatavNr>
+					<paragrahvPealkiri>Majanduskava kehtestamine</paragrahvPealkiri>
+					<loige id="para54lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Pärast nõuete kaitsmist otsustab kohus halduri ettepanekul korteriühistu majanduskava kehtestamise korteriühistu maksevõime taastamiseks (edaspidi <i>maksevõimet taastav majanduskava</i>) või korteriomandite eriomandi osa ja korteriühistu lõpetamiseks (edaspidi <i>korteriühistut lõpetav majanduskava</i>).</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para54lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Majanduskava kehtestamise määruse peale võivad korteriühistu, korteriomanikud ja võlausaldajad esitada määruskaebuse. Korteriühistut lõpetava majanduskava kehtestamise määruse peale võib määruskaebuse esitada ka korteriomandit koormava piiratud asjaõiguse omaja. Ringkonnakohtu määruse peale määruskaebuse kohta võib esitada määruskaebuse.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para55">
+					<paragrahvNr>55</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 55.]]></kuvatavNr>
+					<paragrahvPealkiri>Maksevõimet taastava majanduskava kehtestamine</paragrahvPealkiri>
+					<loige id="para55lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kohus otsustab maksevõimet taastava majanduskava kehtestamise, kui kõiki asjaolusid arvestades on korteriühistu maksevõime taastamine mõistliku aja jooksul võimalik.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para55lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kohus otsustab kehtestada maksevõimet taastava majanduskava sellises suuruses ja nii pikaks ajavahemikuks, kui on vajalik võlausaldajate nõuete rahuldamiseks võimalikult suures ulatuses võimalikult lühikese aja jooksul. Kohus arvestab majanduskava kehtestamise otsustamisel kõiki asjaolusid, eelkõige korteriomandite tähendust korteriomanike jaoks, korteriomanike maksevõimet ja maksejõuetuse tekkimise põhjusi.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para55lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Maksevõimet taastava majanduskava kehtestamise otsustamisele ja selle tagajärgedele kohaldatakse pankrotiseaduses kompromissi kinnitamise ja selle tagajärgede kohta sätestatut käesolevas seaduses sätestatud erisustega.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para55lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Võlausaldajate nõuded korteriühistu vastu, mida ei ole pankroti käigus esitatud, samuti nõuded selles osas, mis jäävad pankroti käigus rahuldamata, lõpevad.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para56">
+					<paragrahvNr>56</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 56.]]></kuvatavNr>
+					<paragrahvPealkiri>Korteriühistut lõpetava majanduskava kehtestamine</paragrahvPealkiri>
+					<loige id="para56lg1">
+						<sisuTekst>
+							<tavatekst>Kohus otsustab korteriühistut lõpetava majanduskava kehtestamise ning korteriomandite eriomandi osa ja korteriühistu lõpetamise, samuti korteriomandeid koormavate piiratud asjaõiguste lõpetamise või ülekandmise avatavasse kinnisasja registriossa, kui kõiki asjaolusid arvestades ei ole maksevõimet taastava majanduskava kehtestamine võimalik.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+			</jagu>
+		</peatykk>
+		<peatykk id="ptk3b1">
+			<peatykkNr ylaIndeks="1">3</peatykkNr>
+			<kuvatavNr><![CDATA[3<sup>1</sup>. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>Korteriomandite esemeks oleva kinnisasja jagamine</peatykkPealkiri>
+			<muutmismarge>
+				<avaldamismarge>
+					<RTosa>RT I</RTosa>
+					<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+					<RTartikkel>1</RTartikkel>
+					<aktViide>123122022001</aktViide>
+				</avaldamismarge>
+				<joustumine>2024-01-15</joustumine>
+			</muutmismarge>
+			<paragrahv id="para56b1">
+				<paragrahvNr ylaIndeks="1">56</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 56<sup>1</sup>.]]></kuvatavNr>
+				<paragrahvPealkiri>Korteriomandite esemeks oleva kinnisasja jagamine</paragrahvPealkiri>
+				<loige id="para56b1lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui korteriomandite esemeks oleval kinnisasjal paikneb mitu hoonet, on korteriomanike kokkuleppel võimalik jagada korteriomandite esemeks olev kinnisasi mitmeks eraldi korteriomandite esemeks olevaks kinnisasjaks selliselt, et korteriomandite registriosasid kinnistusraamatus ei suleta.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para56b1lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kinnisasja jagamise hetkel olemasolev korteriühistu jääb kinnisasja jagamisel seotuks kõikide korteriomanditega ja sellise korteriühistu tegevusele kohaldatakse käesoleva seaduse § 69 lõigetes 2–6 sätestatut.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para56b1lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Käesoleva paragrahvi lõikes 1 sätestatud muudatuste kandmiseks kinnistusraamatusse on vajalik kõigi piiratud asjaõiguste omajate nõusolek.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>123122022001</aktViide>
+						</avaldamismarge>
+						<joustumine>2024-01-15</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+		</peatykk>
+		<peatykk id="ptk4">
+			<peatykkNr>4</peatykkNr>
+			<kuvatavNr><![CDATA[4. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>Korteriomandite ja korteriühistu lõppemine</peatykkPealkiri>
+			<paragrahv id="para57">
+				<paragrahvNr>57</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 57.]]></kuvatavNr>
+				<paragrahvPealkiri>Korteriomandite ja korteriühistu lõpetamise viisid</paragrahvPealkiri>
+				<loige id="para57lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomandid ja korteriühistu lõpetatakse korteriomanike vahel sõlmitud eriomandi lõpetamise kokkuleppega või korteriomandite omaniku otsusega.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para57lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriühistu lõpetamine, samuti sundlõpetamine ilma korteriomandi eriomandi osa lõpetamiseta ei ole võimalik.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para58">
+				<paragrahvNr>58</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 58.]]></kuvatavNr>
+				<paragrahvPealkiri>Eriomandi lõpetamine kokkuleppega</paragrahvPealkiri>
+				<loige id="para58lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomanikud võivad kokkuleppega otsustada korteriomandite eriomandi osa ja korteriühistu lõpetamise.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para58lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Eriomandi lõpetamiseks on nõutav korteriomanike kokkulepe ja sellekohase kande tegemine kinnistusraamatusse.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para58lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Eriomandi lõpetamise kokkuleppele kohaldatakse asjaõigusseaduse §-s 120 sätestatut.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para58lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Tehingule, millega kohustutakse eriomandit lõpetama, kohaldatakse asjaõigusseaduse §-s 119 sätestatut.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para59">
+				<paragrahvNr>59</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 59.]]></kuvatavNr>
+				<paragrahvPealkiri>Eriomandi lõpetamise nõudmine</paragrahvPealkiri>
+				<loige id="para59lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomandite eriomandi osa ja korteriühistu lõpetamiseks vajalike tahteavalduste andmise nõudmisele kohaldatakse käesoleva seaduse §-s 9 eriomandi kokkuleppe muutmise kohta sätestatut.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para59lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui hoone on täielikult hävinud, eeldatakse, et korteriomandite eriomandi osa ja korteriühistu lõpetamine on korteriomanike õigustatud huve arvestades kooskõlas hea usu põhimõttega ega kahjusta ülemääraselt ühegi korteriomaniku õigustatud huve.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para60">
+				<paragrahvNr>60</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 60.]]></kuvatavNr>
+				<paragrahvPealkiri>Korteriomandite registriosade ja korteriühistu registrikaardi sulgemine</paragrahvPealkiri>
+				<loige id="para60lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Avalduse kanda korteriühistu likvideerimine registrisse esitab korteriühistu korteriühistute registri pidajale. Avaldusele tuleb lisada eriomandi lõpetamise kokkuleppe ärakiri.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para60lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Avaldus korteriomandite registriosade sulgemiseks ja korteriühistu registrikaardi sulgemiseks esitatakse kinnistusraamatu pidajale. Pärast avalduse saamist edastab kinnistusraamatu pidaja avalduse korteriühistute registri pidajale.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para60lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomandite registriosade sulgemisel avatakse kinnisasja kohta uus registriosa ning samal ajal suletakse kõikide korteriomandite registriosad asjaõigusseaduses ja kinnistusraamatuseaduses sätestatud korras. Suletud registriosade andmed kantakse avatava registriosa vastavatesse jagudesse.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para60lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriomandite registriosade sulgemise kanne tehakse pärast seda, kui korteriühistute registri pidaja on teatanud, et puuduvad takistused korteriühistu registrikaardi sulgemiseks. Korteriühistu registrikaardi võib sulgeda pärast korteriühistu likvideerimist. Korteriühistu registrikaardi sulgemise kanne tehakse viivitamata pärast korteriomandite registriosade sulgemise kande tegemist.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para60lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kinnistusraamatu pidaja ja korteriühistute registri pidaja täpsema tegevuse korteriomandite registriosade ja korteriühistu registrikaardi sulgemisel kehtestab </tavatekst>
+						<viide>
+							<kuvatavTekst><![CDATA[valdkonna eest vastutav minister]]></kuvatavTekst>
+							<viideURID>
+								<viideURI><![CDATA[./dyn=123122022004&id=123122017009;123122017010]]></viideURI>
+							</viideURID>
+						</viide>
+						<tavatekst> määrusega.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para61">
+				<paragrahvNr>61</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 61.]]></kuvatavNr>
+				<paragrahvPealkiri>Korteriomandite lõpetamine omaniku avalduse alusel</paragrahvPealkiri>
+				<loige id="para61lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Isik, kellele kuuluvad kõik korteriomandid, võib kinnistusraamatu pidajale esitatava kinnistamisavaldusega lõpetada eriomandid ja korteriühistu. Eriomandid lõpevad kande tegemisega kinnistusraamatusse.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para61lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Käesoleva paragrahvi lõikes 1 sätestatud juhul kohaldatakse käesoleva seaduse §-s 60 sätestatut.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+		</peatykk>
+		<peatykk id="ptk5">
+			<peatykkNr>5</peatykkNr>
+			<kuvatavNr><![CDATA[5. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>Korterihoonestusõigus</peatykkPealkiri>
+			<paragrahv id="para62">
+				<paragrahvNr>62</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 62.]]></kuvatavNr>
+				<paragrahvPealkiri>Korterihoonestusõigus</paragrahvPealkiri>
+				<loige id="para62lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui hoonestusõigus kuulub mõtteliste osadena mitmele isikule, võivad hoonestajad kokku leppida selles, et igal kaasomanikul tekib eriomand eluruumile või mitteeluruumile hoonestusõiguse oluliseks osaks olevas või hoonestusõiguse alusel ehitatavas hoones ja luuakse korterihoonestusõigused.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para62lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Hoonestaja võib jagada talle kuuluva hoonestusõiguse korterihoonestusõigusteks. Sellisel juhul kohaldatakse käesoleva seaduse §-s 8 sätestatut.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para62lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korterihoonestusõiguste loomiseks on vajalik kinnisasja omaniku nõusolek.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para62lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kinnisasi ei saa samal ajal olla korteriomandite esemeks ja koormatud korterihoonestusõigusega.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para62lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korterihoonestusõiguste kinnistamisel avatakse igale korterihoonestusõigusele kinnistusregistri iseseisev osa ja samal ajal suletakse hoonestusõiguse senine registriosa. Koormatud kinnisasja registriossa tehakse kanne selle kohta, et hoonestusõigus on jagatud korterihoonestusõigusteks.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para62lg6">
+					<loigeNr>6</loigeNr>
+					<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Muus osas kohaldatakse korterihoonestusõigusele korteriomandit ja hoonestusõigust reguleerivaid sätteid.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para62b1">
+				<paragrahvNr ylaIndeks="1">62</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 62<sup>1</sup>.]]></kuvatavNr>
+				<paragrahvPealkiri>Korterihoonestusõigustest korteriomandite moodustamine</paragrahvPealkiri>
+				<loige id="para62b1lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korterihoonestusõiguste omajate ja kinnisasja omanike kokkuleppel võib korterihoonestusõigused kujundada ümber korteriomanditeks selliselt, et registriosasid kinnistusraamatus vahepeal ei suleta.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para62b1lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriühistu, mis oli seotud korterihoonestusõigustega, jääb korteriomandite moodustamisel alles ja seotuks korteriomanditega.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para62b1lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Käesoleva paragrahvi lõikes 1 sätestatud muudatuste kandmiseks kinnistusraamatusse on vajalik kõigi piiratud asjaõiguste omajate nõusolek.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>123122022001</aktViide>
+						</avaldamismarge>
+						<joustumine>2024-01-15</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+		</peatykk>
+		<peatykk id="ptk6">
+			<peatykkNr>6</peatykkNr>
+			<kuvatavNr><![CDATA[6. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>Korteriühistute register</peatykkPealkiri>
+			<paragrahv id="para63">
+				<paragrahvNr>63</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 63.]]></kuvatavNr>
+				<paragrahvPealkiri>Registri pidamine</paragrahvPealkiri>
+				<loige id="para63lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Korteriühistute register (edaspidi <i>register</i>) on mittetulundusühingute ja sihtasutuste registri osa, mille suhtes kohaldatakse mittetulundusühingute ja sihtasutuste registri kohta õigusaktides sätestatut, kui käesolevast seadusest ei tulene teisiti.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para63lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Registrit peab Tartu Maakohtu registriosakond.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2017-05-09</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>109052017001</aktViide>
+						</avaldamismarge>
+						<joustumine>2018-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para63lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu - </tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2017-05-09</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>109052017001</aktViide>
+						</avaldamismarge>
+						<joustumine>2018-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para63lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu - </tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2022-05-05</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>105052022001</aktViide>
+						</avaldamismarge>
+						<joustumine>2023-02-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para63lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu - </tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2022-05-05</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>105052022001</aktViide>
+						</avaldamismarge>
+						<joustumine>2023-02-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+		</peatykk>
+		<peatykk id="ptk6b1">
+			<peatykkNr ylaIndeks="1">6</peatykkNr>
+			<kuvatavNr><![CDATA[6<sup>1</sup>. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>Vaidluste kohtuväline lahendamine</peatykkPealkiri>
+			<muutmismarge>
+				<avaldamismarge>
+					<RTosa>RT I</RTosa>
+					<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+					<RTartikkel>1</RTartikkel>
+					<aktViide>123122022001</aktViide>
+				</avaldamismarge>
+				<joustumine>2023-02-01</joustumine>
+			</muutmismarge>
+			<paragrahv id="para63b1">
+				<paragrahvNr ylaIndeks="1">63</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 63<sup>1</sup>.]]></kuvatavNr>
+				<paragrahvPealkiri>Korteriomandi ja korteriühistu vaidluste kohtuväline lahendamine</paragrahvPealkiri>
+				<loige id="para63b1lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kohaliku omavalitsuse üksus võib luua korteriomandi ja korteriühistuga seotud vaidluste kohtuväliseks lahendamiseks komisjoni (edaspidi <i>komisjon</i>).</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para63b1lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Komisjon on lepitusorgan lepitusseaduse § 19 tähenduses. Komisjonis toimuvale menetlusele kohaldatakse lepitusseaduse sätteid.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para63b1lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Komisjon võib kohustada korteriühistut osalema lepitusmenetluses. Lepitusmenetluses osalemise kohustuse eiramise korral on komisjonil õigus teha korteriühistule ettekirjutus. Ettekirjutuse mittetäitmise korral võib komisjon rakendada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 1000 eurot.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>123122022001</aktViide>
+						</avaldamismarge>
+						<joustumine>2023-02-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+		</peatykk>
+		<peatykk id="ptk7">
+			<peatykkNr>7</peatykkNr>
+			<kuvatavNr><![CDATA[7. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>Rakendussätted</peatykkPealkiri>
+			<jagu id="jg10">
+				<jaguNr>1</jaguNr>
+				<kuvatavNr><![CDATA[1. jagu]]></kuvatavNr>
+				<jaguPealkiri>Seaduse kohaldamine vallasasjadele</jaguPealkiri>
+				<paragrahv id="para64">
+					<paragrahvNr>64</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 64.]]></kuvatavNr>
+					<paragrahvPealkiri>Korteriomandi- ja korteriühistuseaduse kohaldamine vallasasjale</paragrahvPealkiri>
+					<loige id="para64lg1">
+						<sisuTekst>
+							<tavatekst>Käesoleva seaduse 1.–4. ja 6. peatüki sätteid kohaldatakse ka vallasasjana tsiviilkäibes olevale eluruumile ja mitteeluruumile.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+			</jagu>
+			<jagu id="jg1b1">
+				<jaguNr ylaIndeks="1">1</jaguNr>
+				<kuvatavNr><![CDATA[1<sup>1</sup>. jagu]]></kuvatavNr>
+				<jaguPealkiri>Seaduse kohaldamine korteriomanike vahel sõlmitud kasutuskorra kokkuleppele</jaguPealkiri>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>123122022001</aktViide>
+					</avaldamismarge>
+					<joustumine>2023-02-01</joustumine>
+				</muutmismarge>
+				<paragrahv id="para64b1">
+					<paragrahvNr ylaIndeks="1">64</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 64<sup>1</sup>.]]></kuvatavNr>
+					<paragrahvPealkiri>Korteriomanike vahel sõlmitud kasutuskorra kokkuleppe muutmine eriomandi kokkuleppe osaks</paragrahvPealkiri>
+					<loige id="para64b1lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanike vahel sõlmitud notariaalselt tõestatud kasutuskorra kokkulepe, mille kohta on olemas kehtiv märkus kõikide korteriomandite registriosade kolmandas jaos, on võimalik ilma selle kokkuleppe sisu muutmata kanda eriomandi kokkuleppe osana kõikide korteriomandite registriosade esimesse jakku. Samal ajal kustutatakse nimetatud märkus kõikide korteriomandite registriosade kolmandas jaos.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para64b1lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Pärast käesoleva paragrahvi lõikes 1 sätestatud kannete tegemist loetakse kasutuskorra kokkulepe selles ulatuses erikasutusõiguse kokkuleppeks, milles see vastab käesoleva seaduse § 14 lõikes 1 sätestatud tingimusele.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para64b1lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanike kui puudutatud isikute nõusolek ei ole käesoleva paragrahvi lõikes 1 sätestatud kannete tegemiseks vajalik. Korteriomanike kui puudutatud isikute nõusolek ei ole vajalik ka juhul, kui võrreldes kokkuleppe sõlmimise ajaga on isikud muutunud.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para64b1lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõikes 1 sätestatud kannete tegemiseks on vajalik ainult sellise piiratud asjaõiguse omaja nõusolek, kelle õigus asub kinnistusraamatus kasutuskorra kokkuleppe kohta kantud märkusest järjekohas eespool.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para64b1lg5">
+						<loigeNr>5</loigeNr>
+						<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõikes 1 sätestatud kannete tegemiseks võib avalduse esitada korteriomanik või korteriühistu.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2022-12-23</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>123122022001</aktViide>
+							</avaldamismarge>
+							<joustumine>2023-02-01</joustumine>
+						</muutmismarge>
+					</loige>
+				</paragrahv>
+			</jagu>
+			<jagu id="jg11">
+				<jaguNr>2</jaguNr>
+				<kuvatavNr><![CDATA[2. jagu]]></kuvatavNr>
+				<jaguPealkiri>Üleminekusätted</jaguPealkiri>
+				<paragrahv id="para65">
+					<paragrahvNr>65</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 65.]]></kuvatavNr>
+					<paragrahvPealkiri>Olemasolevad korteriomandid</paragrahvPealkiri>
+					<loige id="para65lg1">
+						<sisuTekst>
+							<tavatekst>Korteriomanditele, mis on käesoleva seaduse jõustumisel kantud kinnistusraamatusse, kohaldatakse käesolevas seaduses korteriomandi kohta sätestatut.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para66">
+					<paragrahvNr>66</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 66.]]></kuvatavNr>
+					<paragrahvPealkiri>Korteriomanike ühisused</paragrahvPealkiri>
+					<loige id="para66lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriomandite kaasomandi osa valitsemiseks ei ole moodustatud korteriühistut kuni käesoleva seaduse jõustumiseni kehtinud korteriühistuseaduse tähenduses, tekib korteriomandite valitsemiseks käesoleva seaduse jõustumisel korteriühistu.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para66lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanike ühisuse õigused ja kohustused lähevad üle korteriühistule.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para66lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriomanikud on nimetanud valitseja kuni käesoleva seaduse jõustumiseni kehtinud korteriomandiseaduse tähenduses, loetakse füüsilisest isikust valitseja korteriühistu juhatuse liikmeks ja juriidilisest isikust valitseja loetakse valitsejaks käesoleva seaduse tähenduses.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para66lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriühistu registrikaart avatakse korteriühistute registris ametiülesande korras.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para67">
+					<paragrahvNr>67</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 67.]]></kuvatavNr>
+					<paragrahvPealkiri>Ühe kinnisasja valitsemiseks asutatud korteriühistud</paragrahvPealkiri>
+					<loige id="para67lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui ühe kinnisasja korteriomandite kaasomandi osa valitsemiseks ja majandamiseks on asutatud korteriühistu kuni käesoleva seaduse jõustumiseni kehtinud korteriühistuseaduses sätestatud korras, loetakse olemasolev korteriühistu korteriühistuks käesoleva seaduse tähenduses.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para67lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriühistu, mille registrikaardile on kantud kuni käesoleva seaduse jõustumiseni kehtinud korteriühistuseaduse § 3 lõikes 6 või § 17 lõike 4 teises lauses nimetatud andmed, kantakse käesoleva seaduse jõustumisel ametiülesande korras korteriühistuna korteriühistute registrisse.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para67lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõikes 2 nimetatud juhul kustutatakse korteriühistu registrikaardilt korteriomandite kinnistute numbrid ja korteriühistu nimi kantakse korteriühistute registrisse korteriühistu täiendava nimena.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para68">
+					<paragrahvNr>68</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 68.]]></kuvatavNr>
+					<paragrahvPealkiri>Mitme kinnisasja valitsemiseks asutatud korteriühistud</paragrahvPealkiri>
+					<loige id="para68lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui mitme kinnisasja korteriomandite kaasomandi osa valitsemiseks ja majandamiseks on asutatud korteriühistu kuni käesoleva seaduse jõustumiseni kehtinud korteriühistuseaduse § 3 lõike 5 tähenduses, tekib käesoleva seaduse jõustumisel iga kinnisasja korteriomandite valitsemiseks korteriühistu käesoleva seaduse tähenduses ja olemasolev korteriühistu loetakse lõpetatuks.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para68lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriühistute registrikaardid avatakse korteriühistute registris ametiülesande korras.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para68lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Likvideerimisele ja registrist kustutamisele kohaldatakse tsiviilseadustiku üldosa seaduses ja mittetulundusühingute seaduses mittetulundusühingu likvideerimise ja registrist kustutamise kohta sätestatut.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para68lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Likvideeritava korteriühistu vara jagatakse pärast võlausaldajate nõuete rahuldamist käesoleva seaduse jõustumisel tekkinud korteriühistutele vastavalt eriomandi eseme üldpinna suurusele.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para68lg5">
+						<loigeNr>5</loigeNr>
+						<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui likvideeritava korteriühistu varast ei jätku võlausaldajate kõigi nõuete rahuldamiseks, vastutavad käesoleva seaduse jõustumisel tekkinud korteriühistud nõuete eest osavõlgnikena vastavalt eriomandi eseme üldpinna suurusele.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para69">
+					<paragrahvNr>69</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 69.]]></kuvatavNr>
+					<paragrahvPealkiri>Mitme kinnisasja valitsemiseks asutatud korteriühistu tegevuse jätkamine</paragrahvPealkiri>
+					<loige id="para69lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva seaduse §-s 68 sätestatut ei kohaldata, kui korteriomanikud on teinud kuni käesoleva seaduse jõustumiseni kehtinud korteriühistuseaduse § 17<sup>2</sup> lõikes 1 nimetatud otsuse ja esitanud selle tähtaegselt registripidajale.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para69lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Mitme kinnisasja valitsemiseks asutatud korteriühistu põhikirjaga võib ette näha, et käesolevas seaduses nimetatud korteriomanike enamuse otsuste tegemine on iga kinnisasja korteriomanike üldkoosoleku pädevuses.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para69lg3">
+						<loigeNr>3</loigeNr>
+						<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Mitme kinnisasja valitsemiseks asutatud korteriühistu puhul ei kohaldata käesoleva seaduse § 34 lõikes 3 sätestatut.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para69lg4">
+						<loigeNr>4</loigeNr>
+						<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Korteriomanikud võivad otsustada mitme kinnisasja valitsemiseks asutatud korteriühistu lõpetamise. Lõpetamise otsus on vastu võetud, kui selle poolt on antud üle poole kõigist häältest nende korteriomanike poolt, kellele kuulub üle poole selle kinnisasja kaasomandi osadest. Otsuse teinud üldkoosoleku protokoll peab olema notariaalselt tõestatud.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para69lg5">
+						<loigeNr>5</loigeNr>
+						<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Iga kinnisasja korteriomanikud võivad otsustada rohkem kui kahe kinnisasja valitsemiseks asutatud korteriühistust eraldumise käesoleva paragrahvi lõikes 4 sätestatud tingimustel.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para69lg6">
+						<loigeNr>6</loigeNr>
+						<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõigetes 4 ja 5 nimetatud juhtudel kohaldatakse käesoleva seaduse §-s 68 sätestatut.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para70">
+					<paragrahvNr>70</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 70.]]></kuvatavNr>
+					<paragrahvPealkiri>Juhatuse ja valitseja valimise ning registrisse kandmise tähtaeg</paragrahvPealkiri>
+					<loige id="para70lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriühistu tekib käesoleva seaduse § 66 või 68 alusel, tuleb avaldus juhatuse liikme või valitseja korteriühistute registrisse kandmiseks esitada 2018. aasta 30. juuniks.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para70lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesoleva paragrahvi lõikes 1 sätestatud nõuet ei kohaldata juhul, kui korteriühistul ei pea olema juhatust käesoleva seaduse § 24 lõike 3 kohaselt.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para71">
+					<paragrahvNr>71</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 71.]]></kuvatavNr>
+					<paragrahvPealkiri>Laenu kohta märkuse registrisse kandmise tähtaeg</paragrahvPealkiri>
+					<loige id="para71lg1">
+						<sisuTekst>
+							<tavatekst>Kui käesoleva seaduse jõustumisel vastavad korteriühistu rahalised kohustused käesoleva seaduse § 36 lõikes 1 sätestatud tingimustele, peab korteriühistu juhatus esitama 2018. aasta 31. detsembriks avalduse sama paragrahvi lõikes 2 nimetatud märkuse kandmiseks korteriühistute registrisse.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para72">
+					<paragrahvNr>72</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 72.]]></kuvatavNr>
+					<paragrahvPealkiri>Korteriühistu pandiõiguse rakendamine</paragrahvPealkiri>
+					<loige id="para72lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui enne käesoleva seaduse jõustumist on korteriomand koormatud hüpoteegiga, on korteriühistu pandiõiguse suurus kuni hüpoteegi kehtivuse lõpuni viis protsenti täitemenetluses jaotamisele minevast tulemist või pankrotimenetluses pandieseme müügist saadud rahasummast, aga mitte rohkem kui käesoleva seaduse § 44 lõikes 3 nimetatud summa.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para72lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Kui korteriühistu pandiõiguse suurus käesoleva paragrahvi lõike 1 kohaselt on väiksem kui käesoleva seaduse § 44 lõikes 3 nimetatud summa, kohaldatakse ülejäänud osale esimesel vabal järjekohal oleva hüpoteegi kohta sätestatut.</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para72b1">
+					<paragrahvNr ylaIndeks="1">72</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 72<sup>1</sup>.]]></kuvatavNr>
+					<paragrahvPealkiri>Koosolekut kokku kutsumata otsuse vastuvõtmise rakendussäte</paragrahvPealkiri>
+					<loige id="para72b1lg1">
+						<sisuTekst>
+							<tavatekst>Kui käesoleva seaduse § 21 lõikes 2 nimetatud eelnõu on saadetud korteriomanikele enne tsiviilseadustiku üldosa seaduse ja teiste seaduste muutmise seaduse (elektrooniliste võimaluste laiendamine koosolekute korraldamisel ja otsuste vastuvõtmisel) jõustumist, kohaldatakse otsuse tegemisele tingimusi, mis kehtisid eelnõu saatmise ajal.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2020-05-23</avaldamineKuupaev>
+								<RTartikkel>2</RTartikkel>
+								<aktViide>123052020002</aktViide>
+							</avaldamismarge>
+							<joustumine>2020-05-24</joustumine>
+						</muutmismarge>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para72b2">
+					<paragrahvNr ylaIndeks="2">72</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 72<sup>2</sup>.]]></kuvatavNr>
+					<paragrahvPealkiri>Majandusaasta aruande esitamine 2020. aastal</paragrahvPealkiri>
+					<loige id="para72b2lg1">
+						<sisuTekst>
+							<tavatekst>Korteriühistu, kellel on kohustus esitada majandusaasta aruanne registripidajale ajavahemikul 2020. aasta 12. märtsist 31. augustini, peab esitama aruande hiljemalt 2020. aasta 31. oktoobril.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2020-05-23</avaldamineKuupaev>
+								<RTartikkel>2</RTartikkel>
+								<aktViide>123052020002</aktViide>
+							</avaldamismarge>
+							<joustumine>2020-05-24</joustumine>
+						</muutmismarge>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para72b3">
+					<paragrahvNr ylaIndeks="3">72</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 72<sup>3</sup>.]]></kuvatavNr>
+					<paragrahvPealkiri>Juhatuse liikme ja valitseja ametiaja pikendamine 2020. aastal</paragrahvPealkiri>
+					<loige id="para72b3lg1">
+						<sisuTekst>
+							<tavatekst>Kui korteriühistu juhatuse liikme või valitseja ametiaeg lõpeb ajavahemikul 2020. aasta 12. märtsist 31. augustini, loetakse tema volitused pikenenuks kuni uue juhatuse liikme või valitseja valimiseni, aga mitte kauem kui 2020. aasta 31. oktoobrini.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2020-05-23</avaldamineKuupaev>
+								<RTartikkel>2</RTartikkel>
+								<aktViide>123052020002</aktViide>
+							</avaldamismarge>
+							<joustumine>2020-05-24</joustumine>
+						</muutmismarge>
+					</loige>
+				</paragrahv>
+				<paragrahv id="para72b4">
+					<paragrahvNr ylaIndeks="4">72</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 72<sup>4</sup>.]]></kuvatavNr>
+					<paragrahvPealkiri>Häälteenamuse nõue otsuse vastuvõtmisel koosolekut kokku kutsumata</paragrahvPealkiri>
+					<loige id="para72b4lg1">
+						<sisuTekst>
+							<tavatekst>Kui korteriühistu põhikirjas on ette nähtud otsuse vastuvõtmiseks koosolekut kokku kutsumata kõikide korteriomanike nõusolek, võivad korteriomanikud kuni 2020. aasta 31. oktoobrini sellisel viisil otsuseid teha, kohaldades käesoleva seaduse § 21 lõikes 3 sätestatud häälteenamuse nõuet.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2020-05-23</avaldamineKuupaev>
+								<RTartikkel>2</RTartikkel>
+								<aktViide>123052020002</aktViide>
+							</avaldamismarge>
+							<joustumine>2020-05-24</joustumine>
+						</muutmismarge>
+					</loige>
+				</paragrahv>
+			</jagu>
+			<jagu id="jg12">
+				<jaguNr>3</jaguNr>
+				<kuvatavNr><![CDATA[3. jagu]]></kuvatavNr>
+				<jaguPealkiri>Seaduste muutmine</jaguPealkiri>
+				<paragrahv id="para73">
+					<paragrahvNr kehtiv="0">73</paragrahvNr>
+					<kuvatavNr>§ 73. </kuvatavNr>
+					<sisuTekst>
+						<tavatekst> – </tavatekst>
+					</sisuTekst>
+				</paragrahv>
+				<paragrahv id="para92">
+					<paragrahvNr kehtiv="0">92</paragrahvNr>
+					<kuvatavNr>§ 92. </kuvatavNr>
+					<sisuTekst>
+						<tavatekst>[Käesolevast tekstist välja jäetud.]</tavatekst>
+					</sisuTekst>
+				</paragrahv>
+			</jagu>
+			<jagu id="jg13">
+				<jaguNr>4</jaguNr>
+				<kuvatavNr><![CDATA[4. jagu]]></kuvatavNr>
+				<jaguPealkiri>Seaduste kehtetuks tunnistamine</jaguPealkiri>
+				<paragrahv id="para93">
+					<paragrahvNr kehtiv="0">93</paragrahvNr>
+					<kuvatavNr>§ 93. </kuvatavNr>
+					<sisuTekst>
+						<tavatekst> – </tavatekst>
+					</sisuTekst>
+				</paragrahv>
+				<paragrahv id="para94">
+					<paragrahvNr kehtiv="0">94</paragrahvNr>
+					<kuvatavNr>§ 94. </kuvatavNr>
+					<sisuTekst>
+						<tavatekst>[Käesolevast tekstist välja jäetud.]</tavatekst>
+					</sisuTekst>
+				</paragrahv>
+			</jagu>
+			<jagu id="jg14">
+				<jaguNr>5</jaguNr>
+				<kuvatavNr><![CDATA[5. jagu]]></kuvatavNr>
+				<jaguPealkiri>Seaduse jõustumine</jaguPealkiri>
+				<paragrahv id="para95">
+					<paragrahvNr>95</paragrahvNr>
+					<kuvatavNr><![CDATA[§ 95.]]></kuvatavNr>
+					<paragrahvPealkiri>Seaduse jõustumine</paragrahvPealkiri>
+					<loige id="para95lg1">
+						<loigeNr>1</loigeNr>
+						<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>Käesolev seadus jõustub 2018. aasta 1. jaanuaril.</tavatekst>
+						</sisuTekst>
+					</loige>
+					<loige id="para95lg2">
+						<loigeNr>2</loigeNr>
+						<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>– (3) [Käesolevast tekstist välja jäetud.]</tavatekst>
+						</sisuTekst>
+					</loige>
+				</paragrahv>
+			</jagu>
+		</peatykk>
+	</sisu>
+</oigusakt>

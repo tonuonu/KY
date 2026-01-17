@@ -221,9 +221,15 @@ def convert_xml_to_markdown(xml_path):
         for osa in osad:
             lines.append(process_osa(osa, lyhend))
     else:
-        # Direct chapters
-        for peatykk in sisu.findall("ns:peatykk", NAMESPACE):
-            lines.append(process_peatykk(peatykk, lyhend))
+        # Check for chapters
+        peatykid = sisu.findall("ns:peatykk", NAMESPACE)
+        if peatykid:
+            for peatykk in peatykid:
+                lines.append(process_peatykk(peatykk, lyhend))
+        else:
+            # Direct paragraphs under sisu (e.g., AOSRakS)
+            for paragrahv in sisu.findall("ns:paragrahv", NAMESPACE):
+                lines.append(process_paragrahv(paragrahv, lyhend))
     
     return "".join(lines)
 
