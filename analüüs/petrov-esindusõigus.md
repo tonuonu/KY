@@ -69,8 +69,13 @@ Ringkonnakohus kinnitas maakohtu seisukohta:
 
 ## Seotud kohtuasjad
 
-- **2-23-3752** - Hagi tagamise menetlus, milles kustutati Y. Petrov äriregistrist
+- **2-23-3752** - VIIMA COM OÜ vs TYCOON OÜ (osanike otsuste vaidlustamine). Hagi tagamise menetlus, milles kustutati Y. Petrov äriregistrist 22.02.2024. Ringkonnakohus tühistas selle 15.04.2024 menetlusõiguslikel põhjustel.
+- **2-24-3226** - TYCOON OÜ kandeavaldus registrikande muutmiseks (Petrovi kustutamine, Grebenyuki lisamine)
 - **2-23-12081** - Kompromiss selles asjas ei olnud asjakohane tõend esindusõiguse tõendamiseks
+
+## Seotud analüüsid
+
+- [Savitski teadmine Petrovi registristaatusest](savitski-teadmine.md) - Tõendid, et advokaat Savitski teadis Petrovi registristaatust
 
 ---
 
