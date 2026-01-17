@@ -93,26 +93,49 @@ def get_element_text(element):
     return " ".join(parts)
 
 
-def make_rt_link(lyhend, para_nr):
-    """Create Riigi Teataja link for a paragraph."""
-    return f"[§ {para_nr}](https://www.riigiteataja.ee/akt/{lyhend}#para{para_nr})"
+# Unicode superscript digits for display
+SUPERSCRIPT_DIGITS = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
+
+
+def make_rt_link(lyhend, para_nr, superscript=None):
+    """Create Riigi Teataja link for a paragraph.
+    
+    Args:
+        lyhend: Law abbreviation (e.g., "KrtS")
+        para_nr: Paragraph number (e.g., "64")
+        superscript: Optional superscript number (e.g., "1" for § 64¹)
+    """
+    if superscript:
+        # Display with Unicode superscript, link with b{n} format
+        display_nr = f"{para_nr}{superscript.translate(SUPERSCRIPT_DIGITS)}"
+        link_nr = f"{para_nr}b{superscript}"
+    else:
+        display_nr = para_nr
+        link_nr = para_nr
+    return f"[§ {display_nr}](https://www.riigiteataja.ee/akt/{lyhend}#para{link_nr})"
 
 
 def process_alampunkt(element, indent=""):
     """Process alampunkt (sub-clause) element."""
-    nr = get_text(element, "ns:alampunktNr/text()")
+    alampunkt_nr_elem = element.find("ns:alampunktNr", NAMESPACE)
+    nr = alampunkt_nr_elem.text.strip() if alampunkt_nr_elem is not None and alampunkt_nr_elem.text else ""
+    superscript = alampunkt_nr_elem.get("ylaIndeks") if alampunkt_nr_elem is not None else None
     text = get_element_text(element)
-    return f"{indent}{nr}) {text}\n"
+    display_nr = f"{nr}{superscript.translate(SUPERSCRIPT_DIGITS)}" if superscript else nr
+    return f"{indent}{display_nr}) {text}\n"
 
 
 def process_loige(element, indent=""):
     """Process lõige (subsection) element."""
     lines = []
-    nr = get_text(element, "ns:loigeNr/text()")
+    loige_nr_elem = element.find("ns:loigeNr", NAMESPACE)
+    nr = loige_nr_elem.text.strip() if loige_nr_elem is not None and loige_nr_elem.text else ""
+    superscript = loige_nr_elem.get("ylaIndeks") if loige_nr_elem is not None else None
     text = get_element_text(element)
     
     if nr:
-        lines.append(f"{indent}({nr}) {text}\n")
+        display_nr = f"{nr}{superscript.translate(SUPERSCRIPT_DIGITS)}" if superscript else nr
+        lines.append(f"{indent}({display_nr}) {text}\n")
     else:
         lines.append(f"{indent}{text}\n")
     
@@ -126,11 +149,13 @@ def process_loige(element, indent=""):
 def process_paragrahv(element, lyhend):
     """Process paragrahv (section) element."""
     lines = []
-    nr = get_text(element, "ns:paragrahvNr/text()")
+    para_nr_elem = element.find("ns:paragrahvNr", NAMESPACE)
+    nr = para_nr_elem.text.strip() if para_nr_elem is not None and para_nr_elem.text else ""
+    superscript = para_nr_elem.get("ylaIndeks") if para_nr_elem is not None else None
     pealkiri = get_text(element, "ns:paragrahvPealkiri/text()")
     
     # Section header with RT link
-    rt_link = make_rt_link(lyhend, nr)
+    rt_link = make_rt_link(lyhend, nr, superscript)
     if pealkiri:
         lines.append(f"### {rt_link} {pealkiri}\n\n")
     else:
