@@ -28,6 +28,7 @@ See tekitas huvide konflikti, kuna ta esindas üheaegselt nii võlausaldajat (K�
 | 21.02.2024 | Harju Maakohtu hagi tagamise määrus asjas 2-23-3752 kustutab Petrovi registrist |
 | 22.02.2024 | A. Grebenyuk kantakse äriregistrisse TYCOON OÜ juhatuse liikmena |
 | 06.03.2024 | Kohtuistungil väljendab TYCOON OÜ (Grebenyuki kaudu), et ei nõustu kompromissiga |
+| 15.04.2024 | Ringkonnakohus tühistab hagi tagamise määruse menetlusõiguslikel põhjustel |
 
 ---
 
@@ -69,8 +70,17 @@ Ringkonnakohus kinnitas maakohtu seisukohta:
 
 ## Seotud kohtuasjad
 
-- **2-23-3752** - VIIMA COM OÜ vs TYCOON OÜ (osanike otsuste vaidlustamine). Hagi tagamise menetlus, milles kustutati Y. Petrov äriregistrist 22.02.2024. Ringkonnakohus tühistas selle 15.04.2024 menetlusõiguslikel põhjustel.
+- **2-23-3752** - VIIMA COM OÜ vs TYCOON OÜ (osanike otsuste vaidlustamine). 
+  - 21.02.2024: Maakohus rahuldas hagi tagamise, kustutas Y. Petrovi äriregistrist
+  - 15.04.2024: Ringkonnakohus tühistas hagi tagamise määruse, põhjus: vastuhagi oli perspektiivitu (tuvastushuvi puudus)
+  - **OLULINE:** Tühistamine toimus menetlusõiguslikel, mitte sisulistel põhjustel. Ei öeldud, et Petrov oli legitiimne juhatuse liige.
+  - Põhivaidlus jätkub: kas osanike 08.12.2022 ja 17.01.2023 otsused olid kehtivad?
+  
 - **2-24-3226** - TYCOON OÜ kandeavaldus registrikande muutmiseks (Petrovi kustutamine, Grebenyuki lisamine)
+  - 14.02.2024: Savitski esitas kandeavalduse
+  - 19.02.2024: Registriosakond peatas menetluse (otsused on vaidlustatud)
+  - 20.02.2025: Ringkonnakohus jättis peatamise jõusse
+
 - **2-23-12081** - Kompromiss selles asjas ei olnud asjakohane tõend esindusõiguse tõendamiseks
 
 ## Seotud analüüsid
