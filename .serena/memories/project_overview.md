@@ -18,22 +18,26 @@ Searchable archive of Estonian apartment association (korteriühistu) legal docu
 - **põhikirjad/** - KÜ bylaws (2019, 2023, 2024 versions)
 - Root .md files: kokkuvõte, kohtuasja-ülevaade, arvestusmetoodika-probleemid, õiguslikud-põhimõtted
 
-## Planned Structure
-- seadused/ - Laws
-- lepingud/ - Contracts
-- protokollid/ - Meeting minutes
+## seadused/ - Estonian Laws
 
-## Key Legal Terms
-- KÜ - Korteriühistu (apartment association)
-- KrtS - Korteriomandi- ja korteriühistuseadus
-- TsÜS - Tsiviilseadustiku üldosa seadus
-- VÕS - Võlaõigusseadus
-- TsMS - Tsiviilkohtumenetluse seadustik
-- põhikiri - bylaws
-- üldkoosolek - general meeting
-- majanduskava - economic plan/budget
+**Converter:** `.github/scripts/xml_to_md.py` (PR #11)
+
+| ID | Lühend | Seadus |
+|----|--------|--------|
+| 103042025002 | TsMS | Tsiviilkohtumenetluse seadustik |
+| 104122024003 | AOSRakS | Asjaõigusseaduse rakendamise seadus |
+| 111112025002 | AOS | Asjaõigusseadus |
+| 114032025004 | AdvS | Advokatuuriseadus |
+| 123122022004 | KrtS | Korteriomandi- ja korteriühistuseadus |
+| 123122022015 | MTÜS | Mittetulundusühingute seadus |
+| 131122024048 | TsÜS | Tsiviilseadustiku üldosa seadus |
+
+**File formats:**
+- `.akt` - Riigi Teataja XML source
+- `.pdf` - Official PDF for human reference
+- `.md` - LLM-friendly Markdown (auto-generated)
 
 ## Document Formats
-- Source: PDF, DOCX
-- Target: Markdown (CI conversion planned, see issue #1)
-- Currently some .txt conversions exist
+- Laws: XML (.akt) → Markdown (.md) via xml_to_md.py
+- Court docs: PDF
+- Analysis: Markdown
