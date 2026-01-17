@@ -1,4 +1,4 @@
-# Seadused / Estonian Laws
+# Estonian Laws
 
 Index of Estonian laws relevant to apartment association (korteriühistu) legal matters.
 
@@ -34,13 +34,13 @@ Use Markdown files - they include:
 ## Updating Laws
 
 1. Download latest XML from [Riigi Teataja](https://www.riigiteataja.ee) (click "Laadi alla" → XML)
-2. Save as `seadused/{RT_ID}.akt`
-3. Download PDF, save as `seadused/{RT_ID}.pdf`
+2. Save as `laws/{RT_ID}.akt`
+3. Download PDF, save as `laws/{RT_ID}.pdf`
 4. Commit and push - GitHub Actions will auto-generate Markdown
 
 **Manual conversion:**
 ```bash
-python3 .github/scripts/xml_to_md.py --input-dir seadused --output-dir seadused
+python3 .github/scripts/xml_to_md.py --input-dir laws --output-dir laws
 ```
 
 ## Riigi Teataja ID Format

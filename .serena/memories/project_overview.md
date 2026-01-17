@@ -3,29 +3,15 @@
 ## Purpose
 Searchable archive of Estonian apartment association (korteriühistu) legal documents. Law treated like software - versioned, searchable, cross-referenced.
 
-## Current Content
-- **analüüs/** - Legal analysis threads
-  - petrov-esindusõigus.md - Y. Petrovi esindusõiguse vaidlus TYCOON OÜ esindamisel
-  - savitski-teadmine.md - Advokaat Savitski teadmine Petrovi registristaatusest (2-23-3752, 2-24-3226)
-- **kohus/** - Court judgments and related documents
-  - Case 2-23-16691 (Võistluse tn 6 KÜ vs Tycoon OÜ) - all 3 court levels
-  - **Kaebus advokatuurile/** - Complaint against advocate Daniil Savitski
-    - Main complaint PDF
-    - kaebus/ - Attachments (Lisa 1-6): court docs, audio recording, screenshots
-  - **Aivar Orukaselt/** - Related case documents
-    - 2-23-3752 - hagi tagamise tühistamine (15.04.2024)
-    - 2-24-3226 - Tycoon OÜ kandeavaldus (20.02.2025)
-- **põhikirjad/** - KÜ bylaws (2019, 2023, 2024 versions)
-- Root .md files: kokkuvõte, kohtuasja-ülevaade, arvestusmetoodika-probleemid, õiguslikud-põhimõtted
+## Structure
 
-## seadused/ - Estonian Laws
-
-**Converter:** `.github/scripts/xml_to_md.py`
+### laws/ - Estonian Laws
+Converter: `.github/scripts/xml_to_md.py`
 - Auto-runs via GitHub Actions on `.akt` push
 - Supports superscript sections (§ 64¹ → #para64b1)
 
-| ID | Lühend | Seadus |
-|----|--------|--------|
+| ID | Abbr | Law |
+|----|------|-----|
 | 103042025002 | TsMS | Tsiviilkohtumenetluse seadustik |
 | 104122024003 | AOSRakS | Asjaõigusseaduse rakendamise seadus |
 | 111112025002 | AOS | Asjaõigusseadus |
@@ -34,12 +20,30 @@ Searchable archive of Estonian apartment association (korteriühistu) legal docu
 | 123122022015 | MTÜS | Mittetulundusühingute seadus |
 | 131122024048 | TsÜS | Tsiviilseadustiku üldosa seadus |
 
-**File formats:**
-- `.akt` - Riigi Teataja XML source
-- `.pdf` - Official PDF for human reference
-- `.md` - LLM-friendly Markdown (auto-generated)
+File formats: `.akt` (XML source), `.pdf` (official), `.md` (LLM-friendly, auto-generated)
+
+### court/ - Court Cases
+Organized by case number:
+- **2-23-16691/** - Main case: Võistluse tn 6 KÜ vs Tycoon OÜ (all 3 court levels)
+- **2-23-3752/** - Hagi tagamise tühistamine (2024-04-15)
+- **2-24-3226/** - Tycoon OÜ kandeavaldus (2025-02-20)
+- **bar-complaint/** - Complaint against advocate Daniil Savitski
+  - complaint-savitski.pdf
+  - attachments/ (court docs, hearing audio, screenshots)
+
+### analysis/ - Legal Analysis
+- 2-23-16691-overview.md - Case overview
+- 2-23-16691-summary.md - Lessons learned
+- 2-23-16691-accounting-issues.md - KÜ accounting methodology problems
+- 2-23-16691-legal-principles.md - KrtS and TsÜS principles
+- petrov-representation.md - Y. Petrovi representation dispute
+- savitski-knowledge.md - Advocate Savitski's knowledge of registry status
+
+### bylaws/ - KÜ Bylaws
+Three versions: 2019, 2023, 2024 (current)
 
 ## Document Formats
 - Laws: XML (.akt) → Markdown (.md) via xml_to_md.py
-- Court docs: PDF
+- Court docs: PDF, DOCX, TXT
 - Analysis: Markdown
+- Signed docs: .asice

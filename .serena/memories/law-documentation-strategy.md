@@ -68,7 +68,10 @@ Creates clickable links directly to paragraphs.
 
 ```bash
 # Convert all .akt files to .md
-python3 .github/scripts/xml_to_md.py --input-dir seadused --output-dir seadused
+python3 .github/scripts/xml_to_md.py --input-dir laws --output-dir laws
 ```
 
 Requires: `lxml`, `pyyaml`
+
+## Note
+Directory renamed from `seadused/` to `laws/` for English consistency.

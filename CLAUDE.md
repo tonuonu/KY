@@ -5,18 +5,20 @@ Searchable archive of Estonian apartment association (korteriühistu) legal docu
 ## Structure
 
 ```
-├── seadused/                   # Estonian laws (7 laws, XML→Markdown)
+├── laws/                       # Estonian laws (7 laws, XML→Markdown)
 │   ├── *.akt                   # Riigi Teataja XML source
 │   ├── *.md                    # Auto-generated Markdown (LLM-friendly)
 │   └── *.pdf                   # Official PDF reference
-├── analüüs/                    # Legal analysis threads
-│   ├── petrov-esindusõigus.md
-│   └── savitski-teadmine.md
-├── kohus/                      # Court judgments and proceedings
-│   ├── 2-23-16691-*            # Main case: Võistluse tn 6 KÜ vs Tycoon OÜ
-│   ├── Kaebus advokatuurile/   # Complaint to bar association
-│   └── Aivar Orukaselt/        # Related case documents
-├── põhikirjad/                 # KÜ bylaws (2019, 2023, 2024)
+├── court/                      # Court cases organized by case number
+│   ├── 2-23-16691/             # Main case: Võistluse tn 6 KÜ vs Tycoon OÜ
+│   ├── 2-23-3752/              # Hagi tagamise tühistamine
+│   ├── 2-24-3226/              # Tycoon OÜ kandeavaldus
+│   └── bar-complaint/          # Complaint to bar association
+├── analysis/                   # Legal analysis threads
+│   ├── 2-23-16691-*.md         # Case-specific analysis
+│   ├── petrov-representation.md
+│   └── savitski-knowledge.md
+├── bylaws/                     # KÜ bylaws (2019, 2023, 2024)
 ├── .serena/                    # Serena AI assistant config
 │   └── memories/               # Project knowledge (read these first!)
 └── .github/
@@ -33,7 +35,7 @@ Searchable archive of Estonian apartment association (korteriühistu) legal docu
 | `.pdf` | Official documents |
 | `.asice` | Digitally signed Estonian documents |
 
-## Laws (seadused/)
+## Laws
 
 | Lühend | Seadus | RT ID |
 |--------|--------|-------|
@@ -82,4 +84,4 @@ Read `.serena/memories/` first for project context:
 
 ## CI/CD
 
-GitHub Actions auto-converts `.akt` → `.md` on push to `seadused/`.
+GitHub Actions auto-converts `.akt` → `.md` on push to `laws/`.

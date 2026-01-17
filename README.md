@@ -5,21 +5,25 @@ Searchable archive of Estonian apartment association (korteriühistu) legal docu
 ## Structure
 
 ```
-├── seadused/           # Estonian laws (XML→Markdown, auto-converted)
-├── analüüs/            # Legal analysis threads
-├── kohus/              # Court judgments and proceedings
-├── põhikirjad/         # KÜ bylaws (2019, 2023, 2024)
+├── laws/               # Estonian laws (XML→Markdown, auto-converted)
+├── court/              # Court cases by case number
+│   ├── 2-23-16691/     # Main case: Võistluse tn 6 KÜ vs Tycoon OÜ
+│   ├── 2-23-3752/      # Hagi tagamise tühistamine
+│   ├── 2-24-3226/      # Tycoon OÜ kandeavaldus
+│   └── bar-complaint/  # Complaint to bar association
+├── analysis/           # Legal analysis threads
+├── bylaws/             # KÜ bylaws (2019, 2023, 2024)
 └── .github/
     ├── scripts/        # xml_to_md.py converter
     └── workflows/      # Auto-conversion on push
 ```
 
-## Laws (seadused/)
+## Laws
 
 7 Estonian laws with LLM-friendly Markdown, auto-generated from Riigi Teataja XML.
 
-| Lühend | Seadus |
-|--------|--------|
+| Abbr | Law |
+|------|-----|
 | KrtS | Korteriomandi- ja korteriühistuseadus |
 | AOS | Asjaõigusseadus |
 | TsMS | Tsiviilkohtumenetluse seadustik |
@@ -28,15 +32,15 @@ Searchable archive of Estonian apartment association (korteriühistu) legal docu
 | MTÜS | Mittetulundusühingute seadus |
 | AOSRakS | Asjaõigusseaduse rakendamise seadus |
 
-See [seadused/README.md](seadused/README.md) for details.
+See [laws/README.md](laws/README.md) for details.
 
-## Põhikirjad (Bylaws)
+## Bylaws
 
-| Kehtiv | Lõpp |
-|--------|------|
-| 13.12.2019 | 09.10.2023 |
-| 09.10.2023 | 30.07.2024 |
-| 30.07.2024 | - (kehtiv) |
+| Valid from | Valid to |
+|------------|----------|
+| 2019-12-13 | 2023-10-09 |
+| 2023-10-09 | 2024-07-30 |
+| 2024-07-30 | current |
 
 ## For AI Assistants
 
