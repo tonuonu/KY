@@ -59,9 +59,10 @@ Creates clickable links directly to paragraphs.
 **Closed (Deprecated):**
 - ❌ #1: PDF to Markdown converter - superseded by XML approach
 
-**Pending:**
-- #9: GitHub Actions workflow for auto-conversion
-- #10: seadused/README.md index
+**Completed:**
+- ✅ #9: GitHub Actions workflow (PR #13)
+- ✅ #10: seadused/README.md index (PR #12)
+- ✅ #14: Superscript (ylaIndeks/ülaindeks) support
 
 ## Usage
 

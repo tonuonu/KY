@@ -36,11 +36,12 @@ Use Markdown files - they include:
 1. Download latest XML from [Riigi Teataja](https://www.riigiteataja.ee) (click "Laadi alla" → XML)
 2. Save as `seadused/{RT_ID}.akt`
 3. Download PDF, save as `seadused/{RT_ID}.pdf`
-4. Run converter:
-   ```bash
-   python3 .github/scripts/xml_to_md.py --input-dir seadused --output-dir seadused
-   ```
-5. Commit all files
+4. Commit and push - GitHub Actions will auto-generate Markdown
+
+**Manual conversion:**
+```bash
+python3 .github/scripts/xml_to_md.py --input-dir seadused --output-dir seadused
+```
 
 ## Riigi Teataja ID Format
 
