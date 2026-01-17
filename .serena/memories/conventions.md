@@ -1,10 +1,15 @@
 # Document Conventions
 
 ## Naming
-### Court Judgments
-`{case-number}-{court-level}.md`
-- Example: `2-23-16691-maakohus.md`
+
+### Court Documents
+Organized by case number in `kohus/{case-number}/`
+- Example: `kohus/2-23-16691/maakohus.txt`
 - Court levels: maakohus, ringkonnakohus, riigikohus
+
+### Legal Analysis
+Case-prefixed in `analüüs/`
+- Example: `analüüs/2-23-16691-ülevaade.md`
 
 ### Bylaws
 `{organization}-pohikiri-{date}.md`

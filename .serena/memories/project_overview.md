@@ -4,19 +4,25 @@
 Searchable archive of Estonian apartment association (korteriühistu) legal documents. Law treated like software - versioned, searchable, cross-referenced.
 
 ## Current Content
-- **analüüs/** - Legal analysis threads
-  - petrov-esindusõigus.md - Y. Petrovi esindusõiguse vaidlus TYCOON OÜ esindamisel
-  - savitski-teadmine.md - Advokaat Savitski teadmine Petrovi registristaatusest (2-23-3752, 2-24-3226)
-- **kohus/** - Court judgments and related documents
-  - Case 2-23-16691 (Võistluse tn 6 KÜ vs Tycoon OÜ) - all 3 court levels
-  - **Kaebus advokatuurile/** - Complaint against advocate Daniil Savitski
-    - Main complaint PDF
-    - kaebus/ - Attachments (Lisa 1-6): court docs, audio recording, screenshots
-  - **Aivar Orukaselt/** - Related case documents
-    - 2-23-3752 - hagi tagamise tühistamine (15.04.2024)
-    - 2-24-3226 - Tycoon OÜ kandeavaldus (20.02.2025)
+
+### analüüs/ - Legal analysis
+- `2-23-16691-ülevaade.md` - Case overview
+- `2-23-16691-kokkuvõte.md` - Case summary
+- `2-23-16691-arvestusmetoodika.md` - Accounting methodology issues
+- `2-23-16691-õiguslikud-põhimõtted.md` - Legal principles
+- `petrov-esindusõigus.md` - Petrov representation authority
+- `savitski-teadmine.md` - Savitski knowledge analysis
+
+### kohus/ - Court documents (by case number)
+- **2-23-16691/** - Main case: Võistluse tn 6 KÜ vs Tycoon OÜ
+- **2-23-3752/** - Hagi tagamise tühistamine
+- **2-24-3226/** - Tycoon OÜ kandeavaldus
+- **kaebus-advokatuurile/** - Bar complaint against Savitski
 - **põhikirjad/** - KÜ bylaws (2019, 2023, 2024 versions)
-- Root .md files: kokkuvõte, kohtuasja-ülevaade, arvestusmetoodika-probleemid, õiguslikud-põhimõtted
+  - kokkuvõte.md - Kohtuasja kokkuvõte
+  - kohtuasja-ülevaade.md - Võistluse tn 6 KÜ vs TYCOON OÜ
+  - arvestusmetoodika-probleemid.md - KÜ arvestusmetoodika analüüs
+  - õiguslikud-põhimõtted.md - KrtS ja TsÜS põhimõtted
 
 ## seadused/ - Estonian Laws
 

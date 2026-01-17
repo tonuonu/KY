@@ -9,13 +9,15 @@ Searchable archive of Estonian apartment association (korteriühistu) legal docu
 │   ├── *.akt                   # Riigi Teataja XML source
 │   ├── *.md                    # Auto-generated Markdown (LLM-friendly)
 │   └── *.pdf                   # Official PDF reference
-├── analüüs/                    # Legal analysis threads
+├── analüüs/                    # Legal analysis (case-prefixed)
+│   ├── 2-23-16691-*.md         # Main case analysis files
 │   ├── petrov-esindusõigus.md
 │   └── savitski-teadmine.md
-├── kohus/                      # Court judgments and proceedings
-│   ├── 2-23-16691-*            # Main case: Võistluse tn 6 KÜ vs Tycoon OÜ
-│   ├── Kaebus advokatuurile/   # Complaint to bar association
-│   └── Aivar Orukaselt/        # Related case documents
+├── kohus/                      # Court documents (by case number)
+│   ├── 2-23-16691/             # Main case: Võistluse tn 6 KÜ vs Tycoon OÜ
+│   ├── 2-23-3752/              # Hagi tagamise tühistamine
+│   ├── 2-24-3226/              # Tycoon OÜ kandeavaldus
+│   └── kaebus-advokatuurile/   # Bar complaint (not a court case)
 ├── põhikirjad/                 # KÜ bylaws (2019, 2023, 2024)
 ├── .serena/                    # Serena AI assistant config
 │   └── memories/               # Project knowledge (read these first!)
