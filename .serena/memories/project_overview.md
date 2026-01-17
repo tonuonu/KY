@@ -20,7 +20,9 @@ Searchable archive of Estonian apartment association (korteriühistu) legal docu
 
 ## seadused/ - Estonian Laws
 
-**Converter:** `.github/scripts/xml_to_md.py` (PR #11)
+**Converter:** `.github/scripts/xml_to_md.py`
+- Auto-runs via GitHub Actions on `.akt` push
+- Supports superscript sections (§ 64¹ → #para64b1)
 
 | ID | Lühend | Seadus |
 |----|--------|--------|
