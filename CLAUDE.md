@@ -9,6 +9,7 @@ Serve as a searchable archive of legal documents for reference and analysis. Law
 ## Structure
 
 ```
+├── analüüs/                    # Legal analysis threads (õiguslikud analüüsid)
 ├── kohus/                      # Court judgments and proceedings
 │   ├── 2-23-16691-*            # Main case: Võistluse tn 6 KÜ vs Tycoon OÜ
 │   ├── Kaebus advokatuurile/   # Complaint to bar association
