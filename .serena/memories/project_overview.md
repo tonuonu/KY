@@ -4,6 +4,9 @@
 Searchable archive of Estonian apartment association (korteriühistu) legal documents. Law treated like software - versioned, searchable, cross-referenced.
 
 ## Current Content
+- **analüüs/** - Legal analysis threads
+  - petrov-esindusõigus.md - Y. Petrovi esindusõiguse vaidlus TYCOON OÜ esindamisel
+  - savitski-teadmine.md - Advokaat Savitski teadmine Petrovi registristaatusest (2-23-3752, 2-24-3226)
 - **kohus/** - Court judgments and related documents
   - Case 2-23-16691 (Võistluse tn 6 KÜ vs Tycoon OÜ) - all 3 court levels
   - **Kaebus advokatuurile/** - Complaint against advocate Daniil Savitski
