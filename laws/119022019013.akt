@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oigusakt id="61446b55-d357-48e2-a8b8-cef55c57f9b6" xsi:schemaLocation="maarus_1_10.02.2010 http://xmlr.eesti.ee/xml/schemas/oigusakt/maarus_1_10.02.2010.xsd" xmlns="maarus_1_10.02.2010" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metaandmed>
+		<valjaandja>Majandus- ja taristuminister</valjaandja>
+		<dokumentLiik>määrus</dokumentLiik>
+		<tekstiliik>terviktekst</tekstiliik>
+		<dokumentEtapp>avaldamine</dokumentEtapp>
+		<dokumentStaatus>avaldatud</dokumentStaatus>
+		<vastuvoetud>
+			<aktikuupaev>2017-07-10</aktikuupaev>
+			<avaldamismarge>
+				<RTosa>RT I</RTosa>
+				<avaldamineKuupaev>2017-07-14</avaldamineKuupaev>
+				<RTartikkel>7</RTartikkel>
+				<aktViide>114072017007</aktViide>
+			  </avaldamismarge>
+			  <joustumine>2017-07-17</joustumine>
+			  <aktiNr>37</aktiNr>
+		      </vastuvoetud>
+		
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2019-02-19+02:00</avaldamineKuupaev>
+			<RTaasta>2019</RTaasta>
+			<RTartikkel>13</RTartikkel>
+			<aktViide>119022019013</aktViide>
+		</avaldamismarge>
+		
+		<kehtivus>
+			<kehtivuseAlgus>2019-02-22</kehtivuseAlgus>
+		</kehtivus>
+		
+		<versioon>
+			<dokumentVersioon>1</dokumentVersioon>
+			<dokumentVersioonKuupaev>2019-02-12</dokumentVersioonKuupaev>
+		</versioon>
+		<skeemiNimi>maarus_1_10.02.2010.xsd</skeemiNimi>
+		<globaalID>119022019013</globaalID>
+		<metaandmedVersioon>10</metaandmedVersioon>
+		<metaandmedVersioonKuupaev>2019-02-18</metaandmedVersioonKuupaev>
+		<metaandmedVersioonPohjustaja>Maret Mauer</metaandmedVersioonPohjustaja>
+		<terviktekstiGrupiID>1039572</terviktekstiGrupiID>
+		<eesmark>Määruse raamskeem XML struktuuri koostamiseks</eesmark>
+		<versiooniMuutus>
+			<dokumentEtapp>avaldamine</dokumentEtapp>
+			<dokumentStaatus>esitatud avaldamiseks</dokumentStaatus>
+			<metaandmedVersioon>5</metaandmedVersioon>
+			<metaandmedVersioonKuupaev>2017-07-13</metaandmedVersioonKuupaev>
+			<metaandmedVersioonPohjustaja>Maret Mauer</metaandmedVersioonPohjustaja>
+		</versiooniMuutus>
+	</metaandmed>
+	<aktinimi id="0051de1e-c0de-408b-98e6-9e18083a5314">
+		<nimi id="85a4a332-ebb3-4a3e-9260-efd6132c1f68">
+			<pealkiri id="4096f3ed-87bf-4d31-bf52-be98ab90f099">Lõhkematerjalile ja pürotehnilisele tootele, nende nõuetele vastavuse tõendamisele ja käibe jälgitavusele ning arvestuse pidamisele esitatavad nõuded</pealkiri>
+			<normtehnmarkus id="d40f22ff-bf72-4e06-b437-e836d515471a">
+				<normtehnmarkusNr id="d4de854f-6e50-4977-b75e-a864643a0fa3">1</normtehnmarkusNr>
+			</normtehnmarkus>
+		</nimi>
+	</aktinimi>
+	<muutmismarge id="5677e654-b360-4869-85c0-70ed287c0cd4">
+		<aktikuupaev id="a0e407ca-1d95-421c-93f2-f136bf444655">2019-02-05</aktikuupaev>
+		<avaldamismarge id="939e5139-4127-4708-982e-d6cf2bc10f88">
+			<RTosa id="35991c22-ca38-4298-8ecc-74d07c434891">RT I</RTosa>
+			<avaldamineKuupaev id="396f1707-3340-4027-a4a0-6e5a4dd473b8">2019-02-19</avaldamineKuupaev>
+			<RTartikkel id="11a07131-ab42-488e-bb97-6cd4faae7488">1</RTartikkel>
+			<aktViide id="ccbdaa6e-d12f-49e0-b5ef-d791171db006">119022019001</aktViide>
+		</avaldamismarge>
+		<joustumine id="1eb1710d-6814-451b-b74a-502e39eb63ce">2019-02-22</joustumine>
+	</muutmismarge>
+	<sisu id="0ab2f99c-fce9-43a2-b2fa-0585352dff0f">
+		<preambul id="6644d372-3945-4875-a0f3-af1bfb2f93be">
+			<tavatekst id="27f3c1f1-fd30-4d73-9f11-e3c06a3edebf">Määrus kehtestatakse </tavatekst>
+			<viide id="189ec86c-7c74-4359-8414-7adea4625d4b">
+				<kuvatavTekst id="dc5c9c33-7768-4e8c-9bb4-99dd6076d941"><![CDATA[toote nõuetele vastavuse seaduse]]></kuvatavTekst>
+				<viideURID id="837a6d91-24b2-4711-ae68-7064a8bfbb71">
+					<viideURI id="3fba30f2-a6d8-4659-a2a1-34cc0a46cf29"><![CDATA[./dyn=119022019013&id=112122018067!pr5lg4]]></viideURI>
+				</viideURID>
+			</viide>
+			<tavatekst id="d2307f9e-1de9-4acf-aea6-ca7354af6127"> § 5 lõike 4 ja Vabariigi Valitsuse 26. augusti 2010. a määruse nr 123 „</tavatekst>
+			<viide id="6857c1f3-3892-4877-bafc-a63900791964">
+				<kuvatavTekst id="679a7105-9dad-443f-9a1a-b50d35354097"><![CDATA[Volituste andmine tootele nõuete ja vastavushindamise korra kehtestamiseks ning turujärelevalveasutuse määramiseks]]></kuvatavTekst>
+				<viideURID id="f5f27f1c-d5ff-49c5-b019-d0582001949e">
+					<viideURI id="b07f0417-4dff-43e5-8c3a-76a0958ea2d4"><![CDATA[./dyn=119022019013&id=115032016011!pr1lg1p14]]></viideURI>
+				</viideURID>
+			</viide>
+			<tavatekst id="2f02fdbd-4b41-432f-826e-a49675f79161">” § 1 lõike 1 punktide 14 ja 15 ning </tavatekst>
+			<viide id="66c25d90-9116-4283-ab79-cce6f48558f7">
+				<kuvatavTekst id="b1c0031d-271b-4551-bb27-e6f25bc75e0c"><![CDATA[lõhkematerjaliseaduse]]></kuvatavTekst>
+				<viideURID id="5a92bef8-0764-456c-92a1-8232a16892a9">
+					<viideURI id="82ce2f5b-54ef-4a86-a138-b4cb626507a9"><![CDATA[./dyn=119022019013&id=112122018051!pr6lg5]]></viideURI>
+				</viideURID>
+			</viide>
+			<tavatekst id="f568a45a-d663-4ca2-869f-77c3304341fb"> § 6 lõike 5 alusel.</tavatekst>
+		</preambul>
+		<paragrahv id="para1">
+			<paragrahvNr id="93a090b6-c727-479a-a2f7-6adc547e6bfd">1</paragrahvNr>
+			<kuvatavNr id="8b9ea71d-6396-4876-994b-814fe5cec94c"><![CDATA[§ 1. ]]></kuvatavNr>
+			<paragrahvPealkiri id="8e0b00c3-05e2-4170-b008-5efecc55e80a">Lõhkematerjalile ja lõhkematerjali nõuetele vastavuse tõendamisele esitatavad nõuded</paragrahvPealkiri>
+			<loige id="para1lg1">
+				<loigeNr id="b0b06492-42af-4a43-9d4e-5bb545b858ed"/>
+				<kuvatavNr id="393da4fe-a6c0-4302-8f60-4126ee831b86"/>
+				<sisuTekst id="372af3e9-e042-4c58-8514-11719c5492bc">
+					<tavatekst id="b29743ba-94e0-4bcb-9aca-6d6ac50d966b">Lõhkematerjal, millele kohaldub Euroopa Parlamendi ja nõukogu direktiiv 2014/28/EL tsiviilotstarbeliseks kasutamiseks mõeldud lõhkematerjalide turul kättesaadavaks tegemist ja järelevalvet käsitlevate liikmesriikide õigusaktide ühtlustamise kohta (ELT L 96, 29.03.2014, lk 1–44), peab vastama nimetatud direktiivist tulenevatele nõuetele ja selle nõuetele vastavust tuleb tõendada samas direktiivis ettenähtud korras.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para2">
+			<paragrahvNr id="4ce326ed-1c7b-4e3e-9c2c-6b20ef9225d0">2</paragrahvNr>
+			<kuvatavNr id="0a6bfca8-c055-4e2c-bc35-e1e9fdec8124"><![CDATA[§ 2. ]]></kuvatavNr>
+			<paragrahvPealkiri id="b922a526-3b7b-4719-9665-44f0c8ec98e5">Lõhkematerjali märgistamisele esitatavad nõuded</paragrahvPealkiri>
+			<loige id="para2lg1">
+				<loigeNr id="92c1e867-1292-49de-83ef-623352f82852">1</loigeNr>
+				<kuvatavNr id="a09c36bd-6041-4a32-bff4-287aae1a31ec"><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst id="69ac65e6-bcb6-493f-884b-0713770a14d2">
+					<tavatekst id="58c2b7b1-0422-41a6-aeb9-29ace752250a">Lõhkematerjal ja iga lõhkematerjali pakkeühik tuleb jälgitavuse tagamiseks märgistada unikaalsete identifitseerimisandmetega vastavalt Komisjoni direktiivile 2008/43/EÜ nõukogu direktiivi 93/15/EMÜ kohase tsiviilotstarbeliseks kasutamiseks mõeldud lõhkematerjalide identifitseerimise ja jälgitavuse süsteemi loomise kohta (ELT L 94, 05.04.2008, lk 8–12).</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para2lg2">
+				<loigeNr id="f2df960c-04df-45de-bd97-9d5ee71b90ff">2</loigeNr>
+				<kuvatavNr id="bc729740-1736-483a-a637-86b5380398af"><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst id="4b33f586-f818-41d2-96b5-1afe5c21add6">
+					<tavatekst id="06ca5532-18ed-4c2f-93f3-91f2f24c7837">Kui lõhkematerjal valmistatakse ekspordiks Euroopa Majanduspiirkonna välisesse riiki, ei pea lõhkematerjal olema märgistatud käesoleva paragrahvi lõike 1 kohaselt tingimusel, et lõhkematerjal märgistatakse importiva riigi nõuete kohaselt ja see märgistus võimaldab lõhkematerjali identifitseerida.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para2lg3">
+				<loigeNr id="44be54cb-974e-4da1-8d5b-76d69c16a88d">3</loigeNr>
+				<kuvatavNr id="25a287e5-6d40-4571-affe-a07b3354a00e"><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst id="b9eb4b35-7938-45ff-b8c3-ed4007e4257f">
+					<tavatekst id="d5da48be-15ce-40e4-85b4-f9d241f68652">Tarbijakaitse ja Tehnilise Järelevalve Amet omistab igale lõhkematerjali tootmiskohale Eestis unikaalse koodi, milles Eesti tunnustähed on EE.</tavatekst>
+				</sisuTekst>
+				<muutmismarge id="7f0464c9-ff7f-4da0-9d2e-8fd20356114b">
+					<avaldamismarge id="2acbb518-5974-4287-b2ad-aef04ef310ab">
+						<RTosa id="de031d20-e04c-4632-9759-1b292512370c">RT I</RTosa>
+						<avaldamineKuupaev id="fe24215b-6e12-4e47-aad2-946b439c8fdd">2019-02-19</avaldamineKuupaev>
+						<RTartikkel id="cbc67568-2489-4c17-b3ad-8706da3fdda6">1</RTartikkel>
+						<aktViide id="1347ce52-5940-470c-a36d-5f7cc1b0cae8">119022019001</aktViide>
+					</avaldamismarge>
+					<joustumine id="73865721-3c6f-4363-8328-058633855170">2019-02-22</joustumine>
+				</muutmismarge>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para3">
+			<paragrahvNr id="e3995b90-1e50-426b-817c-fd1b5be07229">3</paragrahvNr>
+			<kuvatavNr id="581bc3df-fdb6-4716-a5f5-6ba788c88c08"><![CDATA[§ 3. ]]></kuvatavNr>
+			<paragrahvPealkiri id="24318486-27c9-4030-85fa-b579f92e05f6">Pürotehnilisele tootele ja selle vastavushindamisele ning jälgitavusele esitatavad nõuded</paragrahvPealkiri>
+			<loige id="para3lg1">
+				<loigeNr id="0dccbf74-8272-4f43-8290-9784cf7bbae8">1</loigeNr>
+				<kuvatavNr id="595df404-6fbb-49f4-ada6-a6face7ffcac"><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst id="f9bd24ec-aa18-4360-9d58-3d71dfa09319">
+					<tavatekst id="5acd3622-7be3-4762-bb5f-54e5d4018076">Pürotehniline toode, millele kohaldub Euroopa Parlamendi ja nõukogu direktiiv 2013/29/EL pürotehniliste toodete turul kättesaadavaks tegemist käsitlevate liikmesriikide õigusaktide ühtlustamise kohta (ELT L 178, 28.06.2013, lk 27–65), peab vastama nimetatud direktiivist tulenevatele nõuetele ja selle nõuetele vastavust tuleb tõendada samas direktiivis ettenähtud korras.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para3lg2">
+				<loigeNr id="276ec980-8fea-4afa-b035-3260f7de82d3">2</loigeNr>
+				<kuvatavNr id="304b57a3-6518-49e6-8c14-f77fe29f4027"><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst id="b750418d-7b52-4915-a6e6-4bff9ae2f70a">
+					<tavatekst id="bc3999af-3544-4a2a-b29e-84d872988fe8">Pürotehniline toode peab olema varustatud kasutusjuhisega või märgisega ohutu käitlemise, ladustamise ja kasutamise ning hävitamise kohta. Tarbijale mõeldud pürotehnilise toote puhul peab teave olema esitatud eesti keeles.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para3lg3">
+				<loigeNr id="86793627-563b-4a0c-8b91-b76a69de37bb">3</loigeNr>
+				<kuvatavNr id="43ed7f6e-b5c6-43f1-adff-9d0070bd45d9"><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst id="33c1719d-c4d9-48c4-8c15-1d1bb49bad8f">
+					<tavatekst id="44bf60dc-a791-4b7c-bb3a-cc6def5ea29f">Pürotehnilise toote jälgitavuse tagamiseks peab pürotehniline toode olema märgistatud vastavalt Komisjoni rakendusdirektiivile 2014/58/EL, millega Euroopa Parlamendi ja nõukogu direktiivi 2007/23/EÜ alusel kehtestatakse pürotehniliste toodete jälgitavuse süsteem (ELT L 115, 17.04.2014, lk 28–31).</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para4">
+			<paragrahvNr id="8a5b3e71-5464-4ae4-8dbf-f4c68414a012">4</paragrahvNr>
+			<kuvatavNr id="97ddb728-d273-4ff8-9f62-4e1e35886689"><![CDATA[§ 4. ]]></kuvatavNr>
+			<paragrahvPealkiri id="5dff2bd4-b13f-4908-8691-349c529606bb">Pürotehnilise toote käibe üle arvestuse pidamine</paragrahvPealkiri>
+			<loige id="para4lg1">
+				<loigeNr id="485b8ef4-cddf-409f-9dcd-8d5b348b9cb5">1</loigeNr>
+				<kuvatavNr id="817d0f27-a59e-41c5-b299-3ef61d92922f"><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst id="fc16e661-adcd-477c-94f4-b245b05ff8b1">
+					<tavatekst id="00768ea8-0d0b-4c46-93a9-bb1aeb29c0f1">Pürotehnilise toote tootja ja importija peavad arvestust pürotehniliste toodete kohta, mille nad on turul kättesaadavaks teinud.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para4lg2">
+				<loigeNr id="4b1958f4-9546-45ea-816a-865eed94cc16">2</loigeNr>
+				<kuvatavNr id="ad5a62ae-f469-40f4-a739-c45b569956ca"><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst id="d2086411-dbc4-4e07-bda9-185d50ef2554">
+					<tavatekst id="7388b66c-219a-4d7f-99dc-d1b5cac6a2a3">Pürotehniliste toodete käibe üle tuleb arvestust pidada selliselt, et oleks võimalik tuvastada, kellele on pürotehniline toode üle antud ja kellelt on vastu võetud ning millal.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para4lg3">
+				<loigeNr id="f30723d7-de40-467b-a277-e01d37ba1a69">3</loigeNr>
+				<kuvatavNr id="da746387-b91a-4c6c-b1b6-0281549e5079"><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst id="431fabb4-56fd-435e-964d-3da5050256b1">
+					<tavatekst id="495ac62c-a977-462b-b1d1-afd38c617978">Arvestuse pidamisel tuleb säilitada vähemalt pürotehnilise toote registreerimisnumber koos infoga kaubandusliku nimetuse, koguse, üldise tüübi ja vajadusel alatüübi ning tootmiskoha kohta.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para5">
+			<paragrahvNr id="540a42cc-e842-408c-942a-c5b07b04ab0f">5</paragrahvNr>
+			<kuvatavNr id="d21e5e16-9684-4b90-b2c7-15610a8104a2"><![CDATA[§ 5. ]]></kuvatavNr>
+			<paragrahvPealkiri id="c17bab6f-c279-41e3-9a0c-f4c998758d18">Lõhkematerjali käibe üle arvestuse pidamine</paragrahvPealkiri>
+			<loige id="para5lg1">
+				<loigeNr id="8f346e2f-84c6-4ccd-ad92-7cb0395a5c42">1</loigeNr>
+				<kuvatavNr id="e1cc608f-8d5a-4526-9cca-fa60a9af12d2"><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst id="b7a25dfb-91c3-4072-98a7-8040ea0de3ce">
+					<tavatekst id="66249bb0-b304-49b9-aed8-d6e83810ba4f">Lõhkematerjali käitleja peab tema valduses oleva lõhkematerjali käibe üle arvestust.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para5lg2">
+				<loigeNr id="a0c4d8ec-45d6-4f76-84b7-01f724a01557">2</loigeNr>
+				<kuvatavNr id="0ab30cd8-2ca0-4c8b-b3c2-51adc02aec46"><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst id="7015d812-0b92-4bca-8cb1-0ea0ee873ce2">
+					<tavatekst id="2dcd33ec-104f-4677-be1a-635755fdcac1">Lõhkematerjali käitleja täidab arvestuse pidamisega seoses järgmisi kohustusi ja nõudeid:</tavatekst>
+				</sisuTekst>
+				<alampunkt id="para5lg2p1">
+					<alampunktNr id="cbb59aa3-04c1-43a0-909b-367081e1406d">1</alampunktNr>
+					<kuvatavNr id="97cac934-94c0-4c98-a217-1ef7fe6773b9"><![CDATA[1) ]]></kuvatavNr>
+					<sisuTekst id="c56f1b41-2a11-4120-a8b7-88add414461e">
+						<tavatekst id="5da88355-f503-4580-b67a-d2135d3aaba2">arvestust tuleb pidada lõhkematerjalide kõikide identifitseerimisandmete kohta koos kogu asjakohase teabega, sealhulgas lõhkematerjali liik ja isik, kelle hoole alla need anti;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para5lg2p2">
+					<alampunktNr id="a7a92746-925b-401a-b2a1-37c7693fabe2">2</alampunktNr>
+					<kuvatavNr id="b2f00918-3c68-4a80-9e75-3bf614094673"><![CDATA[2) ]]></kuvatavNr>
+					<sisuTekst id="3483e601-73b7-43bb-820a-5bde338c80f6">
+						<tavatekst id="1cab732d-e2dc-4066-95fb-48f836c3f24f">arvestust tuleb pidada iga lõhkematerjali asukoha kohta kuni lõhkematerjali üleandmiseni teisele ettevõtjale või kasutamiseni;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para5lg2p3">
+					<alampunktNr id="72b0e94d-9ee6-419d-8547-922fe5088354">3</alampunktNr>
+					<kuvatavNr id="f7d1fa02-42ab-45a9-8388-f5c3ec7f2f9f"><![CDATA[3) ]]></kuvatavNr>
+					<sisuTekst id="872aba9f-1662-4947-b06e-b15f87707327">
+						<tavatekst id="94718988-b1ec-43d9-b470-811dd9e327ff">arvestuse pidamise süsteemi tuleb regulaarselt testida, et tagada selle tõhusus ja registreeritud andmete kvaliteet;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para5lg2p4">
+					<alampunktNr id="78928f47-bf03-48f6-9016-b43015a0a1b9">4</alampunktNr>
+					<kuvatavNr id="7d9f9f90-47d8-4dd0-82c1-2bc47bceb4d4"><![CDATA[4) ]]></kuvatavNr>
+					<sisuTekst id="72657d76-ab77-4e47-9451-365dfeac4888">
+						<tavatekst id="cbaa338c-b0ec-4104-a357-8dc63dc8e481">andmed peavad olema kaitstud juhusliku või tahtliku kahjustuse või hävimise eest;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para5lg2p5">
+					<alampunktNr id="048e3402-f7fd-4368-b447-7f5c57b2bf8b">5</alampunktNr>
+					<kuvatavNr id="c140e6b4-9738-456c-b995-7ece2bef6717"><![CDATA[5) ]]></kuvatavNr>
+					<sisuTekst id="a8bdfe65-d624-457c-a8d2-a7db4cbfe5a2">
+						<tavatekst id="9987934d-ab19-45ac-9f32-c895311d4059">arvestuse pidamise süsteemi teeb kandeid ainult selleks volitatud isik;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para5lg2p6">
+					<alampunktNr id="1f87f001-ce6c-4949-9b1e-3ccc5ad4ce2b">6</alampunktNr>
+					<kuvatavNr id="b9ffbbb1-33db-412d-8bfd-9c00f5e990ff"><![CDATA[6) ]]></kuvatavNr>
+					<sisuTekst id="4ffc19c2-6dcf-4075-a7df-9fe8423f88ba">
+						<tavatekst id="d4b1021f-4723-4b6a-b338-ab6069860ab0">välditud peab olema kõrvalise isiku juurdepääs arvestusraamatule ja selles kajastatud andmetele;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para5lg2p7">
+					<alampunktNr id="de892b02-5a5d-4eb4-9b3e-af3928a80f0a">7</alampunktNr>
+					<kuvatavNr id="0feeb179-2de3-487b-919f-d1ed9d6a3221"><![CDATA[7) ]]></kuvatavNr>
+					<sisuTekst id="77a8f17e-9fed-4476-a652-0a2cadc46c21">
+						<tavatekst id="d94f810f-5f7e-4e97-b1d3-8af98acf6d44">pädeva ametiasutuse nõudmisel tuleb esitada teave lõhkematerjali päritolu ja asukoha kohta selle lõhkematerjali elutsükli jooksul tarneahelas;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para5lg2p8">
+					<alampunktNr id="6e083011-b11d-4e5a-a8b5-30beb35352e5">8</alampunktNr>
+					<kuvatavNr id="3090a1c2-fea5-4ea9-8e9c-d3a1569cefc4"><![CDATA[8) ]]></kuvatavNr>
+					<sisuTekst id="27ddf67e-8289-44c3-a42b-013baef5c5a2">
+						<tavatekst id="c4847d7e-8262-49f3-9b9d-4039ca4c2444">arvestuse pidamise süsteemi kannete tegemine, salvestamine, parandamine ja kustutamine peavad olema fikseeritud vähemalt kuupäeva täpsusega ning selliselt, et kande tegija oleks tuvastatav;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para5lg2p9">
+					<alampunktNr id="6b3427a0-8a0a-4cd5-99ce-b7cc50217f6f">9</alampunktNr>
+					<kuvatavNr id="e7cbafc5-f1e4-4a6e-a564-9ee0a5b05ff9"><![CDATA[9) ]]></kuvatavNr>
+					<sisuTekst id="b6f28a3f-df81-4b73-a087-b644c1ad9548">
+						<tavatekst id="adf5f41c-576c-484a-af95-3b50b2798d9c">arvestuse pidamise süsteem ja selles kajastatud info säilivus ja loetavus peab olema tagatud.</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+			</loige>
+			<loige id="para5lg3">
+				<loigeNr id="afea3624-03ed-4a40-84e9-5ad67a802ef7">3</loigeNr>
+				<kuvatavNr id="53f3ab4d-2450-4308-bef5-071805eb59e8"><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst id="7f120d76-1240-4ca4-a92e-21362298e2e9">
+					<tavatekst id="dd140916-f682-47c0-8384-4325e55a7731">Lõhkematerjali käitleja teatab Päästeameti demineerimiskeskusele ning Kaitsepolitseiameti korrapidajale isiku nime ja kontaktandmed, kes annab käesoleva paragrahvi lõike 2 punktis 7 kirjeldatud teavet väljaspool tavalist tööaega.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para6">
+			<paragrahvNr id="d1dc1c09-bbb1-4895-ba85-3af2d12f4db9">6</paragrahvNr>
+			<kuvatavNr id="18af9648-846e-4d8d-af77-c3b6298b31b2"><![CDATA[§ 6. ]]></kuvatavNr>
+			<paragrahvPealkiri id="49c651d3-c836-4e67-b471-053c6ea0296b">Turujärelevalveasutus</paragrahvPealkiri>
+			<loige id="para6lg1">
+				<loigeNr id="4e83e844-b672-4d83-a172-2d3a0051afb0"/>
+				<kuvatavNr id="d203a19d-4147-4ffc-9122-addcd95b8b71"/>
+				<sisuTekst id="d9838e92-2078-4721-a73f-39535d3aef70">
+					<tavatekst id="f3946868-2e94-4ed7-8fee-758f114f44b4">Lõhkematerjalile ja pürotehnilisele tootele esitatavate nõuete järgimise üle teeb turujärelevalvet Tarbijakaitse ja Tehnilise Järelevalve Amet.</tavatekst>
+				</sisuTekst>
+				<muutmismarge id="cb99f9ad-eae4-47e4-b4e2-a6d257b32308">
+					<avaldamismarge id="619395dd-fe49-4023-ac97-05805b9813bd">
+						<RTosa id="92d5614e-dfb9-4bab-bcb2-72ac649d406a">RT I</RTosa>
+						<avaldamineKuupaev id="d6004d46-263a-41b9-a5dc-365d99a6cfff">2019-02-19</avaldamineKuupaev>
+						<RTartikkel id="a38ae9aa-7ddb-4591-9554-097ef01fd526">1</RTartikkel>
+						<aktViide id="325d6ef6-456d-4b4e-9ca6-8de35f656923">119022019001</aktViide>
+					</avaldamismarge>
+					<joustumine id="4885bb31-9b47-4c96-9046-729ca494102d">2019-02-22</joustumine>
+				</muutmismarge>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para7">
+			<paragrahvNr id="2e6d5952-7dac-4047-a4ee-ed8c667c639a">7</paragrahvNr>
+			<kuvatavNr id="7b36053c-5bdf-4746-b846-76f12418e990"><![CDATA[§ 7. ]]></kuvatavNr>
+			<paragrahvPealkiri id="8653f32e-8bd0-4cc6-b6e0-4ea6ff527cbf">Üleminekusätted</paragrahvPealkiri>
+			<loige id="para7lg1">
+				<loigeNr id="dc8ed658-8d2c-4e82-a027-c6a3fbedf6cd">1</loigeNr>
+				<kuvatavNr id="5233a8e8-941c-4d32-a153-a47d64ad9b48"><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst id="6dff423e-035c-47f4-8580-7985c689bb70">
+					<tavatekst id="16172e4a-d24c-4d75-9d29-760deb18c1a5">Enne 1. juulit 2015. aastal turule lastud pürotehnilisi tooteid, mis vastavad Euroopa Parlamendi ja nõukogu direktiivis 2007/23/EÜ pürotehniliste toodete turule laskmise kohta (ELT L 154, 14.06.2007, lk 1–21) sätestatud nõuetele, võib turul kättesaadavaks teha ka pärast 4. juulit 2017. aastal.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para7lg2">
+				<loigeNr id="ee6dc5d9-7ebb-4742-8d5c-f67a1619edc6">2</loigeNr>
+				<kuvatavNr id="e9badbd2-2b2c-4c04-8b12-92532c71d2f1"><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst id="65fa7ff3-d6a7-44b7-a2de-b1dda6b6761f">
+					<tavatekst id="ca6ee647-d66b-437f-b41e-edce848829f0">Kuni 3. juulini 2017. aastal kehtinud lõhkematerjaliseaduse § 93 lõike 7 kohaselt Eestis turule lastud pürotehnilisi tooteid võib turul kättesaadavaks teha kuni 4. juulini 2018. aastal.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para8">
+			<paragrahvNr id="10159f67-512d-476c-aa94-f04861ace6ac">8</paragrahvNr>
+			<kuvatavNr id="78dc7616-f3ed-49a5-91ed-57e96b0a841e"><![CDATA[§ 8. ]]></kuvatavNr>
+			<paragrahvPealkiri id="7107c7f5-db57-4e6e-ac9e-057edd1b8a80">Määruste kehtetuks tunnistamine</paragrahvPealkiri>
+			<loige id="para8lg1">
+				<loigeNr id="5dec8f8e-8d30-4a02-8221-6fb825b2edc4"/>
+				<kuvatavNr id="233be826-eb7d-4a26-8e7c-fb1e00832136"/>
+				<sisuTekst id="60c1398a-49ee-44f5-aa67-c0c0ffe3dae6">
+					<tavatekst id="ce6c503d-d5e2-4b1a-a6ac-947be0db3090">[Käesolevast tekstist välja jäetud.]</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+	</sisu>
+	<normtehnmarkus id="e501bc9b-b129-4ce4-aa72-3129eb55815a">
+		<normtehnmarkusNr id="c4df63d4-9293-45e2-abc5-c29e5d94de16">1 </normtehnmarkusNr>
+		<normtehnmarkusTekst id="389d12c1-8b58-453c-97d4-09a00338a80a">Komisjoni direktiiv 2008/43/EÜ nõukogu direktiivi 93/15/EMÜ kohase tsiviilotstarbeliseks kasutamiseks mõeldud lõhkematerjalide identifitseerimise ja jälgitavuse süsteemi loomise kohta (ELT L 94, 05.04.2008, lk 8–12); Euroopa Parlamendi ja nõukogu direktiiv 2013/29/EL pürotehniliste toodete turul kättesaadavaks tegemist käsitlevate liikmesriikide õigusaktide ühtlustamise kohta (ELT L 178, 28.06.2013, lk 27–65); Euroopa Parlamendi ja nõukogu direktiiv 2014/28/EL tsiviilotstarbeliseks kasutamiseks mõeldud lõhkematerjalide turul kättesaadavaks tegemist ja järelevalvet käsitlevate liikmesriikide õigusaktide ühtlustamise kohta (ELT L 96, 29.03.2014, lk 1–44); Komisjoni rakendusdirektiiv 2014/58/EL, millega Euroopa Parlamendi ja nõukogu direktiivi 2007/23/EÜ alusel kehtestatakse pürotehniliste toodete jälgitavuse süsteem (ELT L 115, 17.04.2014, lk 28–31).</normtehnmarkusTekst>
+	</normtehnmarkus>
+</oigusakt>
