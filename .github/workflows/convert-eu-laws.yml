@@ -1,0 +1,36 @@
+name: Convert EU Laws HTML → Markdown
+
+on:
+  push:
+    paths:
+      - 'laws/EU_*.html'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install -r .github/scripts/requirements.txt
+      
+      - name: Convert HTML to Markdown
+        run: python .github/scripts/eurlex_to_md.py --input-dir laws --output-dir laws
+      
+      - name: Commit generated Markdown
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add laws/EU_*.md
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "Auto-generate Markdown from EU regulations HTML"
+          git push

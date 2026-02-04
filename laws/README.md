@@ -1,6 +1,6 @@
-# Estonian Laws
+# Laws
 
-Index of Estonian laws relevant to apartment association (korteriühistu) legal matters.
+Index of Estonian laws and EU regulations relevant to apartment association (korteriühistu) legal matters.
 
 ## Laws Index
 
@@ -14,7 +14,14 @@ Index of Estonian laws relevant to apartment association (korteriühistu) legal 
 | MTÜS | Mittetulundusühingute seadus | 2023-02-01 | [123122022015](https://www.riigiteataja.ee/akt/123122022015) | [MD](./123122022015.md) · [XML](./123122022015.akt) · [PDF](./123122022015.pdf) |
 | AOSRakS | Asjaõigusseaduse rakendamise seadus | 2025-01-01 | [104122024003](https://www.riigiteataja.ee/akt/104122024003) | [MD](./104122024003.md) · [XML](./104122024003.akt) · [PDF](./104122024003.pdf) |
 
-## File Formats
+## EU Regulations
+
+| Number | Title | Files |
+|--------|-------|-------|
+| 2019/945 | Delegeeritud määrus - mehitamata õhusõidukite süsteemid | [HTML](./EU_2019-945.html) |
+| 2019/947 | Rakendusmäärus - mehitamata õhusõidukite käitamiseeskirjad | [HTML](./EU_2019-947.html) |
+
+$1
 
 | Format | Purpose | Source |
 |--------|---------|--------|
@@ -22,18 +29,25 @@ Index of Estonian laws relevant to apartment association (korteriühistu) legal 
 | **PDF** (`.pdf`) | Official version for human verification | [Riigi Teataja](https://www.riigiteataja.ee) |
 | **Markdown** (`.md`) | LLM-friendly, auto-generated from XML | `xml_to_md.py` |
 
-### For Humans
-Use PDF files for official reference.
+### Estonian Laws
 
-### For LLMs (Claude/Serena)
-Use Markdown files - they include:
-- YAML frontmatter with metadata
-- Direct Riigi Teataja links for each §
-- Clean structure for easy searching
+| Format | Purpose | Source |
+|--------|---------|--------|
+| **XML** (`.akt`) | Source of truth with full structure | [Riigi Teataja](https://www.riigiteataja.ee) |
+| **PDF** (`.pdf`) | Official version for human verification | [Riigi Teataja](https://www.riigiteataja.ee) |
+| **Markdown** (`.md`) | LLM-friendly, auto-generated from XML | `xml_to_md.py` |
 
-## Updating Laws
+### EU Regulations
 
-1. Download latest XML from [Riigi Teataja](https://www.riigiteataja.ee) (click "Laadi alla" → XML)
+| Format | Purpose | Source |
+|--------|---------|--------|
+| **HTML** (`EU_*.html`) | Source of truth downloaded from EUR-Lex | [EUR-Lex](https://eur-lex.europa.eu) |
+| **Markdown** (`EU_*.md`) | LLM-friendly, auto-generated from HTML | `eurlex_to_md.py` |
+
+
+$1### Estonian Laws
+
+$2 from [Riigi Teataja](https://www.riigiteataja.ee) (click "Laadi alla" → XML)
 2. Save as `laws/{RT_ID}.akt`
 3. Download PDF, save as `laws/{RT_ID}.pdf`
 4. Commit and push - GitHub Actions will auto-generate Markdown
@@ -41,6 +55,18 @@ Use Markdown files - they include:
 **Manual conversion:**
 ```bash
 python3 .github/scripts/xml_to_md.py --input-dir laws --output-dir laws
+```
+
+### EU Regulations
+
+1. Go to [EUR-Lex](https://eur-lex.europa.eu) and find the regulation
+2. Select Estonian language, then HTML format
+3. Save as `laws/EU_{YEAR}-{NUMBER}.html` (e.g., `EU_2019-945.html`)
+4. Commit and push - GitHub Actions will auto-generate Markdown
+
+**Manual conversion:**
+```bash
+python3 .github/scripts/eurlex_to_md.py --input-dir laws --output-dir laws
 ```
 
 ## Riigi Teataja ID Format
