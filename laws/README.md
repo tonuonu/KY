@@ -1,8 +1,8 @@
 # Laws
 
-Index of Estonian laws and EU regulations relevant to apartment association (korteriühistu) legal matters.
+Index of Estonian laws and EU regulations.
 
-## Laws Index
+## Estonian Laws
 
 | Lühend | Seadus | Kehtiv | RT | Files |
 |--------|--------|--------|-----|-------|
@@ -13,23 +13,30 @@ Index of Estonian laws and EU regulations relevant to apartment association (kor
 | AdvS | Advokatuuriseadus | 2025-01-01 | [114032025004](https://www.riigiteataja.ee/akt/114032025004) | [MD](./114032025004.md) · [XML](./114032025004.akt) |
 | MTÜS | Mittetulundusühingute seadus | 2023-02-01 | [123122022015](https://www.riigiteataja.ee/akt/123122022015) | [MD](./123122022015.md) · [XML](./123122022015.akt) · [PDF](./123122022015.pdf) |
 | AOSRakS | Asjaõigusseaduse rakendamise seadus | 2025-01-01 | [104122024003](https://www.riigiteataja.ee/akt/104122024003) | [MD](./104122024003.md) · [XML](./104122024003.akt) · [PDF](./104122024003.pdf) |
+| LennS | Lennundusseadus | 2026-01-01 | [130122025023](https://www.riigiteataja.ee/akt/130122025023) | [MD](./130122025023.md) · [XML](./130122025023.akt) · [PDF](./130122025023.pdf) |
+| LMS | Lõhkematerjaliseadus | 2025-01-01 | [112122024009](https://www.riigiteataja.ee/akt/112122024009) | [MD](./112122024009.md) · [XML](./112122024009.akt) · [PDF](./112122024009.pdf) |
+
+## Estonian Regulations (määrused)
+
+These use a different XML schema and don't have auto-generated Markdown yet.
+
+| RT ID | Määrus | PDF |
+|-------|--------|-----|
+| 112092017004 | Lõhkematerjali kasutamise ja hävitamise nõuded | [PDF](./112092017004.pdf) |
+| 111072017013 | Lõhkaja, lõhkemeistri ja pürotehniku tervisenõuded | [PDF](./111072017013.pdf) |
+| 122082017001 | Pürotehnilise toote müügikohale, ilutulestiku korraldamisele ja pürotehnilise toote hävitamisele esitatavad nõuded | [PDF](./122082017001.pdf) |
+| 119022019013 | Lõhkematerjalile ja pürotehnilisele tootele, nende nõuetele vastavuse tõendamisele ja käibe jälgitavusele ning arvestuse pidamisele esitatavad nõuded | [PDF](./119022019013.pdf) |
 
 ## EU Regulations
 
 | Number | Title | Files |
 |--------|-------|-------|
-| 2019/945 | Delegeeritud määrus - mehitamata õhusõidukite süsteemid | [HTML](./EU_2019-945.html) |
-| 2019/947 | Rakendusmäärus - mehitamata õhusõidukite käitamiseeskirjad | [HTML](./EU_2019-947.html) |
+| 2019/945 | Delegeeritud määrus - mehitamata õhusõidukite süsteemid (droonid) | [MD](./EU_2019-945.md) · [HTML](./EU_2019-945.html) |
+| 2019/947 | Rakendusmäärus - mehitamata õhusõidukite käitamiseeskirjad | [MD](./EU_2019-947.md) · [HTML](./EU_2019-947.html) |
 
-$1
+## File Formats
 
-| Format | Purpose | Source |
-|--------|---------|--------|
-| **XML** (`.akt`) | Source of truth with full structure and metadata | [Riigi Teataja](https://www.riigiteataja.ee) |
-| **PDF** (`.pdf`) | Official version for human verification | [Riigi Teataja](https://www.riigiteataja.ee) |
-| **Markdown** (`.md`) | LLM-friendly, auto-generated from XML | `xml_to_md.py` |
-
-### Estonian Laws
+### Estonian Laws (seadused)
 
 | Format | Purpose | Source |
 |--------|---------|--------|
@@ -44,10 +51,11 @@ $1
 | **HTML** (`EU_*.html`) | Source of truth downloaded from EUR-Lex | [EUR-Lex](https://eur-lex.europa.eu) |
 | **Markdown** (`EU_*.md`) | LLM-friendly, auto-generated from HTML | `eurlex_to_md.py` |
 
+## Updating
 
-$1### Estonian Laws
+### Estonian Laws
 
-$2 from [Riigi Teataja](https://www.riigiteataja.ee) (click "Laadi alla" → XML)
+1. Download latest XML from [Riigi Teataja](https://www.riigiteataja.ee) (click "Laadi alla" → XML)
 2. Save as `laws/{RT_ID}.akt`
 3. Download PDF, save as `laws/{RT_ID}.pdf`
 4. Commit and push - GitHub Actions will auto-generate Markdown
