@@ -1,11 +1,15 @@
-# KY - Korteriühistu Legal Repository
+# KY - Legal Repository
 
-Searchable archive of Estonian apartment association (korteriühistu) legal documents. Law treated like software - versioned, searchable, cross-referenced.
+Searchable archive of Estonian laws, EU regulations, and legal documents. Law treated like software - versioned, searchable, cross-referenced.
 
 ## Structure
 
 ```
-├── laws/               # Estonian laws (XML→Markdown, auto-converted)
+├── laws/               # Estonian laws + EU regulations
+│   ├── *.akt           # Riigi Teataja XML
+│   ├── *.md            # Auto-generated Markdown
+│   ├── EU_*.html       # EUR-Lex HTML
+│   └── EU_*.md         # Auto-generated EU Markdown
 ├── court/              # Court cases by case number
 │   ├── 2-23-16691/     # Main case: Võistluse tn 6 KÜ vs Tycoon OÜ
 │   ├── 2-23-3752/      # Hagi tagamise tühistamine
@@ -14,13 +18,13 @@ Searchable archive of Estonian apartment association (korteriühistu) legal docu
 ├── analysis/           # Legal analysis threads
 ├── bylaws/             # KÜ bylaws (2019, 2023, 2024)
 └── .github/
-    ├── scripts/        # xml_to_md.py converter
+    ├── scripts/        # xml_to_md.py, eurlex_to_md.py converters
     └── workflows/      # Auto-conversion on push
 ```
 
 ## Laws
 
-7 Estonian laws with LLM-friendly Markdown, auto-generated from Riigi Teataja XML.
+### Estonian Laws (9)
 
 | Abbr | Law |
 |------|-----|
@@ -31,8 +35,17 @@ Searchable archive of Estonian apartment association (korteriühistu) legal docu
 | AdvS | Advokatuuriseadus |
 | MTÜS | Mittetulundusühingute seadus |
 | AOSRakS | Asjaõigusseaduse rakendamise seadus |
+| LennS | Lennundusseadus |
+| LMS | Lõhkematerjaliseadus |
 
-See [laws/README.md](laws/README.md) for details.
+### EU Regulations (2)
+
+| Number | Title |
+|--------|-------|
+| 2019/945 | Delegeeritud määrus - droonide nõuded |
+| 2019/947 | Rakendusmäärus - droonide käitamiseeskirjad |
+
+See [laws/README.md](laws/README.md) for full details.
 
 ## Bylaws
 
@@ -45,4 +58,3 @@ See [laws/README.md](laws/README.md) for details.
 ## For AI Assistants
 
 See [CLAUDE.md](CLAUDE.md) for detailed instructions.
-
