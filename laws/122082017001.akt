@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oigusakt id="3638e4e8-e129-4267-a749-b83e1f28c8e8" xsi:schemaLocation="maarus_1_10.02.2010 http://xmlr.eesti.ee/xml/schemas/oigusakt/maarus_1_10.02.2010.xsd" xmlns="maarus_1_10.02.2010" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metaandmed>
+		<valjaandja>Majandus- ja taristuminister</valjaandja>
+		<dokumentLiik>määrus</dokumentLiik>
+		<tekstiliik>algtekst-terviktekst</tekstiliik>
+		<dokumentEtapp>avaldamine</dokumentEtapp>
+		<dokumentStaatus>avaldatud</dokumentStaatus>
+		<vastuvoetud>
+			<aktikuupaev>2017-08-17</aktikuupaev>
+			<aktiNr>45</aktiNr>
+		</vastuvoetud>
+		<avaldamismarge><RTosa>RT I</RTosa><avaldamineKuupaev>2017-08-22</avaldamineKuupaev><RTaasta>2017</RTaasta><RTartikkel>1</RTartikkel><aktViide>122082017001</aktViide></avaldamismarge><kehtivus><kehtivuseAlgus>2017-08-25+03:00</kehtivuseAlgus></kehtivus><versioon>
+			<dokumentVersioon>1</dokumentVersioon>
+			<dokumentVersioonKuupaev>2017-08-21</dokumentVersioonKuupaev>
+		</versioon>
+		<skeemiNimi>maarus_1_10.02.2010.xsd</skeemiNimi>
+		<globaalID>122082017001</globaalID>
+		<metaandmedVersioon>5</metaandmedVersioon>
+		<metaandmedVersioonKuupaev>2017-08-21</metaandmedVersioonKuupaev>
+		<metaandmedVersioonPohjustaja>Maret Mauer</metaandmedVersioonPohjustaja>
+		<terviktekstiGrupiID>1039751</terviktekstiGrupiID><eesmark>Määruse raamskeem XML struktuuri koostamiseks</eesmark>
+	</metaandmed>
+	<aktinimi>
+		<nimi>
+			<pealkiri>Pürotehnilise toote müügikohale, ilutulestiku korraldamisele ja pürotehnilise toote hävitamisele esitatavad nõuded</pealkiri>
+		</nimi>
+	</aktinimi>
+	<sisu>
+		<preambul>
+			<tavatekst>Määrus kehtestatakse </tavatekst>
+			<viide>
+				<kuvatavTekst><![CDATA[lõhkematerjaliseaduse]]></kuvatavTekst>
+				<viideURID>
+					<viideURI><![CDATA[./dyn=122082017001&id=121062017001!pr5lg6]]></viideURI>
+				</viideURID>
+			</viide>
+			<tavatekst> § 5 lõike 6 ja § 24 lõike 5 alusel.</tavatekst>
+		</preambul>
+		<paragrahv id="para1">
+			<paragrahvNr>1</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 1. ]]></kuvatavNr>
+			<paragrahvPealkiri>Pürotehnilise toote müügikohale esitatavad nõuded</paragrahvPealkiri>
+			<loige id="para1lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Pürotehnilise toote müügikoht ei või paikneda:</tavatekst>
+				</sisuTekst>
+				<alampunkt id="para1lg1p1">
+					<alampunktNr>1</alampunktNr>
+					<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>hoones, mis on ette nähtud peamiselt avaliku ürituse korraldamiseks;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para1lg1p2">
+					<alampunktNr>2</alampunktNr>
+					<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>tule- ja plahvatusohtliku aine hoidmise koha vahetus läheduses;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para1lg1p3">
+					<alampunktNr>3</alampunktNr>
+					<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>hoones selliselt, et see takistaks õnnetuse korral inimeste evakuatsiooni või raskendaks õnnetuse tagajärgi.</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+			</loige>
+			<loige id="para1lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Pürotehniline toode peab müügikohas olema paigutatud selliselt, et see ei oleks kättesaadav kõrvalisele isikule. See nõue ei kehti selvemüügis lubatud pürotehnilise toote müügil.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para1lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Pürotehnilise toote müügikohas, millel ei ole lõhkematerjaliseaduse kohaselt nõutav käitamisluba, võib hoida kuni 20 kilogrammi (neto) pürotehnilisi tooteid suletud letitagusel riiulil või vitriinis ning kuni 80 kilogrammi (neto) müügikoha juures asuvas lukustatavas metallkapis või -kastis (edaspidi <i>metallkapp</i>). Käesolevas lõikes sätestatud nõuded ei kehti selvemüügis lubatud pürotehnilise toote müügil.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para1lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Metallkapi ukse välisküljel peab olema Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1272/2008, mis käsitleb ainete ja segude klassifitseerimist, märgistamist ja pakendamist ning millega muudetakse direktiive 67/548/EMÜ ja 1999/45/EÜ ja tunnistatakse need kehtetuks ning muudetakse määrust (EÜ) nr 1907/2006 (ELT L 353, 31.12.2008, lk 1–1355), kohane ohumärgis.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para1lg5">
+				<loigeNr>5</loigeNr>
+				<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Pürotehnilise toote ja ka selle hoidmiseks kasutatava metallkapi lähedal ei tohi olla muud kergestisüttivat ainet. Pürotehnilise toote ja ka selle hoidmiseks kasutatava metallkapi hoidmise koha kaugus küttekehast peab olema vähemalt üks meeter, seejuures ei tohi metallkapist meetri kaugusel olla temperatuur üle 65 Celsiuse kraadi.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para1lg6">
+				<loigeNr>6</loigeNr>
+				<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Tulekahju korral tuleb pürotehnilise toote metallkapp kohe sulgeda ning vitriinis ja riiulil olevad tooted laialipaiskumise vältimiseks katta tulekustutusvaibaga või muu sobiva kattega.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para2">
+			<paragrahvNr>2</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 2. ]]></kuvatavNr>
+			<paragrahvPealkiri>Ilutulestiku ohutusnõuded</paragrahvPealkiri>
+			<loige id="para2lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ilutulestiku korraldamise koht tuleb valida selliselt, et tagatud oleks piisav ohuala. Ilutulestiku ohuala ulatus on kaugus laskekohast, mille sees võib tekkida oht inimesele, varale ja keskkonnale kukkuvatest ilutulestiku jäätmetest, suitsust või tõrke andnud efektilaengust.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para2lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ohuala ulatuse määrab ilutulestiku korraldaja sõltuvalt ilmastikuoludest, pürotehnilise toote kaliibrist, laskesuunast ja laskmise kaldenurgast ning pürotehnilisest efektist ja arvestades pürotehnilise toote kasutusjuhendis nimetatud ohutut kaugust.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para2lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ohualas ei tohi viibida ilutulestiku korraldamisega mitteseotud isik. Kui see on asjakohane, tuleb ilutulestiku ohuala tähistada ja tagada valve selliselt, et ohualasse ei satuks kõrvaline isik.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para2lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Lisaks muudele asjakohastele ilutulestiku ohutusnõuetele tuleb enne siseilutulestiku alustamist rakendada järgmisi abinõusid:</tavatekst>
+				</sisuTekst>
+				<alampunkt id="para2lg4p1">
+					<alampunktNr>1</alampunktNr>
+					<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>ilutulestiku tegemise kohast ja selle vahetust ümbrusest tuleb eemaldada kergestisüttiv materjal või see materjal süttimiskindlalt katta või töödelda;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para2lg4p2">
+					<alampunktNr>2</alampunktNr>
+					<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>ilutulestiku tegemise kohas peavad olema tulekustutusvahendid;</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+				<alampunkt id="para2lg4p3">
+					<alampunktNr>3</alampunktNr>
+					<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>kui ilutulestiku tõttu võib rakenduda automaatne tulekahjusignalisatsioonisüsteem, võib hoone selles osas omaniku nõusolekul automaatse tulekahjusignalisatsioonisüsteemi ilutulestiku ajaks välja lülitada, võttes kasutusele lisameetmed ohutuse tagamiseks.</tavatekst>
+					</sisuTekst>
+				</alampunkt>
+			</loige>
+			<loige id="para2lg5">
+				<loigeNr>5</loigeNr>
+				<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ilutulestik tuleb ära jätta või katkestada, kui tugeva tuule või muu asjaolu tõttu kaasneks vahetu oht inimesele, keskkonnale või varale.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para2lg6">
+				<loigeNr>6</loigeNr>
+				<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui see on asjakohane, peab ilutulestiku tegemise kohas olema piisav hulk esmaseid tulekustutusvahendeid. Nende asukoht peab olema teada kõigile ilutulestiku ettevalmistamises osalejatele ja nad peavad oskama neid kasutada.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para2lg7">
+				<loigeNr>7</loigeNr>
+				<kuvatavNr><![CDATA[(7)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Ilutulestiku ettevalmistamise ja korraldamise ajal peab tagama, et pürotehniline toode ei oleks kõrvalisele isikule kättesaadav. Sütik tuleb hoida pürotehnilisest tootest eraldi selliselt, et selle võimalik säde või plahvatus ei kanduks edasi pürotehnilisele tootele.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para2lg8">
+				<loigeNr>8</loigeNr>
+				<kuvatavNr><![CDATA[(8)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Kui pürotehniline toode ilutulestiku ajal ei süttinud, siis seda toodet ei tohi uuesti süüdata ja ilutulestiku korraldamisel kasutada. Sellist toodet tuleb käsitleda kui defektset pürotehnilist toodet.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para2lg9">
+				<loigeNr>9</loigeNr>
+				<kuvatavNr><![CDATA[(9)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Pärast ilutulestikku tuleb visuaalse vaatluse teel veenduda tõrkelaengu puudumises. Tõrkega pürotehniline toode tuleb laskekohalt eemaldada ja käsitleda kui defektset pürotehnilist toodet.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+		<paragrahv id="para3">
+			<paragrahvNr>3</paragrahvNr>
+			<kuvatavNr><![CDATA[§ 3. ]]></kuvatavNr>
+			<paragrahvPealkiri>Pürotehnilise toote hävitamisele esitatavad nõuded</paragrahvPealkiri>
+			<loige id="para3lg1">
+				<loigeNr>1</loigeNr>
+				<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Pürotehniline toode, mis on defektne, leitud, ei vasta nõuetele või on tunnistatud kasutuskõlbmatuks, tuleb hävitada. Defektne on tõrke andnud, niiskunud või vigastatud pürotehniline toode.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para3lg2">
+				<loigeNr>2</loigeNr>
+				<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Pürotehnilise toote võib hävitada põletamisega, leotamisega või mehaanilisel teel selleks ettenähtud ja kohandatud kohas.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para3lg3">
+				<loigeNr>3</loigeNr>
+				<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Pürotehnik võib põletamisega hävitada põlemisel mitteplahvatava pürotehnilise toote, vältides põletatava pürotehnilise toote detoneerumise ohtu. Pürotehnik võib pürotehnilise toote hävitada ka ärakasutamise teel kohas, kus on välistatud oht inimesele, varale ja keskkonnale. Lõhkamisega võib pürotehnilise toote hävitada lõhkaja ja lõhkemeister.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para3lg4">
+				<loigeNr>4</loigeNr>
+				<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Enne hävitamist tuleb veenduda, et hävitamise koht on selleks sobiv ja et hävitamise ohualas ei ole inimesi ning sinna on välistatud kõrvalise isiku sattumine.</tavatekst>
+				</sisuTekst>
+			</loige>
+			<loige id="para3lg5">
+				<loigeNr>5</loigeNr>
+				<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>Pürotehnilise toote käitlemise tegevusluba omav ettevõtja koostab hävitamise kohta hävitamise akti, kuhu märgib hävitamise kuupäeva, hävitatud pürotehnilise toote nimetuse ja koguse, hävitamise viisi, hävitamise koha, hävitamise põhjuse ning hävitamise eest vastutanud isiku nime.</tavatekst>
+				</sisuTekst>
+			</loige>
+		</paragrahv>
+	</sisu>
+	<allkiri>
+		<allkiriKoht/>
+		<allkirjastaja>
+			<ametinimetus>Majandus- ja taristuminister</ametinimetus>
+			<eesnimi>Kadri</eesnimi>
+			<perekonnanimi>Simson</perekonnanimi>
+		</allkirjastaja>
+	</allkiri>
+	<allkiri>
+		<allkiriKoht/>
+		<allkirjastaja>
+			<ametinimetus>Kantsler</ametinimetus>
+			<eesnimi>Merike</eesnimi>
+			<perekonnanimi>Saks</perekonnanimi>
+		</allkirjastaja>
+	</allkiri>
+</oigusakt>
